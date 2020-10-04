@@ -26,4 +26,8 @@ Building is similar to building software: just type "make" on the prompt. See Ma
 * The paragraphs do not start indented in the DOCX and PDF formats.
 * Some obvious bugs were fixed (see BUGS).
 
+**Other projects**
+
+* Nemo makes scripts to make Cosmere books using various public sources: https://github.com/captn3m0/cosmere-books.
+
 guusj
