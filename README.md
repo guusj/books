@@ -24,6 +24,6 @@ Building is similar to building software: just type "make" on the prompt. See Ma
 * The table of contents is a lot longer since all chapters are included.
 * The chapters do not start with an initial (so in some cases a quotation mark needed to be added).
 * The paragraphs do not start indented in the DOCX and PDF formats.
-* Some obvious fixes were made (see BUGS).
+* Some obvious bugs were fixed (see BUGS).
 
 guusj

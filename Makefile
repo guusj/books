@@ -112,10 +112,10 @@ test.zip: $(ORGNAME)
 	$(EBOOKCNV) $< $@ $(INORGOPTS) $(OUTHTMLOPTS)
 
 releasebin: $(OUTEPUB) $(OUTMOBI) $(OUTDOCX) $(OUTPDF) $(OUTHTML)
-	zip -9 $(BOOKNAME)-$(REVISION).zip $^ LICENSE README.md
+	zip -9 $(BOOKNAME)-$(REVISION).zip $^ LICENSE README.md Changelog
 
 releasesrc:
-	zip -9 $(BOOKNAME)-$(REVISION)-src.zip $(INMARKDOWN) $(IMGFILES) $(DEFAULTCOVER) LICENSE README.md Makefile BUGS VERSION
+	zip -9 $(BOOKNAME)-$(REVISION)-src.zip $(INMARKDOWN) $(IMGFILES) $(DEFAULTCOVER) LICENSE README.md Makefile BUGS Changelog VERSION
 
 release: releasebin releasesrc
 
