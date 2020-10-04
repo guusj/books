@@ -1,4 +1,4 @@
-# Warbreaker (Brandon Sanderon) rev1.
+# Warbreaker (Brandon Sanderson) rev1.
 
 - Please read the Brandon Sanderson web page ([https://brandonsanderson.com](https://brandonsanderson.com)) about the author's view of releasing this book free to the public. Please respect the author's rights and buy his books if you like this one (or try another one even if you are not convinced by this book, he has written awesome books).
 - The books on github are created mechanically from the markdown file and it shows. This may be a good reason for buying the book if you liked it.
@@ -24,5 +24,6 @@ Building is similar to building software: just type "make" on the prompt. See Ma
 * The table of contents is a lot longer since all chapters are included.
 * The chapters do not start with an initial (so in some cases a quotation mark needed to be added).
 * The paragraphs do not start indented in the DOCX and PDF formats.
+* Some obvious fixes were made (see BUGS).
 
 guusj

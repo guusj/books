@@ -1114,7 +1114,7 @@ Denth and Tonk Fah didn’t wait for permission to eat her meal. “Your friend,
 _Princess_, the paper read. _Please trust these men. Denth has served me well for some measure now, and he is loyal—if any mercenary can be called loyal. He and his men have been paid, and I am confident he will stay true to us for the duration of his contract. I offer proof of authenticity by virtue of this password: bluemask._
 The writing was in Lemex’s hand. More than that, he had given the proper password. Not “bluemask”—that was misdirection. The true password was using the word “measure” instead of time. She glanced at Denth, who slurped out the insides of another claw.
 “Ah, now,” he said, tossing aside the shell. “This is the tricky part; she has to make a decision. Are we telling her the truth, or are we fooling her? Have we fabricated that letter? Or maybe we took the old spy captive and tortured him, forcing him to write the words.”
-“We could bring you his fingers as proof of our good faith,” Tonk Fah said. “Would that help?
+“We could bring you his fingers as proof of our good faith,” Tonk Fah said. “Would that help?”
 Vivenna raised an eyebrow. “Mercenary humor?”
 “Such that it is,” Denth said with a sigh. “We’re not generally a clever lot. Otherwise, we’d probably have selected a profession without such a high mortality rate.”
 “Like your profession, Princess,” Tonks said. “Good lifespans, usually. I’ve often wondered if I should apprentice myself to one.”
@@ -2510,7 +2510,7 @@ Most of the schemes did, however, require a display of Vivenna’s Royal Locks a
 Denth led them to a table in the corner, and Vivenna frowned at how dirty the restaurant was. The only light came in the form of slim slatlike windows shining beams of sunlight through the ceiling, but even that was enough to show the grime. Despite her hunger, she quickly determined that she would not be eating anything at _this_ establishment. “Why do we keep switching restaurants, anyway?” she said, sitting down—but only after wiping off the stool with her handkerchief.
 “Harder to spy on us that way,” Denth said. “I keep warning you, Princess. This is more dangerous than it seems. Don’t let the simple meetings over food throw you off. In any other city, we’d be meeting in lairs, gambling parlors, or alleyways. Best to keep moving.”
 They settled down, and as if they hadn’t just come from their second lunch of the day, Denth and Tonk Fah ordered food. Vivenna sat quietly in her chair, preparing for the meeting. Gods Feast was something of a holy day in Hallandren—though, from what she’d seen, the people of the pagan city had no real concept of what a “holy day” should be. Instead of helping the monks in their fields or caring for the needy, the people took the evening off and splurged on meals—as if the gods wanted them to be extravagant.
-And perhaps they did. From what she’d heard, the Returned were prolifigate beings. It made sense for their followers to spend their “holy day” being idle and gluttonous.
+And perhaps they did. From what she’d heard, the Returned were profligate beings. It made sense for their followers to spend their “holy day” being idle and gluttonous.
 Their contact arrived before the food did. He walked in with two bodyguards of his own. He wore nice clothing—which meant bright clothing, in T’Telir—but his beard was long and greasy, and he appeared to be short several teeth. He pointed, and his bodyguards pulled a second table over next to Vivenna’s, then arranged three chairs by it. The man took a seat, careful to keep his distance from Denth and Tonk Fah.
 “A little paranoid, aren’t we?” Denth said.
 The man raised his hands. “Caution never hurt a man.”
@@ -2689,7 +2689,7 @@ He shook his head. “It will be hard to arrange, hard to keep quiet, and will m
 She nodded quietly. “I want to do it anyway. I have to do something, Denth. Something useful. Being paraded before these contacts of yours is helping. But I need to do more. If war is coming, we need to prepare these people. Help them, somehow.”
 She looked up, staring out toward the windows. Clod the Lifeless stood in the corner where Jewels had left him. Vivenna shivered, looking away. “I want to help my sister,” she said. “And I want to be useful to my people. But I can’t help feeling that I’m not doing much for Idris by staying in the city.”
 “Better than leaving,” Denth said.
-“Why?
+“Why?”
 “Because if you left, there wouldn’t be anyone to pay me.”
 She rolled her eyes.
 “I wasn’t joking,” Denth noted. “I really do like getting paid. However, there are better reasons to stay.”
@@ -5954,7 +5954,7 @@ Vasher shook his head. Pretty or not, the woman should never have come to Hallan
 Inside the room, Vivenna successfully managed to get the cloth to bring her cup, and she drank from it with a satisfied look that Vasher could just barely see from the side. He had the rope lower him to the ground. He ordered it to let go up above, then—once it had twisted down around his arm—he recovered his Breath and climbed the external steps to the room.
 - - -
 Vivenna turned as Vasher entered. She set down the cup, hurriedly stuffing the cloth in her pocket. _What does it matter if he sees me practicing?_ she thought, flushing. _It’s not like I have anything to hide._ But practicing before him was embarrassing. He was so stern, so unforgiving of faults. She didn’t like him to see her fail.
-Well?” she asked.
+“Well?” she asked.
 He shook his head. “Both the house you were using and the safe house in the slums are empty,” he said. “Denth is too clever to get caught like that. He must have figured that you would reveal his location.”
 Vivenna ground her teeth in frustration, settling back against the wall. Like the other rooms they had stayed in, this one was utterly simple. Their only possessions were a pair of bedrolls and their changes of clothing, all of which Vasher carried about in his duffel.
 Denth lived far more luxuriously. He could afford to—he now held all of Lemex’s money. _Clever bit, that_, she thought. _Giving me the money, making me feel like I was in charge. He knew all along that the gold was never out of his hands, just as I never was._
@@ -6165,7 +6165,7 @@ Lightsong shrugged.
 “Oh, that’s right,” she said. “Perhaps they’re just . . . what was it? Stunned, dazzled, and dumbfounded?”
 Lightsong smiled faintly, remembering their conversation a few months back. The day this all had started. Blushweaver looked at him, a longing in her eyes.
 “Indeed,” Lightsong said. “Or, perhaps, they’re really just ignoring you. In order to compliment you.”
-Blushweaver smiled. “And how, exactly, does ignoring me make a compliment?
+Blushweaver smiled. “And how, exactly, does ignoring me make a compliment?”
 “It provokes you to be indignant,” Lightsong said. “And we all know that is when you are in best form.”
 “You like my form, then?”
 “It has its uses. Unfortunately, I cannot compliment you by ignoring you as the others do. You see, only truly, _sincerely_ ignoring you would provide the intended compliment. I am, actually, helpless and unable to ignore you. I do apologize.”
