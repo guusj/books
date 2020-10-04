@@ -8,7 +8,7 @@
 #
 # Notes:
 # - For some reason the temporary files are not always removed reliably (Windows 10, MSYS2). This is 
-#   a minor annoyance so it is not fixed yet. Just type "make cleartmp" to remove these files.
+#   a minor annoyance so it is not fixed yet. Just type "make cleantmp" to remove these files.
 
 ifeq (,$(REVISION))
 ifeq (,$(wildcard VERSION))
