@@ -78,9 +78,7 @@ Printed in the United States of America
 # Acknowledgments
 Working on _Warbreaker_ was an unusual process in some ways; you can read more about it on my website. Suffice it to say that I had a more varied pool of alpha readers than normally, many of whom I know primarily through their handles on my forums. I’ve tried to get everyone’s names in here, but I’m sure I’m going to miss some. If you are one of those individuals, feel free to email me, and we’ll try to get you in future printings.
 The first acknowledgment goes to my lovely wife, Emily Sanderson, whom I married while writing this book. This is the first novel of mine that she had a large hand in by giving me feedback and suggestions, and her help is greatly appreciated. Also, as always, my agent, Joshua Bilmes, and my editor, Moshe Feder, did an extremely large amount of work on this manuscript, taking it from the Second or Third Heightening to at least the Eighth.
-At Tor, several people have gone well beyond their call of duty. The first is Dot Lin, my publicist, who has been particularly awesome to work with.
-Thanks, Dot! And, as always, the tireless efforts of Larry Yoder deserve a note, as well as the excellent work of Tor’s art director genius, Irene Gallo.
-Dan Dos Santos did the cover art of this book, and I strongly suggest you check out his website and his other work, because I think he’s one of the best in the business right now. Also, Paul Stevens deserves a word of thanks for being the in-house liaison for my books.
+At Tor, several people have gone well beyond their call of duty. The first is Dot Lin, my publicist, who has been particularly awesome to work with. Thanks, Dot! And, as always, the tireless efforts of Larry Yoder deserve a note, as well as the excellent work of Tor’s art director genius, Irene Gallo. Dan Dos Santos did the cover art of this book, and I strongly suggest you check out his website and his other work, because I think he’s one of the best in the business right now. Also, Paul Stevens deserves a word of thanks for being the in-house liaison for my books.
 In the special thanks department, we have Joevans3, and Dreamking47, Louise Simard, Jeff Creer, Megan Kauffman, thelsdj, Megan Hutchins, Izzy Whiting, Janci Olds, Drew Olds, Karla Bennion, Eric James Stone, Dan Wells, Isaac Stewart, Ben Olsen, Greyhound, Demented Yam, D.Demille, Loryn, Kuntry Bumpken, Vadia, U-boat, Tjaeden, Dragon Fly, pterath, BarbaraJ, Shir Hasirim, Digitalbias, Spink Longfellow, amyface, Richard “Captain Goradel” Gordon, Swiggly, Dawn Cawley, Drerio, David B, Mi’chelle Trammel, Matthew R Carlin, Ollie Tabooger, John Palmer, Henrik Nyh, and the insoluble Peter Ahlstrom.
 
 <p style="page-break-after: always;">&nbsp;</p>
@@ -88,7 +86,7 @@ In the special thanks department, we have Joevans3, and Dreamking47, Louise Sima
 
 # Prologue
 _It’s funny_, Vasher thought, _how many things begin with my getting thrown into prison._
-The guards laughed to one another, slamming the cell door shut with a clang. Vasher stood and dusted himself off, rolling his shoulder and wincing. While the bottom half of his cell door was solid wood, the top half was barred, and he could see the three guards open his large duffel and riffle through his possessions.
+The guards laughed to one another, slamming the cell door shut with a clang. Vasher stood and dusted himself off, rolling his shoulder and wincing. While the bottom half of his cell door was solid wood, the top half was barred, and he could see the three guards open his large duffel and rifle through his possessions.
 One of them noticed him watching. The guard was an oversized beast of a man with a shaved head and a dirty uniform that barely retained the bright yellow and blue coloring of the T’Telir city guard.
 _Bright colors_, Vasher thought. _I’ll have to get used to those again._ In any other nation, the vibrant blues and yellows would have been ridiculous on soldiers. This, however, was Hallandren: land of Returned gods, Lifeless servants, BioChromatic research, and—of course—color.
 The large guard sauntered up to the cell door, leaving his friends to amuse themselves with Vasher’s belongings. “They say you’re pretty tough,” the man said, sizing up Vasher.
@@ -144,9 +142,9 @@ Both the torture and the haunted look in Vahr’s bag-rimmed eyes bespoke a sole
 “Yes. But you’re not going to give it to one of the Returned. You’re going to give it to me. In exchange for killing you.”
 “Doesn’t seem like much of a trade.” There was a hardness—a void of emotion—in Vahr that Vasher had not seen the last time they had parted, years before.
 _Odd_, Vasher thought, _that I should finally, after all of this time, find something in the man that I can identify with._
-Vasher kept a wary distance from Vahr. Now that the man’s voice was free, he could Command. However, he was touching nothing except for the metal chains, and metal was very difficult to Awaken. It had never been alive, and it was far from the form of a man. Even during the height of his power, Vasher himself had only managed to Awaken metal on a few, select occasions. Of course, some extremely powerful Awakeners could bring objects to life that they weren’t touching, but that were in the sound of their voice. That, however, required the Ninth Heightening. Even Vahr didn’t have _that_ much Breath. In fact, Vasher knew of only one living person who did: the God King himself.
+Vasher kept a wary distance from Vahr. Now that the man’s voice was free, he could Command. However, he was touching nothing except for the metal chains, and metal was very difficult to Awaken. It had never been alive, and it was far from the form of a man. Even during the height of his power, Vasher himself had only managed to Awaken metal on a few select occasions. Of course, some extremely powerful Awakeners could bring objects to life that they weren’t touching, but that were in the sound of their voice. That, however, required the Ninth Heightening. Even Vahr didn’t have _that_ much Breath. In fact, Vasher knew of only one living person who did: the God King himself.
 That meant Vasher was probably safe. Vahr contained a great wealth of Breath, but had nothing to Awaken. Vasher walked around the chained man, finding it very difficult to offer any sympathy. Vahr had earned his fate. Yet the priests would not let him die while he held so much Breath; if he died, it would be wasted. Gone. Irretrievable.
-Not even the government of Hallandren—which had such strict laws about the buying and passing of Breath—could let such a treasure slip away. They wanted it badly enough to forestall the execution of even a highprofile criminal like Vahr. In retrospect, they would curse themselves for not leaving him better guarded.
+Not even the government of Hallandren—which had such strict laws about the buying and passing of Breath—could let such a treasure slip away. They wanted it badly enough to forestall the execution of even a high-profile criminal like Vahr. In retrospect, they would curse themselves for not leaving him better guarded.
 But, then, Vasher had been waiting two years for an opportunity like this one.
 “Well?” Vahr asked.
 “Give me the Breath, Vahr,” Vasher said, stepping forward.
@@ -175,8 +173,8 @@ Vasher stood, then pulled out the colorless scarf he had used earlier. He tossed
 He didn’t bother making the scarf have human shape, didn’t need to use a bit of his hair or skin for a focus—though he did have to draw the color from his shirt.
 Vasher met Vahr’s resigned eyes.
 “Strangle things,” Vasher Commanded, fingers touching the quivering scarf.
-It twisted immediately, pulling away a large—yet now inconsequential—amount of Breath. The scarf quickly wrapped around Vahr’s neck, tightening, choking him. Vahr didn’t struggle or gasp, he simply watched Vasher with hatred until his eyes bulged and he died.
-Hatred. Vasher had known enough of that in his time. He quietly reached up and recovered his Breath from the scarf, then left Vahr dangling in his cell. Vasher passed quietly though the prison, marveling at the color of the woods and the stones. After a few moments of walking, he noticed a new color in the hallway. Red.
+It twisted immediately, pulling away a large—yet now inconsequential—amount of Breath. The scarf quickly wrapped around Vahr’s neck, tightening, choking him. Vahr didn’t struggle or gasp; he simply watched Vasher with hatred until his eyes bulged and he died.
+Hatred. Vasher had known enough of that in his time. He quietly reached up and recovered his Breath from the scarf, then left Vahr dangling in his cell. Vasher passed quietly through the prison, marveling at the color of the woods and the stones. After a few moments of walking, he noticed a new color in the hallway. Red.
 He stepped around the pool of blood—which was seeping down the inclined dungeon floor—and moved into the guard room. The three guards lay dead. One of them sat in a chair. Nightblood, still mostly sheathed, had been rammed through the man’s chest. About an inch of a dark black blade was visible beneath the silver sheath.
 Vasher carefully slid the weapon fully back into its sheath. He did up the clasp.
 _I did very well today_, a voice said in his mind.
@@ -190,12 +188,11 @@ There were great advantages to being unimportant.
 True, by many people’s standards, Siri wasn’t “unimportant.” She was, after all, the daughter of a king. Fortunately, her father had four living children, and Siri—at seventeen years of age—was the youngest. Fafen, the daughter just older than Siri, had done the family duty and become a monk. Above Fafen was Ridger, the eldest son. He would inherit the throne.
 And then there was Vivenna. Siri sighed as she walked down the path back to the city. Vivenna, the firstborn, was . . . well . . . Vivenna. Beautiful, poised, perfect in most every way. It was a good thing, too, considering the fact that she was betrothed to a god. Either way, Siri—as fourth child—was redundant. Vivenna and Ridger had to focus on their studies; Fafen had to do her work in the pastures and homes. Siri, however, could get away with being unimportant. That meant she could disappear into the wilderness for hours at a time.
 People would notice, of course, and she _would_ get into trouble. Yet even her father would have to admit that her disappearance hadn’t caused much inconvenience. The city got along just fine without Siri—in fact, it tended to do a little better when she wasn’t around.
-Unimportance. To another, it might have been offensive. To Siri it was a blessing.
-She smiled, walking into the city proper. She drew the inevitable stares. While Bevalis was technically the capital of Idris, it wasn’t that big, and everyone knew her by sight. Judging by the stories Siri had heard from passing ramblemen, her home was hardly even a village compared with the massive metropolises in other nations.
+Unimportance. To another, it might have been offensive. To Siri it was a blessing. She smiled, walking into the city proper. She drew the inevitable stares. While Bevalis was technically the capital of Idris, it wasn’t that big, and everyone knew her by sight. Judging by the stories Siri had heard from passing ramblemen, her home was hardly even a village compared with the massive metropolises in other nations.
 She liked it the way it was, even with the muddy streets, the thatched cottages, and the boring—yet sturdy—stone walls. Women chasing runaway geese, men pulling donkeys laden with spring seed, and children leading sheep on their way to pasture. A grand city in Xaka, Hudres, or even terrible Hallandren might have exotic sights, but it would be crowded with faceless, shouting, jostling crowds, and haughty noblemen. Not Siri’s preference; she generally found even Bevalis to be a bit busy for her.
 _Still_, she thought, looking down at her utilitarian grey dress, _I’ll bet those cities have more colors. That’s something I might like to see._
 Her hair wouldn’t stand out so much there. As usual, the long locks had gone blond with joy while she’d been out in the fields. She concentrated, trying to rein them in, but she was only able to bring the color to a dull brown. As soon as she stopped focusing, her hair just went back to the way it had been. She’d never been very good at controlling it. Not like Vivenna.
-As she continued through the town, a group of small figures began trailing her. She smiled, pretending to ignore the children until one of them was brave enough to run forward and tug on her dress. Then she turned, smiling. They regarded her with solemn faces. Idris children were trained even at this age to avoid shameful outbursts of emotion. Austrin teachings said there was nothing wrong with feelings, but drawing attention to yourself with them was wrong.
+As she continued through the town, a group of small figures began trailing her. She smiled, pretending to ignore the children until one of them was brave enough to run forward and tug on her dress. Then she turned, smiling. They regarded her with solemn faces. Idrian children were trained even at this age to avoid shameful outbursts of emotion. Austrin teachings said there was nothing wrong with feelings, but drawing attention to yourself with them was wrong.
 Siri had never been very devout. It wasn’t her fault, she reasoned, if Austre had made her with a distinct inability to obey. The children waited patiently until Siri reached into her apron and pulled out a couple of brightly colored flowers. The children’s eyes opened wide, gazing at the vibrant colors. Three of the flowers were blue, one yellow.
 The flowers stood out starkly against the town’s determined drabness. Other than what one could find in the skin and eyes of the people, there wasn’t a drop of color in sight. Stones had been whitewashed, clothing bleached grey or tan. All to keep the color away.
 For without color, there could be no Awakeners.
@@ -232,14 +229,14 @@ Mab sniffed. “Here,” she said, pulling out another knife. “Make yourself u
 “Shouldn’t I report to my father?” Siri said, grabbing a gnarled vanavel root and beginning to chop.
 “He’ll just send you back here and make you work in the kitchens as a punishment,” Mab said, banging the pot with her knife again. She firmly believed that she could judge when a dish was done by the way the pot rang.
 “Austre help me if Father ever discovers I like it down here.”
-“You just like being close to the food,” Mab said, fishing Siri’s flower out of the stew then tossing it aside. “Either way, you can’t report to him. He’s in conference with Yarda.”
+“You just like being close to the food,” Mab said, fishing Siri’s flower out of the stew, then tossing it aside. “Either way, you can’t report to him. He’s in conference with Yarda.”
 Siri gave no reaction—she simply continued to chop. Her hair, however, grew blond with excitement. _Father’s conferences with Yarda usually last hours_, she thought. _Not much point in simply sitting around, waiting for him to get done. . . ._
-Mab turned to get something off the table, and by the time she looked back, Siri had bolted out the door and was on her way toward the royal stables. Bare minutes later, she galloped away from the palace, wearing her favorite brown cloak, feeling an exhilarated thrill that sent her hair into a deep blond. A nice quick ride would be a good way to round out the day.
+Mab turned to get something off the table, and before she looked back, Siri bolted out the door on her way toward the royal stables. Bare minutes later, she galloped away from the palace, wearing her favorite brown cloak, feeling an exhilarated thrill that sent her hair into a deep blond. A nice quick ride would be a good way to round out the day.
 After all, her punishment was likely to be the same either way.
 - - -
 Dedelin, king of Idris, set the letter down on his desk. He had stared at it long enough. It was time to decide whether or not to send his eldest daughter to her death.
 Despite the advent of spring, his chamber was cold. Warmth was a rare thing in the Idris highlands; it was coveted and enjoyed, for it lingered only briefly each summer. The chambers were also stark. There was a beauty in simplicity. Even a king had no right to display arrogance by ostentation.
-Dedelin stood up, looking out his window and into the courtyard. The palace was small by the world’s standards—only a single story high, with a peaked wooden roof and squat stone walls. But it was large by Idris standards, and it bordered on flamboyant. This could be forgiven, for the palace was also a meeting hall and center of operations for his entire kingdom.
+Dedelin stood up, looking out his window and into the courtyard. The palace was small by the world’s standards—only a single story high, with a peaked wooden roof and squat stone walls. But it was large by Idrian standards, and it bordered on flamboyant. This could be forgiven, for the palace was also a meeting hall and center of operations for his entire kingdom.
 The king could see General Yarda out of the corner of his eye. The burly man stood waiting, his hands clasped behind his back, his thick beard tied in three places. He was the only other person in the room.
 Dedelin glanced back at the letter. The paper was a bright pink, and the garish color stood out on his desk like a drop of blood in the snow. Pink was a color one would never see in Idris. In Hallandren, however—center of the world’s dye industry—such tasteless hues were commonplace.
 “Well, old friend?” Dedelin asked. “Do you have any advice for me?”
@@ -247,7 +244,7 @@ General Yarda shook his head. “War is coming, Your Majesty. I feel it in the w
 “Then I shouldn’t send her,” Dedelin said, looking back out his window. The courtyard bustled with people in furs and cloaks coming to market.
 “We can’t stop the war, Your Majesty,” Yarda said. “But . . . we can slow it.”
 Dedelin turned back.
-Yarda stepped forward, speaking softly. “This is not a good time. Our troops still haven’t recovered from those Vendis raids last fall, and with the fires in the granary this winter . . .” Yarda shook his head. “We _cannot_ afford to get into a defensive war in the summer. Our best ally against the Hallandren are the snows. We can’t let this conflict occur on their terms. If we do, we are dead.”
+Yarda stepped forward, speaking softly. “This is not a good time. Our troops still haven’t recovered from those Vendis raids last fall, and with the fires in the granary this winter . . .” Yarda shook his head. “We _cannot_ afford to get into a defensive war in the summer. Our best ally against the Hallandren is the snow. We can’t let this conflict occur on their terms. If we do, we are dead.”
 The words all made sense.
 “Your Majesty,” Yarda said, “they are _waiting_ for us to break the treaty as an excuse to attack. If we move first, they will strike.”
 “If we keep the treaty, they will _still_ strike,” Dedelin said.
@@ -256,7 +253,7 @@ It all made sense. Brutal, honest sense. All these years, Dedelin had stalled an
 The peace would not last. Not with Idris ripe, not with the trade routes worth so much. Not with the current crop of Hallandren gods, who seemed so much more erratic than their predecessors. He _knew_ all of that. But he also knew that breaking the treaty would be foolish. When you were cast into the den of a beast, you did not provoke it to anger.
 Yarda joined him beside the window, looking out, leaning one elbow against the side of the frame. He was a harsh man born of harsh winters. But he was also as good a man as Dedelin had ever known—a part of the king longed to marry Vivenna to the general’s own son.
 That was foolishness. Dedelin had always known this day would come. He’d crafted the treaty himself, and it demanded he send his daughter to marry the God King. The Hallandren needed a daughter of the royal blood to reintroduce the traditional bloodline into their monarchy. It was something the depraved and vainglorious people of the lowlands had long coveted, and only that specific clause in the treaty had saved Idris these twenty years.
-That treaty had been the first official act of Dedelin’s reign, negotiated furiously following his father’s assassination. Dedelin gritted his teeth. How quickly he’d bowed before the whims of his enemies. Yet he would do it again; an Idris monarch would do anything for his people. That was one big difference between Idris and Hallandren.
+That treaty had been the first official act of Dedelin’s reign, negotiated furiously following his father’s assassination. Dedelin gritted his teeth. How quickly he’d bowed before the whims of his enemies. Yet he would do it again; an Idrian monarch would do anything for his people. That was one big difference between Idris and Hallandren.
 “If we send her, Yarda,” Dedelin said, “we send her to her death.”
 “Maybe they won’t harm her,” Yarda finally said.
 “You know better than that. The first thing they’ll do when war comes is use her against me. This is _Hallandren_. They invite Awakeners into their palaces, for Austre’s sake!”
@@ -269,8 +266,8 @@ More time. The general always asked for more time. But what about when that time
 _Yarda wouldn’t hesitate to send one soldier to die if it would mean time enough to get the rest of his troops into better position to attack_, Dedelin thought. _We are Idris. How can I ask anything less of my daughter than I’d demand of one of my troops?_
 It was just that thinking of Vivenna in the God King’s arms, being forced to bear that creature’s child . . . it nearly made his hair bleach with concern. That child would become a stillborn monster who would become the next Returned god of the Hallandren.
 _There is another way_, a part of his mind whispered. _You don’t have to send Vivenna. . . ._
-A knock came at his door. Both he and Yarda turned, and Dedelin called for the visitor to enter. He should have been able to guess whom it would be.
-Vivenna stood in a quiet grey dress, looking so young to him still. Yet she was the perfect image of an Idris woman—hair kept in a modest knot, no makeup to draw attention to the face. She was not timid or soft, like some noblewomen from the northern kingdoms. She was just composed. Composed, simple, hard, and capable. Idrian.
+A knock came at his door. Both he and Yarda turned, and Dedelin called for the visitor to enter. He should have been able to guess who it would be.
+Vivenna stood in a quiet grey dress, looking so young to him still. Yet she was the perfect image of an Idrian woman—hair kept in a modest knot, no makeup to draw attention to the face. She was not timid or soft, like some noblewomen from the northern kingdoms. She was just composed. Composed, simple, hard, and capable. Idrian.
 “You have been in here for several hours, Father,” Vivenna said, bowing her head respectfully to Yarda. “The servants speak of a colorful envelope carried by the general when he entered. I believe I know what it contained.”
 Dedelin met her eyes, then waved for her to seat herself. She softly closed the door, then took one of the wooden chairs from the side of the room. Yarda remained standing, after the masculine fashion. Vivenna eyed the letter sitting on the desk. She was calm, her hair controlled and kept a respectful black. She was twice as devout as Dedelin, and—unlike her youngest sister—she never drew attention to herself with fits of emotion.
 “I assume that I should prepare myself for departure, then,” Vivenna said, hands in her lap.
@@ -289,7 +286,7 @@ Yarda and Vivenna both turned.
 “You will _not_ go,” Dedelin said firmly, turning back toward the window. Outside, Siri was laughing with one of the stablemen. Dedelin could hear her outburst even from a distance; her hair had turned a flame-colored red.
 _Lord God of Colors, forgive me_, he thought. _What a terrible choice for a father to make. The treaty is specific: I must send the Hallandren my daughter when Vivenna reaches her twenty-second birthday. But it doesn’t actually say which daughter I am required to send._
 If he didn’t send Hallandren one of his daughters, they would attack immediately. If he sent the wrong one, they might be angered, but he knew they wouldn’t attack. They would wait until they had an heir. That would gain Idris at least nine months.
-_And . . ._ he thought, _If they were to try to use Vivenna against me, I know that I wouldn’t be able to stop myself from giving in._ It was shameful to admit that fact, but in the end, it was what made the decision for him.
+_And . . ._ he thought, _if they were to try to use Vivenna against me, I know that I wouldn’t be able to stop myself from giving in._ It was shameful to admit that fact, but in the end, it was what made the decision for him.
 Dedelin turned back toward the room. “Vivenna, you will not go to wed the tyrant god of our enemies. I’m sending Siri in your place.”
 
 # 2
@@ -303,9 +300,7 @@ Nothing made sense. The carriage bumped, but she just sat, numb. _At the very le
 Hallandren.
 She felt her hair bleach white with fear. She was being sent to _Hallandren_, a kingdom her people cursed with every second breath. She wouldn’t see her father again for a long while, if ever. She wouldn’t speak with Vivenna, or listen to the tutors, or be chided by Mab, or ride the royal horses, or go looking for flowers in the wilderness, or work in the kitchens. She’d . . .
 Marry the God King. The terror of Hallandren, the monster that had never drawn a living breath. In Hallandren, his power was absolute. He could order an execution on a whim.
-_I’ll be safe, though, won’t I?_ she thought. _I’ll be his wife._
-_Wife. I’m getting married._
-_Oh Austre, God of Colors . . ._ she thought, feeling sick. She curled up with her legs against her chest—her hair growing so white that it seemed to shine—and lay down on the seat of the carriage, not sure if the shaking she felt was her own trembling or the carriage continuing its inexorable path southward.
+_I’ll be safe, though, won’t I?_ she thought. _I’ll be his wife. Wife. I’m getting married. Oh Austre, God of Colors . . ._ she thought, feeling sick. She curled up with her legs against her chest—her hair growing so white that it seemed to shine—and lay down on the seat of the carriage, not sure if the shaking she felt was her own trembling or the carriage continuing its inexorable path southward.
 - - -
 “I think that you should reconsider your decision, Father,” Vivenna said calmly, sitting decorously—as she’d been trained—with hands in her lap.
 “I’ve considered and reconsidered, Vivenna,” King Dedelin said, waving his hand. “My mind is made up.”
@@ -339,13 +334,13 @@ Unimportant.
 “What was he _thinking_!” Siri snapped, hanging half out the window of her carriage as it bounced along the earthen road. A young soldier marched beside the vehicle, looking uncomfortable in the afternoon light.
 “I mean really,” Siri said. “Sending _me_ to marry the Hallandren king. That’s silly, isn’t it? Surely you’ve heard about the kinds of things I do. Wandering off when nobody’s looking. Ignoring my lessons. I throw angry fits, for Color’s sake!!”
 The guard glanced at her out of the corner of his eye, but otherwise gave no reaction. Siri didn’t really care. She wasn’t yelling at him so much as just _yelling_. She hung precariously from the window, feeling the wind play with her hair—long, red, straight—and stoking her anger. Fury kept her from weeping.
-The green spring hills of the Idris Highlands had slowly faded away as the days had passed. In fact, they were probably in Hallandren already—the border between the two kingdoms was vague, which wasn’t surprising, considering that they’d been one nation up until the Manywar.
+The green spring hills of the Idris highlands had slowly faded away as the days had passed. In fact, they were probably in Hallandren already—the border between the two kingdoms was vague, which wasn’t surprising, considering that they’d been one nation up until the Manywar.
 She eyed the poor guard—whose only way of dealing with a raving princess was ignoring her. Then she finally slumped back into the carriage. She shouldn’t have treated him so, but, well, she’d just been sold off like some hunk of mutton—doomed by a document that had been written years before she’d even been born. If anyone had a right to a tantrum, it was Siri.
 _Maybe that’s the reason for all of this_, she thought, crossing her arms on the windowsill. _Maybe Father was tired of my tantrums, and just wanted to get rid of me._
 That seemed a little far-fetched. There were easier ways to deal with Siri—ways that didn’t include sending her to represent Idris in a foreign court. Why, then? Did he really think she’d do a good job? That gave her pause. Then she considered how ridiculous it was. Her father wouldn’t have assumed that she’d do a better job than Vivenna. Nobody did _anything_ better than Vivenna.
 Siri sighed, feeling her hair turn a pensive brown. At least the landscape was interesting, and in order to keep herself from feeling any more frustrated, she let it distract her for the moment. Hallandren was in the lowlands, a place of tropical forests and strange, colorful animals. Siri had heard the descriptions from ramblemen, and even confirmed their accounts in the occasional book she’d been forced to read. She’d thought she knew what to expect. Yet as the hills gave way to deep grasslands and then the trees finally began to crowd the road, Siri began to realize that there was something no tome or tale could adequately describe.
 Colors.
-In the highlands, flower patches were rare and unconnected, as if they understood how poorly they fit with Idris philosophy. Here, they appeared to be everywhere. Tiny flowers grew in great blanketing swaths on the ground. Large, drooping pink blossoms hung from trees, like bundles of grapes, flowers growing practically on top of one another in a large cluster. Even the weeds had flowers. Siri would have picked some of them, if not for the way that the soldiers regarded them with hostility.
+In the highlands, flower patches were rare and unconnected, as if they understood how poorly they fit with Idrian philosophy. Here, they appeared to be everywhere. Tiny flowers grew in great blanketing swaths on the ground. Large, drooping pink blossoms hung from trees, like bundles of grapes, flowers growing practically on top of one another in a large cluster. Even the weeds had flowers. Siri would have picked some of them, if not for the way that the soldiers regarded them with hostility.
 _If I feel this anxious_, she realized, _those guards must feel more so._ She wasn’t the only one who had been sent away from family and friends. When would these men be allowed to return? Suddenly, she felt even more guilty for subjecting the young soldier to her outburst.
 _I’ll send them back when I arrive_, she thought. Then she immediately felt her hair grow white. Sending the men back would leave her alone in a city filled with Lifeless, Awakeners, and pagans.
 Yet what good would twenty soldiers do her? Better that someone, at least, be allowed to return home.
@@ -381,7 +376,7 @@ Young though he was, he merited an enormous palace. He slept in a room draped wi
 _All of this_, he thought as he stood, _because I couldn’t figure out how to die._ Standing made him just a bit dizzy. It was his feast day. He would lack strength until he ate.
 Servants approached carrying brilliant red and gold robes. As they entered his aura, each servant—skin, hair, clothing, and garments—burst with exaggerated color. The saturated hues were far more resplendent than any dye or paint could produce. That was an effect of Lightsong’s innate BioChroma: he had enough Breath to fill thousands of people. He saw little value in it. He couldn’t use it to animate objects or corpses; he was a god, not an Awakener. He couldn’t give—or even loan—his deific Breath away.
 Well, except once. That would, however, kill him.
-The servants continued their ministrations, draping him with gorgeous cloth. Lightsong was a good head and a half taller than anyone else in the room. He was also broad of shoulders, with a muscular physique that he didn’t deserve, considering the amount of time he spent idle.
+The servants continued their ministrations, draping him with gorgeous cloth. Lightsong was a good head and a half taller than anyone else in the room. He was also broad of shoulder, with a muscular physique that he didn’t deserve, considering the amount of time he spent idle.
 “Did you sleep well, Your Grace?” a voice asked.
 Lightsong turned. Llarimar, his high priest, was a tall, portly man with spectacles and a calm demeanor. His hands were nearly hidden by the deep sleeves of his gold and red robe, and he carried a thick tome. Both robes and tome burst with color as they entered Lightsong’s aura.
 “I slept fantastically, Scoot,” Lightsong said, yawning. “A night full of nightmares and obscure dreams, as always. Terribly restful.”
@@ -443,9 +438,9 @@ Supposedly.
 Lightsong moved away from the painting. A lesser priest rushed forward, removing it. Most likely, the patron hadn’t painted it himself, but had instead commissioned it. The better a painting was, the better a reaction it tended to get from the gods. One’s future, it seemed, could be influenced by how much one could pay one’s artist.
 _I shouldn’t be so cynical_, Lightsong thought. _Without this system, I’d have died five years ago._
 Five years ago he _had_ died, even if he still didn’t know what had killed him. Had it really been a heroic death? Perhaps nobody was allowed to talk about his former life because they didn’t want anyone to know that Lightsong the Bold had actually died from a stomach cramp.
-To the side, the lesser priest disappeared with the jungle painting. It would be burned. Such offerings were made specifically for the intended god, and only he—besides a few of his priests—was allowed to see them. Lightsong moved along to the next work of art on the wall. It was actually a poem, written in the artisan’s script. The dots of color brightened as Lightsong approached. The Hallandren artisan’s script was a specialized system of writing that wasn’t based on form, but on color. Each colored dot represented a different sound in Hallandren’s language. Combined with some double dots—one of each color—it created an alphabet that was a nightmare for the colorblind.
+To the side, the lesser priest disappeared with the jungle painting. It would be burned. Such offerings were made specifically for the intended god, and only he—besides a few of his priests—was allowed to see them. Lightsong moved along to the next work of art on the wall. It was actually a poem, written in the artisans’ script. The dots of color brightened as Lightsong approached. The Hallandren artisans’ script was a specialized system of writing that wasn’t based on form, but on color. Each colored dot represented a different sound in Hallandren’s language. Combined with some double dots—one of each color—it created an alphabet that was a nightmare for the colorblind.
 Few people in Hallandren would admit to having _that_ particular ailment. At least, that was what Lightsong had heard. He wondered if the priests knew just how much their gods gossiped about the outside world.
-The poem wasn’t a very good one, obviously composed by a peasant who had then paid someone else to translate it to the artisan’s script. The simple dots were a sign of this. True poets used more elaborate symbols, continuous lines that changed color or colorful glyphs that formed pictures. A lot could be done with symbols that could change shape without losing their meaning.
+The poem wasn’t a very good one, obviously composed by a peasant who had then paid someone else to translate it to the artisans’ script. The simple dots were a sign of this. True poets used more elaborate symbols, continuous lines that changed color or colorful glyphs that formed pictures. A lot could be done with symbols that could change shape without losing their meaning.
 Getting the colors right was a delicate art, one that required the Third Heightening or better to perfect. That was the level of Breath at which a person gained the ability to sense perfect hues of color, just as the Second Heightening gave someone perfect pitch. Returned were of the Fifth Heightening. Lightsong didn’t know what it was like to live without the ability to instantly recognize exact shades of color and sound. He could tell an ideal red from one that had been mixed with even one drop of white paint.
 He gave the peasant’s poem as good a review as he could, though he generally felt an impulse to be honest when he looked at Offerings. It seemed his duty, and for some reason it was one of the few things he took seriously.
 They continued down the line, Lightsong giving reviews of the various paintings and poems. The wall was remarkably full this day. Was there a feast or celebration he hadn’t heard about? By the time they neared the end of the line, Lightsong was tired of looking at art, though his body—fueled by the child’s Breath—continued to feel strong and exhilarated.
@@ -497,17 +492,17 @@ She’d thought that she was prepared. The carriage had passed through cities as
 She hadn’t been prepared for her reception at T’Telir. Not at all.
 _Blessed Lord of Colors . . ._ she thought.
 Her soldiers pulled in tight around the carriage, as if wishing they could climb inside and hide from the overwhelming sight. T’Telir was built up against the shore of the Bright Sea, a large but landlocked body of water. She could see it in the distance, reflecting the sunlight, strikingly true to its name.
-A figure in blue and silver rode up to her carriage. His deep robes weren’t simple, like the monks wore back in Idris. These had massive, peaked shoulders that almost made the costume look like armor. He wore a matching headdress. That, combined with the brilliant colors and complex layers of the robes, made Siri’s hair pale to an intimidated white.
+A figure in blue and silver rode up to her carriage. His deep robes weren’t simple, like those the monks wore back in Idris. These had massive, peaked shoulders that almost made the costume look like armor. He wore a matching headdress. That, combined with the brilliant colors and complex layers of the robes, made Siri’s hair pale to an intimidated white.
 The figure bowed. “Lady Sisirinah Royal,” the man said in a deep voice, “I am Treledees, high priest of His Immortal Majesty, Susebron the Grand, Returned God and King of Hallandren. You will accept this token honor guard to guide you to the Court of Gods.”
 _Token?_ Siri thought.
-The priest didn’t wait for a response, he just turned his horse and started back down the highway toward the city. Her carriage rolled after him, her soldiers marching uncomfortably around the vehicle. The jungle gave way to sporadic bunches of palm trees, and Siri was surprised to see how much sand was mixed with the soil. Her view of the landscape soon grew obstructed by the vast field of soldiers who stood at attention on either side of the road.
+The priest didn’t wait for a response; he just turned his horse and started back down the highway toward the city. Her carriage rolled after him, her soldiers marching uncomfortably around the vehicle. The jungle gave way to sporadic bunches of palm trees, and Siri was surprised to see how much sand was mixed with the soil. Her view of the landscape soon grew obstructed by the vast field of soldiers who stood at attention on either side of the road.
 “Austre, God of Colors!” one of Siri’s guards whispered. “They’re Lifeless!”
 Siri’s hair—which had begun to drift to auburn—snapped back to fearful white. He was right. Under their colorful uniforms, the Hallandren troops were a dull grey. Their eyes, their skin, even their hair: all had been drained completely of color, leaving behind a monochrome.
 _Those can’t be Lifeless!_ she thought. _They look like men!_
 She’d imagined Lifeless as skeletal creatures, the flesh rotting and falling from the bones. They were, after all, men who had died, then been brought back to life as mindless soldiers. But these that she passed looked so human. There was nothing to distinguish them save for their lack of color and the stiff expressions on their faces. That, and the fact that they stood unnaturally motionless. No shuffling, no breathing, no quivers of muscle or limb. Even their eyes were still. They seemed like statues, particularly considering their grey skin.
 _And . . . I’m going to marry one of these things?_ Siri thought. But no, Returned were different from Lifeless, and both were different from Drabs, which were people who had lost their Breath. She could vaguely remember a time when someone back in her village had Returned. It had been nearly ten years back, and her father hadn’t let her visit the man. She did recall that he’d been able to speak and interact with his family, even if he hadn’t been able to remember them.
 He’d died again a week later.
-Eventually, her carriage passed through the ranks of Lifeless. The city walls were next; they were immense and daunting, yet they almost looked more artistic than functional. The wall’s top was curved in massive halfcircles, like rolling hills, and the rim was plated with a golden metal. The gates themselves were in the form of two twisting, lithe sea creatures who curved up in a massive archway. Siri passed through them, and the guard of Hallandren cavalrymen—who appeared to be living men—accompanied her.
+Eventually, her carriage passed through the ranks of Lifeless. The city walls were next; they were immense and daunting, yet they almost looked more artistic than functional. The wall’s top was curved in massive half-circles, like rolling hills, and the rim was plated with a golden metal. The gates themselves were in the form of two twisting, lithe sea creatures who curved up in a massive archway. Siri passed through them, and the guard of Hallandren cavalrymen—who appeared to be living men—accompanied her.
 She had always thought of Hallandren as a place of death. Her impressions were based on stories told by passing ramblemen or by old women at the winter hearth. They spoke of city walls built from skulls, then painted with sloppy, ugly streaks of color. She’d imagined the buildings inside splattered with different clashing hues. Obscene.
 She’d been wrong. True, there _was_ an arrogance to T’Telir. Each new wonder seemed as if it wanted to grab her attention and shake her about by her eyes. People lined the street—more people than Siri had seen in her entire life—crowding together to watch her carriage. If there were poor among them, Siri couldn’t tell, for they all wore brightly colored clothing. Some did have more exaggerated outfits—probably merchants, since Hallandren was said to have no nobility beyond its gods—but even the simplest of clothing had a cheerful brightness to it.
 Many of the painted buildings did clash, but none of it was sloppy. There was a sense of craftsmanship and art to everything from the storefronts, to the people, to the statues of mighty soldiers that frequently stood on corners. It was terribly overwhelming. Garish. A vibrant, enthusiastic garishness. Siri found herself smiling—her hair turning a tentative blond—though she felt a headache coming on.
@@ -527,7 +522,7 @@ The procession pulled to a stop at the base of the enormous triangular building.
 “Husband?” Siri asked uncomfortably. “Won’t there be a wedding ceremony?”
 The priest smirked. “The God King does not need ceremonial justification. You became his wife the moment he desired it.”
 Siri shivered. “I was just hoping that maybe I could see him, before, you know . . .”
-The priest shot her a harsh look. “The God King does not perform for your whims, woman. You are blessed above all others, for you will be allowed to touch him—if only at his discretion. Do not pretend that you are anything other than you are. You have come because he desires it, and you will obey. Otherwise, you will be put aside and another will chosen in your place—which, I think, might bode unfavorably for your rebel friends in the highlands.”
+The priest shot her a harsh look. “The God King does not perform for your whims, woman. You are blessed above all others, for you will be allowed to touch him—if only at his discretion. Do not pretend that you are anything other than you are. You have come because he desires it, and you will obey. Otherwise, you will be put aside and another will be chosen in your place—which, I think, might bode unfavorably for your rebel friends in the highlands.”
 The priest turned his horse, then clopped his way toward a large stone ramp, leading up to the building. The carriage lurched into motion, and Siri was drawn toward her fate.
 
 # 5
@@ -535,11 +530,8 @@ _This will complicate things_, Vasher thought, standing in the shadows atop the 
 _What’s wrong?_ Nightblood asked. _So the rebels actually sent a princess. Doesn’t change your plans._
 Vasher waited, watching, as the new queen’s carriage crept up the incline and disappeared into the palace’s maw.
 _What?_ Nightblood demanded. Even after all of these years, the sword reacted like a child in many ways.
-_She’ll be used_, Vasher thought. _I doubt we’ll be able to get through this without dealing with her._ He hadn’t believed that the Idrians would actually send royal blood back to T’Telir. They’d given up a pawn of terrible value.
-Vasher turned away from the court, wrapping his sandaled foot around one of the banners that ran down the outside of the wall. Then he released his Breath.
-“Lower me,” he Commanded.
-The large tapestry—woven from wool threads—sucked hundreds of Breaths from him. It hadn’t the form of a man, and it was massive in size, but Vasher now had enough Breath to spend in such extravagant Awakenings.
-The tapestry twisted, a thing alive, and formed a hand, which picked Vasher up. As always, the Awakening tried to imitate the form of a human—looking closely at the twistings and undulations of the fabric, Vasher could see outlines of muscles and even veins. There was no need for them; the Breath animated the fabric, and no muscles were necessary for it to move.
+_She’ll be used_, Vasher thought. _I doubt we’ll be able to get through this without dealing with her._ He hadn’t believed that the Idrians would actually send royal blood back to T’Telir. They’d given up a pawn of terrible value. Vasher turned away from the court, wrapping his sandaled foot around one of the banners that ran down the outside of the wall. Then he released his Breath.
+“Lower me,” he Commanded. The large tapestry—woven from wool threads—sucked hundreds of Breaths from him. It hadn’t the form of a man, and it was massive in size, but Vasher now had enough Breath to spend in such extravagant Awakenings. The tapestry twisted, a thing alive, and formed a hand, which picked Vasher up. As always, the Awakening tried to imitate the form of a human—looking closely at the twistings and undulations of the fabric, Vasher could see outlines of muscles and even veins. There was no need for them; the Breath animated the fabric, and no muscles were necessary for it to move.
 The tapestry carefully carried Vasher down, pinching him by one shoulder, placing his feet on the street. “Your Breath to mine,” Vasher Commanded. The large banner-tapestry lost its animate form immediately, life vanishing, and it fluttered back against the wall.
 Some few people paused in the street, yet they were interested, not awed. This was T’Telir, home of the gods themselves. Men with upward of a thousand Breaths were uncommon, but not unheard of. The people gawked—as peasants in other kingdoms might pause to watch the carriage of a passing lord—but then they moved on with their daily activities.
 The attention was unavoidable. Though Vasher still dressed in his usual outfit—ragged trousers, well-worn cloak despite the heat, a rope wrapped several times around his waist for a belt—he now caused colors to brighten dramatically when he was near. The change would be noticeable to normal people and blatantly obvious to those of the First Heightening.
@@ -626,7 +618,7 @@ Llarimar was still standing beside Lightsong’s chair, watching the God King’
 “Oh, sit down and stop looming over me,” Lightsong said. “You’re making the buzzards jealous.”
 Llarimar raised an eyebrow. “And which buzzards would that be, Your Grace?”
 “The ones who keep pushing for us to go to war,” Lightsong said waving a hand.
-The priest sat down on one of the patio’s wooden recliners and relaxed as he sat, removing the bulky miter from his head. Underneath, Llarimar’s dark hair was plastered to his head with sweat. He ran his hand through it. During the first few years, Llarimar had remained stiff and formal at all the times. Eventually, however, Lightsong had worn him down. After all, Lightsong was the god. In his opinion, if he could lounge on the job, then so could his priests.
+The priest sat down on one of the patio’s wooden recliners and relaxed as he sat, removing the bulky miter from his head. Underneath, Llarimar’s dark hair was plastered to his head with sweat. He ran his hand through it. During the first few years, Llarimar had remained stiff and formal at all times. Eventually, however, Lightsong had worn him down. After all, Lightsong was the god. In his opinion, if he could lounge on the job, then so could his priests.
 “I don’t know, Your Grace,” Llarimar said slowly, rubbing his chin. “I don’t like this.”
 “The queen’s arrival?” Lightsong asked.
 Llarimar nodded. “We haven’t had a queen in the court for some thirty years. I don’t know how the factions will deal with her.”
@@ -634,10 +626,10 @@ Lightsong rubbed his forehead. “Politics, Llarimar? You know I frown on such t
 Llarimar eyed him. “Your Grace, you are—by default—a politician.”
 “Don’t remind me, please. I should very well like to extract myself from the situation. Do you think, perhaps, I could bribe one of the other gods to take control of my Lifeless Commands?”
 “I doubt that would be wise,” Llarimar said.
-“It’s all part of my master plan to insure that I become totally and redundantly useless to this city by the time I die. Again.”
+“It’s all part of my master plan to ensure that I become totally and redundantly useless to this city by the time I die. Again.”
 Llarimar cocked his head. “Redundantly useless?”
 “Of course. Regular uselessness wouldn’t be enough—I am, after all, a god.” He took a handful of grapes from a servant’s tray, still trying to dismiss his dream’s disturbing images. They didn’t mean anything. Just dreams.
-Even so, he decided he would tell Llarimar about them the next morning. Perhaps Llarimar could use the dreams to help push for peace with Idris. If old Dedelin hadn’t sent his firstborn daughter, it would mean more debates in the court. More talk of war. This princess’s arrival should have settled it, but knew that the war hawks among the gods would not let the issue die.
+Even so, he decided he would tell Llarimar about them the next morning. Perhaps Llarimar could use the dreams to help push for peace with Idris. Since old Dedelin hadn’t sent his firstborn daughter, it would mean more debates in the court. More talk of war. This princess’s arrival should have settled it, but he knew that the war hawks among the gods would not let the issue die.
 “Still,” Llarimar said, as if talking to himself. “They did send _someone_. That is a good sign, surely. An outright refusal would have meant war for certain.”
 “And whoever Certain is, I doubt we should have a war for him,” Lightsong said idly, inspecting a grape. “War is, in my divine opinion, even worse than politics.”
 “Some say the two are the same, Your Grace.”
@@ -680,7 +672,7 @@ The man with the ledger hesitated, looking down. “Is something wrong, Vessel?�
 “I’m _bathing_,” she snapped.
 “Yes,” the man said. “I believe I can tell that.”
 “Well, why are you _watching_?”
-The man cocked his head. “But I’m a royal servant, far beneath your station . . .” he said, then trailed off. “Ah, yes. Idris sensibilities. I had forgotten. Ladies, please splash around, make some more bubbles in the bath.”
+The man cocked his head. “But I’m a royal servant, far beneath your station . . .” he said, then trailed off. “Ah, yes. Idrian sensibilities. I had forgotten. Ladies, please splash around, make some more bubbles in the bath.”
 The serving women did as asked, churning up an abundance of foam in the soapy water.
 “There,” the man said, turning back to his ledger. “I can’t see a thing. Now, let us get on with this. It would not do to keep the God King waiting on his wedding day!”
 Siri reluctantly allowed the bathing to continue, though she was careful to keep certain bits of anatomy well beneath the water. The women worked furiously, scrubbing so hard that Siri was half-afraid they’d rub her skin right off.
@@ -691,7 +683,7 @@ The man glanced at her, causing her to duck down beneath the suds a little more.
 He paused, eyeing her. “I also make certain that everyone stays on schedule and does what they are supposed to.”
 Some of the younger girls—wearing brown, like the ones bathing Siri—began bringing pitchers of water to the side of the tub, and the women used these to rinse Siri’s hair. She turned about to let them, though she tried to keep a waterlogged eye on Bluefingers and his serving boy.
 “Now,” Bluefingers said. “The palace tailors are working very quickly on your gown. We had a good estimate of your size, but final measurements were necessary to complete the process. We should have the garment ready for you in a short time.”
-The serving women dowsed Siri’s head again.
+The serving women doused Siri’s head again.
 “There are some things we need to discuss,” Bluefingers continued, voice distorted by the water in Siri’s ears. “I presume you have been taught the proper method of treating His Immortal Majesty?”
 Siri glanced at him, then looked away. She probably _had_ been taught, but she didn’t remember—and either way, she wasn’t in a frame of mind to concentrate.
 “Ah,” Bluefingers said, apparently reading her expression. “Well then, this could be . . . interesting. Allow me to give you some suggestions.”
@@ -741,7 +733,7 @@ Did all women feel this way, or was it only those who were being washed, primped
 Bluefingers eventually returned. Another person entered behind him, an elderly man in the blue and silver clothing Siri was beginning to associate with those who served the God King.
 _But . . . Bluefingers wears brown_, Siri thought, frowning. _Why is that?_
 “Ah, I see that my timing is perfect,” Bluefingers said as the women finished. They retreated to the sides of the room, heads bowed.
-Bluefingers nodded to the elderly man. “Vessel, this is one of the palace healers. Before you are taken to the God King, you will need to be inspected to determine if you are a maiden and to insure that you don’t have certain diseases. It’s really just a formality, but one that I’m afraid I must insist upon. In consideration of your bashfulness, I did not bring the young healer I had originally assigned to the job. I assume an older healer will make you more comfortable?”
+Bluefingers nodded to the elderly man. “Vessel, this is one of the palace healers. Before you are taken to the God King, you will need to be inspected to determine if you are a maiden and to ensure that you don’t have certain diseases. It’s really just a formality, but one that I’m afraid I must insist upon. In consideration of your bashfulness, I did not bring the young healer I had originally assigned to the job. I assume an older healer will make you more comfortable?”
 Siri sighed, but nodded. Bluefingers gestured toward a padded table on the side of the room; then he and his serving boy turned around. Siri undid her robe and went to the table, lying down to continue what was proving to be the most embarrassing day of her life.
 _It will only get worse_, she thought as the doctor did his examination.
 Susebron, the God King. Awesome, terrible, holy, majestic. He had been stillborn, but had Returned. What did that do to a man? Would he even be human, or would he be some monster, terrible to behold? He was said to be eternal, but obviously his reign would end eventually, otherwise he wouldn’t need an heir.
@@ -750,7 +742,7 @@ She shivered, wishing it could just be over with, but also grateful for anything
 Siri froze. How could he tell . . .
 And then she saw it. She had to look very closely, but the yellow floor around the surgeon looked a tad too bright. She felt herself pale, though the nervousness had already made her hair as white as it went.
 _The doctor is an Awakener_, she thought. _There is an Awakener here, in this room. And he touched me._
-She cringed, skin writhing. It was wrong to take the Breath from another person. It was the ultimate in arrogance, the complete opposite of Idris philosophy. Others in Hallandren simply wore bright colors to draw attention to themselves, but Awakeners . . . they stole the life from human beings, and used _that_ to make themselves stand out.
+She cringed, skin writhing. It was wrong to take the Breath from another person. It was the ultimate in arrogance, the complete opposite of Idrian philosophy. Others in Hallandren simply wore bright colors to draw attention to themselves, but Awakeners . . . they stole the life from human beings, and used _that_ to make themselves stand out.
 The perverted use of Breath was one of the main reasons that the Royal line had moved to the highlands in the first place. Modern-day Hallandren existed on the basis of extorting the Breath of its people. Siri felt more naked now than she had when actually unclothed. What could this Awakener tell about her, because of his unnatural life force? Was he tempted to steal Siri’s BioChroma? She tried to breathe as shallowly as possible, just in case.
 Eventually, Bluefingers and the terrible doctor left the room. The women approached to undo her robe once again, some bearing undergarments.
 _He will be worse_, she realized. _The king. He’s not just an Awakener, he’s Returned. He needs to suck the Breath from people in order to survive._
@@ -799,7 +791,7 @@ In and of itself, being Returned wasn’t a sin. After all, Returned came in Idr
 _Don’t think of that_, Siri told herself forcefully. Yet as she tried to clear her thoughts, the God King’s eyes returned to her memory. Those black eyes, which had seemed to glow in the firelight. She could feel them on her still, watching her, as cold as the stones upon which she knelt.
 The fire crackled. Bluefingers had said that the king would knock for her. What if she missed it? She didn’t dare glance upward. She’d already met his gaze once, if by accident. She couldn’t risk upsetting him further. She just continued to kneel in place, elbows on the ground, back beginning to ache.
 _Why doesn’t he do something?_
-Was he displeased with her? Was she not as pretty as he’d desired, or was he angered that she’d met his eyes then taken too long to undress? It would be particularly ironic if she offended him when trying so hard not to be her usual flippant self. Or was something else wrong? He had been promised the eldest daughter of the Idrian king, but had instead received Siri. Would he know the difference? Would he even care?
+Was he displeased with her? Was she not as pretty as he’d desired, or was he angered that she’d met his eyes and then taken too long to undress? It would be particularly ironic if she offended him when trying so hard not to be her usual flippant self. Or was something else wrong? He had been promised the eldest daughter of the Idrian king, but had instead received Siri. Would he know the difference? Would he even care?
 The minutes passed, the room growing darker as the fire consumed its logs.
 _He’s toying with me_, Siri thought. _Forcing me to wait on his whims._ Making her kneel in such an uncomfortable position was probably a message—one that showed who was in power. He would take her when he willed it, and not before.
 Siri gritted her teeth as the time passed. How long had she been kneeling? An hour, maybe longer. And still, there wasn’t a hint of sound—no knock, no cough, not even a shuffle from the God King. Perhaps it was a test to see how long she would remain as she was. Perhaps she was just reading too much into things. Either way, she forced herself to remain in place, shifting only when she absolutely had to.
@@ -843,7 +835,7 @@ She smiled, biting into a grape. “It’s a kind of paint. The designs were dra
 “I wouldn’t complain.”
 “Mention how your dazzling eyes glisten in the fireworks like burning embers?”
 “That would be nice.”
-“Expound on how your lips are so perfectly red that they could leave any man breathless with wonder, yet drive him compose the most brilliant of poetry each time he recalled the moment?”
+“Expound on how your lips are so perfectly red that they could leave any man breathless with wonder, yet drive him to compose the most brilliant of poetry each time he recalled the moment?”
 “I’d be flattered for certain.”
 “And you claim you want these reactions from me?”
 “I do.”
@@ -910,7 +902,6 @@ She smiled, then bent down and kissed him softly. “Just consider what I said. 
 He hesitated, then frowned. “Actually . . . yes. I do.”
 She laughed, turning as her servants picked up her couch. “Oh, come now! There must be at least _three_ of the other gods I wouldn’t _think_ of letting touch me. Enjoy the party, and do try to imagine what our king is doing to our legacy up there in his chambers right now.” She glanced back at him. “Particularly if that imagining reminds you of what you just missed out on.” She winked, then glided away.
 Lightsong sat back on his couch, then dismissed the firemasters with words of praise. As the minstrels began to play, he tried to empty his mind of both Blushweaver’s ominous words and the visions of war that had plagued his dreams.
-He failed on both counts.
 
 # 8
 Siri groaned, rolling over. Her back hurt, her arms hurt, and her head hurt. In fact, she was so uncomfortable that she couldn’t stay asleep, despite her fatigue. She sat up, holding her head.
@@ -931,10 +922,10 @@ She sat up in her shift, alone in the black room. The servants and priests would
 Slowly, Siri climbed out of bed and pulled the sheets free. She wadded them up, walked over, and threw them into the large hearth. Then she watched the flames. She still didn’t know why the God King had left her alone. Until she knew, it was surely better to just let everyone assume that the marriage had been consummated.
 After the sheets were done burning, Siri scanned the room, looking for something to wear. She found nothing. Sighing, she walked to the door, clothed only in her shift. She pulled it open, and jumped slightly. Two dozen serving women of varying ages knelt outside.
 _God of Colors!_ Siri thought. _How long have they been kneeling out here?_ Suddenly, she didn’t feel quite so indignant at being forced to wait upon the God King’s whims.
-The women stood up, heads bowed, and walked into the room. Siri backed up, cocking her head she noticed that several of the women carried in large chests. _They’re dressed in different colors from yesterday_, Siri thought. The cut was the same—divided skirts, like flowing trousers, topped with sleeveless blouses and small caps, their hair coming out the back. Instead of the blue and silver, the outfits were now yellow and copper.
+The women stood up, heads bowed, and walked into the room. Siri backed up, cocking her head when she noticed that several of the women carried in large chests. _They’re dressed in different colors from yesterday_, Siri thought. The cut was the same—divided skirts, like flowing trousers, topped with sleeveless blouses and small caps, their hair coming out the back. Instead of the blue and silver, the outfits were now yellow and copper.
 The women opened the trunks, removing various layers of clothing. All were of bright colors, and each was of a different cut. The women spread them out on the floor before Siri, then settled back on their knees, waiting.
 Siri hesitated. She’d grown up the daughter of a king, so she’d never lacked. Yet, life in Idris was austere. She’d owned five dresses, which had nearly been an extravagant number. One had been white, and the other four had been the same wan blue.
-Being confronted by so many colors and options felt overwhelming. She tried to imagine how each would look on her. Many of them were dangerously low-cut, even more so than the shirts the serving women wore—and those were already scandalous by Idris standards.
+Being confronted by so many colors and options felt overwhelming. She tried to imagine how each would look on her. Many of them were dangerously low-cut, even more so than the shirts the serving women wore—and those were already scandalous by Idrian standards.
 Finally, hesitantly, Siri pointed at one outfit. It was a dress in two pieces, red skirt and matching blouse. As Siri pointed, the serving women stood, some putting away the unchosen outfits, others walking over to carefully remove Siri’s shift.
 In a few minutes, Siri was dressed. She was embarrassed to find that—while the clothing fit her perfectly—the blouse was designed to reveal her midriff. Still, it wasn’t as low-cut as the others, and the skirt went all the way down to her calves. The silky red material was far lighter than the thick wools and linen she was accustomed to wearing. The skirt flared and ruffled when she turned, and Siri couldn’t be completely certain it wasn’t sheer. Standing in it, she almost felt as naked as she’d been during the night.
 _That appears to be a recurring theme for me here_, she thought wryly as the serving women backed away. Others approached with a stool, and she sat, waiting as the women cleaned her face and arms with a pleasantly warm cloth. When that was done, they reapplied her makeup, did her hair, then sprayed her with a few puffs of perfume.
@@ -954,7 +945,7 @@ _In my life, too_, she thought, flushing slightly, hair turning red.
 “More forewarning?” Siri asked. “This marriage was arranged by treaty over twenty years ago!”
 “Yes, well, but nobody thought . . .” He trailed off. “Ahem. Well, either way, we shall do our best to accommodate you here in the king’s palace.”
 _What was that?_ Siri thought. _Nobody thought . . . that the marriage would really happen? Why not? Did they assume that Idris wouldn’t keep its part of the bargain?_
-Regardless, he still hadn’t answered her question. “Yes, but what am I supposed to do,” she said, sitting down on the stool again. “Am I to sit here in the palace and stare at the fire all day?”
+Regardless, he still hadn’t answered her question. “Yes, but what am I supposed to do?” she said, sitting down on the stool again. “Am I to sit here in the palace and stare at the fire all day?”
 Bluefingers chuckled. “Oh, Colors no! My lady, this is the Court of Gods! You’ll find plenty to occupy you. Each day, performers are allowed to enter the court and display their talents for their deities. You may have any of these brought to you for a private performance.”
 “Ah,” Siri said. “Can I, maybe, go horseback riding?”
 Bluefingers rubbed his chin. “I suppose we could bring some horses into the court for you. Of course, we’d have to wait until the Wedding Jubilation is over.”
@@ -991,7 +982,7 @@ _That’s going to get very annoying very quickly_, Siri thought, gritting her t
 “Is there any place I’m forbidden to go?” she asked.
 The one she was addressing shook her head.
 _Fine, then_, she thought. _I’d better not end up stumbling upon the God King in the bath._ She crossed the hallway, opened the door, then stepped into the yellow room she’d been in the day before. The chair and bench she’d used had been removed, replaced by a group of yellow couches. Siri raised an eyebrow, then walked through into the tub room beyond.
-The tub was gone. She started. The room was the one she remembered, with same red colorings. Yet, the sloped tile platforms with their inset tubs were gone. The entire contraption must have been portable, brought in for her bath, then removed.
+The tub was gone. She started. The room was the one she remembered, with the same red colorings. Yet, the sloped tile platforms with their inset tubs were gone. The entire contraption must have been portable, brought in for her bath, then removed.
 _They really_ can _transform any room_, she thought with amazement. _They must have chambers full of furniture, tubs, and drapings, each of a different color, waiting upon the whims of their god._
 Curious, she left the tubless room and moved in a random direction. Each room appeared to have four doors, one on each wall. Some rooms were larger than others. Some had windows to the outside, while others were in the middle of the palace. Each was a different color, yet it was still difficult to tell the difference between them. Endless rooms, pristine with their decorations following a single color’s theme. Soon, she was hopelessly lost—but it didn’t seem to matter. Every room was, in a way, the same as any other.
 She turned to her servants. “I would like breakfast.”
@@ -1013,7 +1004,7 @@ _Poor Siri_, she thought. _Caught up in all of this, locked in the Court of Gods
 Vivenna tapped her foot as she stood beside the building in the shadow of a large stone statue. _Where is that man?_ she thought. Parlin had yet to return from his scouting.
 There was nothing to do but wait. She glanced up at the statue beside her; it was one of the famous D’Denir Celabrin. Most of the statues depicted warriors. They stood in every imaginable pose all across the entire city, armed with weapons and often dressed in colorful clothing. According to her lessons, the people of T’Telir found dressing the statues to be an amusing pastime. Lore had it that the first ones had been commissioned by Peacegiver the Blessed, the Returned who had taken command of Hallandren at the end of the Manywar. The number of statues had increased each year as new ones were paid for by the Returned—whose money, of course, came from the people themselves.
 _Excess and waste_, Vivenna thought, shaking her head.
-Finally, she noticed Parlin coming back down the street. She frowned as she saw that he was wearing some ridiculous frippery on his head—it looked a little like a sock, though much larger. The bright green hat flopped down one side of his square face, and looked very out of place against his dull brown Idris travel clothing. Tall but not lanky, Parlin was only a few years Vivenna’s senior. She’d known him for most of her life; General Yarda’s son had practically grown up in the palace. More recently, he’d been out in the forests, watching the Hallandren border or guarding one of the northern passes.
+Finally, she noticed Parlin coming back down the street. She frowned as she saw that he was wearing some ridiculous frippery on his head—it looked a little like a sock, though much larger. The bright green hat flopped down one side of his square face, and looked very out of place against his dull brown Idrian travel clothing. Tall but not lanky, Parlin was only a few years Vivenna’s senior. She’d known him for most of her life; General Yarda’s son had practically grown up in the palace. More recently, he’d been out in the forests, watching the Hallandren border or guarding one of the northern passes.
 “Parlin?” she said as he approached, carefully keeping the annoyance out of her voice and her hair. “What is that on your head?”
 “A hat,” he said, characteristically terse. It wasn’t that Parlin was rude; it just seemed he rarely felt he had much to say.
 “I can see that it’s a hat, Parlin. Where did you get it?”
@@ -1025,7 +1016,7 @@ To Parlin’s mind, nothing showed affection like a hunk of something dead and b
 “This place is strange,” Parlin said. “People here move like herds.” His eyes followed a pretty Hallandren girl as she walked by. The hussy was—like most of the women in T’Telir—wearing practically nothing. Blouses that were open well below the neck, skirts well above the knees—some women even wore trousers, just like men.
 “What did you discover in the market?” she asked, drawing his attention back.
 “There are a lot of Idrians here,” he said.
-“_What?_ ” Vivenna said, forgetting herself and showing her shock.
+“_What?_” Vivenna said, forgetting herself and showing her shock.
 “Idrians,” Parlin said. “In the market. Some were trading goods; many looked like common laborers. I watched them.”
 Vivenna frowned, folding her arms. “And the restaurant?” Vivenna asked. “Did you scout it as I asked?”
 He nodded. “Looks clean. Feels strange to me that people eat food made by strangers.”
@@ -1036,7 +1027,7 @@ He nodded. “Looks clean. Feels strange to me that people eat food made by stra
 “Unfortunately, Parlin,” Vivenna said, “people aren’t like animals.”
 “I am aware of that,” Parlin said. “Animals make sense.”
 Vivenna sighed. However, she did notice just then that Parlin had been right on at least one count. She caught sight of a group of Idrians walking along the street nearby, one pulling a cart that had probably once held produce. They were easy to distinguish by their muted dress and the slight accent to their voices. It surprised her that they would come so far to trade. But, admittedly, commerce hadn’t been particularly robust in Idris lately.
-Reluctantly, she closed her eyes and—using the shawl to hide the transformation—changed her hair from gray to brown. If there were other Idrians in town, it was unlikely that she would stand out. Trying to act like an old woman would be more suspicious.
+Reluctantly, she closed her eyes and—using the shawl to hide the transformation—changed her hair from grey to brown. If there were other Idrians in town, it was unlikely that she would stand out. Trying to act like an old woman would be more suspicious.
 It still felt wrong to be exposed. In Bevalis, she’d have been recognized instantly. Of course, Bevalis had only a few thousand people in it. The vastly greater scale of T’Telir would require a conscious adjustment.
 She gestured to Parlin and—gritting her teeth—joined the crowd and began making her way toward the marketplace.
 The inland sea made all the difference. T’Telir was a prime port, and the dyes it sold—made from the Tears of Edgli, a local flower—made it a center of trade. She could see the evidence all around her. Exotic silks and clothing. Brown-skinned traders from Tedradel with their long black beards bound with tight leather cords into cylindrical shapes. Fresh foodstuffs from cities along the coast. In Idris, the population was spread out thinly across the farms and rangelands. In Hallandren—a country that controlled a good third of the inland sea’s coast—things were different. They could burgeon. Grow.
@@ -1044,11 +1035,11 @@ Get flamboyant.
 In the distance, she could see the plateau that held the Court of Gods, the most profane place beneath Austre’s colorful eyes. Inside its walls, within the God King’s terrible palace, Siri was being held captive, prisoner of Susebron himself. Logically, Vivenna understood her father’s decision. In raw political terms, Vivenna was more valuable to Idris. If war was certain, it made sense to send the less useful daughter as a stalling tactic.
 But it was hard for Vivenna to think of Siri as “less useful.” She was gregarious, but she’d also been the one who smiled when others were down. She was the one who brought gifts when nobody was expecting them. She was infuriating, but also innocent. She was Vivenna’s baby sister, and someone had to look out for her.
 The God King would demand an heir. That was to have been Vivenna’s duty—her sacrifice for her people. She had been prepared and willing. It felt _wrong_ for Siri to have to do something so terrible.
-Her father had made his decision; the best one for Idris. Vivenna had made her own. If there was going to be war, then Vivenna wanted to be ready to get her sister out of the city the moment it got dangerous. In fact, Vivenna felt there _had_ to be a way to rescue Siri before the war came—a way of fooling the Hallandrens, making them think that Siri had died. Something that would save Vivenna’s sister, yet not further provoke hostilities.
+Her father had made his decision; the best one for Idris. Vivenna had made her own. If there was going to be war, then Vivenna wanted to be ready to get her sister out of the city the moment it got dangerous. In fact, Vivenna felt there _had_ to be a way to rescue Siri before the war came—a way of fooling the Hallandren, making them think that Siri had died. Something that would save Vivenna’s sister, yet not further provoke hostilities.
 This wasn’t something her father could condone. So she hadn’t told him. Better for him to be able to deny involvement if things went wrong.
 Vivenna moved down the street, eyes downcast, careful to not draw attention to herself. Getting away from Idris had been surprisingly easy. Who would suspect such a brash move from Vivenna—she who had always been perfect? Nobody wondered when she’d asked for food and supplies, explaining that she wanted to make emergency kits. Nobody questioned when she’d proposed an expedition to the higher reaches to gather important roots, an excuse to disguise the first few weeks of her disappearance.
 Parlin had been easy enough to persuade. He trusted her, perhaps too much, and he had intimate knowledge of the paths and trails leading down to Hallandren. He’d been as far as the city walls on one scouting trip a year back. With his help, she’d been able to recruit a few of his friends—also woodsmen—to protect her and be part of her “expedition.” She’d sent the rest of them back earlier that morning. They would be of little use in the city, where she had already arranged for other allies to be her protection. Parlin’s friends would carry word to her father, who would already have heard of what she’d done. Before leaving, she’d arranged for her maid to deliver a letter to him. Counting off the days, she realized that her letter would be delivered that very evening.
-She didn’t know what her father’s reaction would be. Perhaps he would covertly send soldiers to retrieve her. Perhaps he’d leave her be. She’d warned him that if she saw Idris soldiers searching for her, she would simply go to the Court of Gods, explain that there had been a mistake, and trade herself for her sister.
+She didn’t know what her father’s reaction would be. Perhaps he would covertly send soldiers to retrieve her. Perhaps he’d leave her be. She’d warned him that if she saw Idrian soldiers searching for her, she would simply go to the Court of Gods, explain that there had been a mistake, and trade herself for her sister.
 She sincerely hoped she wouldn’t have to do that. The God King was not to be trusted; he might take Vivenna captive and keep Siri, thereby gaining two princesses to provide pleasure instead of one.
 _Don’t think about that_, Vivenna told herself, pulling her shawl closer despite the heat.
 Better to find another way. The first step was to find Lemex, her father’s chief spy in Hallandren. Vivenna had corresponded with him on several occasions. Her father had wanted her to be familiar with his best intelligence agent in T’Telir, and his foresight would work against him. Lemex knew Vivenna, and had been told to take orders from her. She’d sent the spy a letter—delivered via a messenger with multiple mounts to allow quick delivery—the day she’d left Idris. Assuming the message had arrived safely, the spy would meet her in the appointed restaurant.
@@ -1086,19 +1077,15 @@ A man sat down at her table. Less colorfully dressed than most Hallandren, he wo
 “I hate being a mercenary,” the man said. “You know why?”
 Shocked, Vivenna sat frozen, mouth opened slightly.
 “The prejudice,” the man said. “Everyone else, they work, they ask for recompense, and they are respected for it. Not mercenaries. We get a bad name just for doing our job. How many minstrels get spat on for accepting payment from the highest bidder? How many bakers feel guilty for selling more of pastries to one man, then selling those same pastries to the man’s enemies?” He eyed her. “No. Only the mercenary. Unfair, wouldn’t you say?”
-“W . . . who are you?” Vivenna finally managed to ask. She jumped as another man sat down on her other side. Large of girth, this man had a cudgel strapped to his back. A colorful bird was sitting on the end of it.
+“Wh-who are you?” Vivenna finally managed to ask. She jumped as another man sat down on her other side. Large of girth, this man had a cudgel strapped to his back. A colorful bird was sitting on the end of it.
 “I’m Denth,” the first man said, taking her hand and shaking it. “That’s Tonk Fah.”
 “Pleased,” Tonk Fah said, taking her hand once Denth was through with it.
 “Unfortunately, Princess,” Denth said, “we’re here to kill you.”
 
 # 10
-Vivenna’s hair instantly bleached to a stark white.
-_Think!_ she told herself. _You’ve been trained in politics! You studied hostage negotiation. But . . . what do you do when you are the hostage?_
-Suddenly, the two men burst out laughing. The larger man thumped the table several times with his hand, causing his bird to squawk.
-“Sorry, Princess,” Denth—the thinner man—said, shaking his head. “Just a bit of mercenary humor.”
+Vivenna’s hair instantly bleached to a stark white. _Think!_ she told herself. _You’ve been trained in politics! You studied hostage negotiation. But . . . what do you do when you are the hostage?_ Suddenly, the two men burst out laughing. The larger man thumped the table several times with his hand, causing his bird to squawk. “Sorry, Princess,” Denth—the thinner man—said, shaking his head. “Just a bit of mercenary humor.”
 “We kill sometimes, but we don’t murder,” Tonk Fah said. “That’s assassin work.”
-“Assassins,” Denth said, holding up a finger. “Now, _they_ get respect. Why do you suppose that is? They’re really just mercenaries with fancier names.”
-Vivenna blinked, struggling to get control of her nerves. “You’re not here to kill me,” she said, voice stiff. “So you’re just going to kidnap me?”
+“Assassins,” Denth said, holding up a finger. “Now, _they_ get respect. Why do you suppose that is? They’re really just mercenaries with fancier names.” Vivenna blinked, struggling to get control of her nerves. “You’re not here to kill me,” she said, voice stiff. “So you’re just going to kidnap me?”
 “Gods, no,” Denth said. “Bad business, that. How do you make money at it? Every time you kidnap someone worth the ransom, you upset people a whole lot more powerful than you are.”
 “Don’t make important people angry,” Tonk Fah said, yawning. “Unless you’re getting paid by people who are even _more_ powerful.”
 Denth nodded. “And that isn’t even considering the feeding and care of captives, the exchanging of ransom notes, and the arranging of drop-offs. It’s a headache, I tell you. Terrible way to make money.”
@@ -1132,7 +1119,7 @@ He coughed again. The nurse glanced at Vivenna. “He goes in and out of lucidit
 “Thank you,” Vivenna said quietly. “You are excused.”
 The woman bowed and left.
 _Now it is time to be a princess_, Vivenna thought, rising and leaning over Lemex’s bed.
-“Lemex,” she said. “I need you to pass on your knowledge. How do I contact your spy networks? Where are the other Idris agents in the city? What are the passcodes that will get them to listen to me?”
+“Lemex,” she said. “I need you to pass on your knowledge. How do I contact your spy networks? Where are the other Idrian agents in the city? What are the passcodes that will get them to listen to me?”
 He coughed, staring unseeingly, whispering something. She leaned closer.
 “. . . never say it,” he said. “You can torture me all that you want. I won’t give in.”
 Vivenna sat back. By design, the Idrian spy network in Hallandren was loosely organized. Her father knew all of their agents, but Vivenna had only ever communicated with Lemex, the leader and coordinator of the network. She gritted her teeth, leaning forward again. She felt like a grave robber as she shook Lemex’s head slightly.
@@ -1152,9 +1139,9 @@ Something grabbed her arm. She jumped, looking down at Lemex, who had managed to
 “Lemex,” she said. “Your contacts. You have to give them to me!”
 “I’ve done something bad, Princess.”
 She froze.
-“Breath, Princess,” he said. “I inherited it from my predecessor, and I’ve bought more. A lot more. . . .”
+“Breath, Princess,” he said. “I inherited it from my predecessor, and I’ve bought more. A lot more . . .”
 _God of Colors . . ._ Vivenna thought with a sick feeling in her stomach.
-“I know it was wrong,” Lemex whispered. “But . . . I felt so powerful. I could make the very dust of the earth obey my command. It was for the good of Idris! Men with Breath are respected here in Hallandren. I could get into parties where I normally would have been excluded. I could go to the Court of Gods when I wished and hear the court assembly. The Breath extended my life, made me spry despite my age. I . . .”
+“I know it was wrong,” Lemex whispered. “But . . . I felt so powerful. I could make the very dust of the earth obey my command. It was for the good of Idris! Men with Breath are respected here in Hallandren. I could get into parties where I normally would have been excluded. I could go to the Court of Gods when I wished and hear the Court Assembly. The Breath extended my life, made me spry despite my age. I . . .”
 He blinked, eyes unfocusing.
 “Oh, Austre,” he whispered. “I’ve damned myself. I’ve gained notoriety through abusing the souls of others. And now I’m dying.”
 “Lemex!” Vivenna said. “Don’t think about that now. Names! I need names and passcodes. Don’t leave me alone!”
@@ -1168,7 +1155,7 @@ Vivenna looked back at the dying man. He was mumbling to himself.
 “A shame,” Tonk Fah said.
 Vivenna paled. “I will not traffic in the souls of men! I don’t care how much they’re worth.”
 “Suit yourself,” Denth said. “Hope nobody suffers when your mission fails, though.”
-_Siri. . . ._
+_Siri . . ._
 “No,” Vivenna said, partially to herself. “I couldn’t take them.” It was true. Even the thought of letting someone else’s Breath mingle with her own—the idea of drawing another person’s soul into her own body—made her sick.
 Vivenna turned back to the dying spy. His BioChroma was burning brightly now, and his sheets practically glowed. It was better to let that Breath die with him.
 Yet without Lemex, she would have no help in the city, no one to guide her and provide refuge for her. She’d barely brought along enough money to cover lodging and meals, let alone bribes or supplies. She told herself that taking the Breath would be like using goods one had found in a bandit’s cavern. Did you throw it away just because it had originally been acquired through crime? Her training and lessons whispered that she needed resources badly, and that the damage had already been done. . . .
@@ -1197,8 +1184,7 @@ _Austre, God of Colors!_ she thought, steadying herself with one hand against th
 # 11
 “But surely we can bend the rules a little bit,” Siri said, walking quickly beside Treledees.
 Treledees eyed her. The priest—high priest of the God King—would have been tall even without the elaborate miter on his head. With it, he seemed to tower over her almost like one of the Returned.
-Well, a spindly, obnoxious, disdainful Returned.
-“An exception?” he asked with his leisurely Hallandren accent. “No, I do not think that will be possible, Vessel.”
+Well, a spindly, obnoxious, disdainful Returned. “An exception?” he asked with his leisurely Hallandren accent. “No, I do not think that will be possible, Vessel.”
 “I don’t see why not,” Siri said as a servant pulled open the door in front of them, allowing them to leave a green-colored room and pass into a blue one. Treledees respectfully let her pass through the doorway first, though she sensed that he was displeased he had to do so.
 Siri ground her teeth, trying to think of another avenue of attack. _Vivenna would be calm and logical_, she thought. _She’d explain why she should be allowed to leave the palace in a way that made sense so that the priest listened to her._ Siri took a deep breath, trying to ease the red from her hair and the frustration from her attitude.
 “Look. Couldn’t I, maybe, go on _one_ trip outside? Just into the court itself?”
@@ -1220,7 +1206,7 @@ She didn’t own anything, yet could have whatever she wanted. Exotic foods, fur
 She yawned. The interrupted sleep schedule left her bleary-eyed and tired. The completely empty days didn’t help either. _If only there were someone to talk to._ But servants, priests, and scribes were all locked into their formal roles. That accounted for everyone she interacted with.
 Well, except _him_.
 Could she even call that interacting? The God King appeared to enjoy looking at her body, but he’d never given her any indication that he wanted more. He simply let her kneel, those eyes of his watching and dissecting her. That was the sum total of their marriage.
-The servants finished putting out her dinner then lined up by the wall. It was getting late—almost time for her nightly bathing. _I’ll have to eat quickly_, she thought, sitting at the table. _After all, I wouldn’t want to be late for the evening’s ogling._
+The servants finished putting out her dinner, then lined up by the wall. It was getting late—almost time for her nightly bathing. _I’ll have to eat quickly_, she thought, sitting at the table. _After all, I wouldn’t want to be late for the evening’s ogling._
 - - -
 A few hours later, Siri stood bathed, perfumed, and dressed before the massive golden door that led into the God King’s bedchamber. She breathed deeply, calming herself, anxiety bringing her hair to a pale brown. She still hadn’t gotten used to this part.
 It was silly. She knew what would happen. And yet, the anticipation—the fear—was still there. The God King’s actions proved the power he had over her. One day he would take her, and it could come at any time. Part of her wished he’d just be done with it. The extended dread was even worse than that first single evening of terror.
@@ -1243,7 +1229,7 @@ Siri frowned, turning, but Bluefingers plastered on a false smile and pushed the
 _What in Austre’s name was that?_ she thought, pausing for what was probably too long a time as she stared at the door. Finally, she sighed, turning away. The usual fire crackled in the hearth, but it was smaller than previously.
 He was there. Siri didn’t need to look to see him. As her eyes grew more accustomed to the darkness, she could notice that the fire’s colors—blue, orange, even black—were far too true, far too _vibrant_. Her gown, a brilliant golden satin, seemed to burn with its own inner color. Anything that was white—some of the lace on her dress, for instance—bent slightly, giving off a rainbow of colors as if seen through a prism. Part of her wished for a well-lit room, where she could experience the full beauty of BioChroma.
 But, of course, that was not right. The God King’s Breath was a perversion. He was fed on the souls of his people, and the colors he evoked came at their expense.
-Shivering, Siri undid the side of her dress then let the garment fall to pieces around her—the long sleeves slipping free, bodice falling forward, skirt and gown rustling as they dropped to the floor. She completed the ritual, sliding the straps of her shift off her shoulders, then dropping the garment to the floor beside the gown. She stepped free of both, then bowed herself down into her customary posture.
+Shivering, Siri undid the side of her dress, then let the garment fall to pieces around her—the long sleeves slipping free, bodice falling forward, skirt and gown rustling as they dropped to the floor. She completed the ritual, sliding the straps of her shift off her shoulders, then dropping the garment to the floor beside the gown. She stepped free of both, then bowed herself down into her customary posture.
 Her back complained, and she ruefully contemplated another uncomfortable night. _The least they could do_, she thought, _is make certain the fire is large enough._ At night in the large stone palace, it got chilly despite the Hallandren tropical climate. Particularly if one were naked.
 _Focus on Bluefingers_, she thought, trying to distract herself. _What did he mean? Things are not what they seem in the palace?_
 Was he referring to the God King and his ability to have her killed? She was well aware of the God King’s power. How could she forget it, with him sitting not fifteen feet away, watching from the shadows? No, that wasn’t it. He’d felt he’d needed to give this warning quietly, without others hearing. _Watch yourself. . . ._
@@ -1270,7 +1256,7 @@ With that, she fell asleep.
 
 # 12
 Eventually, Lightsong had to hear petitions.
-It was annoying, since the Wedding Jubilation wouldn’t even be over for another few days. The people, however, needed their gods. He knew he shouldn’t feel annoyed. He’d gotten most of a week off for the wedding fete—copiously unattended by either the bride or groom—and that was enough. All he had to do was spend a few hours each day looking at art and listening to the woes of the people. It wasn’t much. Even if it did wear away at his sanity.
+It was annoying, since the Wedding Jubilation wouldn’t even be over for another few days. The people, however, needed their gods. He knew he shouldn’t feel annoyed. He’d gotten most of a week off for the wedding fete—conspicuously unattended by either the bride or groom—and that was enough. All he had to do was spend a few hours each day looking at art and listening to the woes of the people. It wasn’t much. Even if it did wear away at his sanity.
 He sighed, sitting back in his throne. He wore an embroidered cap on his head, matched by a loose robe of gold and red. The garment wrapped over both shoulders, twisted about his body, and was hung with golden tassels. Like all of his clothing, it was even _more_ complicated to put on than it looked.
 _If my servants were to suddenly leave me_, he thought with amusement, _I’d be totally incapable of getting dressed._
 He leaned his head on one fist, elbow on the throne’s armrest. This room of his palace opened directly out onto the lawn—harsh weather was rare in Hallandren, and a cool breeze blew in off of the sea, smelling of brine. He closed his eyes, breathing in.
@@ -1301,7 +1287,7 @@ Lightsong stood suddenly, grabbing the cap off his head and tossing it aside. He
 Servants and priests immediately followed after him. He turned on them. “Go!” he said, waving them away. Many of them showed looks of surprise, unaccustomed to any kind of forcefulness on their master’s part.
 “Leave me _be_!” he shouted, towering over them. Colors in the room flared brighter in response to his emotion, and the servants backed down, confused, stumbling back out into the petition hall and pulling the door closed.
 Lightsong stood alone. He placed one hand against the wall, breathing in and out, other hand against his forehead. Why was he sweating so? He’d been through thousands of petitions, and many had been worse than the one he’d just seen. He’d sent pregnant women to their deaths, doomed children and parents, consigned the innocent and the faithful to misery.
-There was no reason to overreact. He could take it. It was a little thing, really. Just like absorbing the Breath of a new person every week. A small price to pay. . . .
+There was no reason to overreact. He could take it. It was a little thing, really. Just like absorbing the Breath of a new person every week. A small price to pay . . .
 The door opened and a figure stepped in.
 Lightsong didn’t turn. “What do they want of me, Llarimar?” he demanded. “Do they really think I’ll do it? Lightsong, the selfish? Do they really think I’d give my life for one of them?”
 Llarimar was quiet for a few moments. “You offer hope, Your Grace,” he finally said. “A last, unlikely hope. Hope is part of faith—part of the knowledge that someday, _one_ of your followers will receive a miracle.”
@@ -1343,7 +1329,7 @@ Llarimar shrugged. “Returned have . . . goals. Objectives which are their own.
 “So I’ve come back to save one person’s life?” Lightsong said, frowning, but feeling embarrassed. In five years, he’d spent little time studying his own theology. But, well, that was the sort of thing priests were for.
 “Not necessarily, Your Grace,” Llarimar said. “You may have come back to save one person. But, more likely, there is information about the future or the afterlife that you felt you needed to share. Or perhaps some great event in which you felt you needed to participate. Remember, it was the heroic way in which you died that gave you the power to Return in the first place. What you are to do might relate to that, somehow.”
 Llarimar trailed off slightly, his eyes growing unfocused. “You saw something, Lightsong. On the other side, the future is visible, like a scroll that stretches into the eternal harmonics of the cosmos. Something you saw—something about the future—worried you. Rather than remaining at peace, you took the opportunity that your brave death afforded you, and you Returned to the world. Determined to fix a problem, share information, or otherwise help those who continued to live.
-“Someday, once you feel that you’ve accomplished your task, you can use the petitions to find someone who deserves your Breath. Then you can continue your journey across the Iridescent Wave. Our job, as your followers, is to provide Breath for you and keep you alive until you can accomplish your goal, whatever it may be. In the meantime, we pry for auguries and blessings, which can be gleaned only from one who has touched the future as you have. ”
+“Someday, once you feel that you’ve accomplished your task, you can use the petitions to find someone who deserves your Breath. Then you can continue your journey across the Iridescent Wave. Our job, as your followers, is to provide Breath for you and keep you alive until you can accomplish your goal, whatever it may be. In the meantime, we pray for auguries and blessings, which can be gleaned only from one who has touched the future as you have.”
 Lightsong didn’t respond immediately. “And if I don’t believe?”
 “In what, Your Grace?”
 “In any of it,” Lightsong said. “That Returned are gods, that these visions are anything more than random inventions of my brain. What if I don’t believe that I had any purpose or plan in Returning?”
@@ -1357,8 +1343,8 @@ Llarimar glanced at him. “Your Grace. That smells of an interest in politics!�
 “Blah blah, yes, I know. Lightsong is a hypocrite. I’ll do penance for it later. Now answer the blasted question.”
 Llarimar smiled. “I don’t know what to think of her, Your Grace. The court of twenty years ago thought bringing a royal daughter here was a good idea.”
 _Yes_, Lightsong thought. _But that court is gone._ The gods had thought melding the royal line back into Hallandren would be a good idea. But those gods—the ones who believed they knew how to deal with the Idrian girl’s arrival—were now dead. They’d left inferior replacements.
-If what Llarimar said was true, then there was something important about the things Lightsong saw. Those visions of war, and the terrible sense of foreboding. For reasons he couldn’t explain, it felt to him like his people were barely headfirst down a mountain slope, completely ignorant of a bottomless chasm hidden in the cleft of the lands before them.
-“The full court assembly meets in judgment tomorrow, doesn’t it?” Lightsong said, still looking at the black palace.
+If what Llarimar said was true, then there was something important about the things Lightsong saw. Those visions of war, and the terrible sense of foreboding. For reasons he couldn’t explain, it felt to him like his people were barreling headfirst down a mountain slope, completely ignorant of a bottomless chasm hidden in the cleft of the lands before them.
+“The full Court Assembly meets in judgment tomorrow, doesn’t it?” Lightsong said, still looking at the black palace.
 “Yes, Your Grace.”
 “Contact Blushweaver. See if I can share a box with her during the judgments. Perhaps she will distract me. You know what a headache politics gives me.”
 “You can’t get headaches, Your Grace.”
@@ -1433,7 +1419,7 @@ Denth scratched his head.
 “Little bit out of our realm of expertise,” Denth said.
 “We usually hit things,” Tonk Fah said.
 Denth nodded. “Or, at least, keep things from getting hit. Lemex kept us on partially just as bodyguards.”
-“Why wouldn’t he just send for a couple of Idris soldiers to protect him?”
+“Why wouldn’t he just send for a couple of Idrian soldiers to protect him?”
 Denth and Tonk Fah exchanged a look.
 “How can I put this delicately?” Denth said. “Princess, your Lemex was embezzling money from the king and spending it on Breath.”
 “Lemex was a patriot!” Vivenna said immediately.
@@ -1487,7 +1473,7 @@ The serving women smiled approvingly, a couple letting out quiet “ooo”s at t
 Red was the theme for the serving women and priests today. That made Siri want to choose something else. Eventually, she decided on gold, and she pointed at the two golden gowns, having the women bring them forward so she could look at them more closely. Unfortunately, as she did so, the women fetched three more golden dresses from a rolling wardrobe out in the hallway.
 Siri sighed. It was as if they were determined to keep her from having a reasonably simple choice. She just hated seeing so many options disappear each day. If only . . .
 She paused. “Could I try them _all_ on?”
-The serving women glanced at each other, a little confused. They nodded toward her, their expressions conveying a simple message. _Of course you can._ Siri felt foolish, but in Idris she’d never had a choice before. She smiled, standing and letting them take off her robe and then dress her in the first of the gowns, careful not to mess up her hair. Siri inspected herself, noting that the neckline was rather low. She was willing to splurge on color, but the amount of flesh Hallandrens showed still felt scandalous.
+The serving women glanced at each other, a little confused. They nodded toward her, their expressions conveying a simple message. _Of course you can._ Siri felt foolish, but in Idris she’d never had a choice before. She smiled, standing and letting them take off her robe and then dress her in the first of the gowns, careful not to mess up her hair. Siri inspected herself, noting that the neckline was rather low. She was willing to splurge on color, but the amount of flesh the Hallandren showed still felt scandalous.
 She nodded, letting them take off the gown. Then they dressed her in the next one—a two-piece garment with a separate corset. Once they were finished, Siri eyed this new outfit in the mirror. She liked it, but she wanted to try the others as well. So, after spinning about and inspecting the back, she nodded and moved on.
 It was frivolous. But why was she so worried about being frivolous? Her father wasn’t around to regard her with that stern, disapproving face of his. Vivenna was an entire kingdom away. Siri was queen of the Hallandren people. Shouldn’t she try to learn their ways? She smiled at the ridiculous justification, but went on to the next gown anyway.
 
@@ -1535,7 +1521,7 @@ Blushweaver raised an eyebrow, and to the side—standing with the other priests
 “You bow before the whims of the universe, then?”
 “What else would I do?”
 “Fight it,” Blushweaver said. She narrowed her eyes, absently reaching to take one of the grapes from Lightsong’s hand. “Fight with everything, force the universe to bow to you instead.”
-“That’s a charming concept, Blushweaver. But I believe that universe and I are in slightly different weight categories.”
+“That’s a charming concept, Blushweaver. But I believe that the universe and I are in slightly different weight categories.”
 “I think you’re wrong.”
 “Are you saying I’m fat?”
 She regarded him with a flat glance. “I’m saying that you needn’t be so humble, Lightsong. You’re a _god_.”
@@ -1574,11 +1560,11 @@ She turned, twisting in her chair, looking back over a group of serving women wh
 “Could you . . . move that aside?” Siri asked. “Let the rain fall on me?”
 The serving women glanced at one another.
 “Just for a little bit,” Siri said. “I promise.”
-The women shared frowns, but slowed, allowing Siri’s porters to pull ahead and expose her to the rain. She looked up, smiling as the drizzle fell on her face. _Seven days is_ far _too long to spend indoors_, she decided. She basked for a long moment, enjoying the cool wetness on her skin and clothing. The grass looked inviting. She glanced back again. “I could walk, you know.” _Feel my toes on those green blades. . . ._
+The women shared frowns, but slowed, allowing Siri’s porters to pull ahead and expose her to the rain. She looked up, smiling as the drizzle fell on her face. _Seven days is_ far _too long to spend indoors_, she decided. She basked for a long moment, enjoying the cool wetness on her skin and clothing. The grass looked inviting. She glanced back again. “I could walk, you know.” _Feel my toes on those green blades . . ._
 The serving women looked very, very uncomfortable about that concept.
 “Or not,” Siri said, turning around as the women sped up, again covering the sky with their canopy. Walking was probably a bad idea, considering her dress’s long train. She’d eventually chosen a gown far more daring than anything she’d ever worn before. The neckline was a touch low, and it had no sleeves. It also had a curious design that covered the front of her legs with a short skirt, yet was floor-length in back. She’d picked it partially for the novelty, though she blushed every time she thought of how much leg it showed.
 They soon arrived at the arena and her porters carried her up into it. Siri was interested to see that it had no ceiling and had a sand-covered floor. Just above the floor, a colorful group of people were gathering on ranks of benches. Though some of them carried umbrellas, many ignored the light rain, chatting amiably among themselves. Siri smiled at the crowd; a hundred different colors and as many different clothing styles were represented. It was good to see some variety again, even if that variety was somewhat garish.
-Her porters carried her up to a large stone cleft built into the side of the building. Here, her women slid the canopy’s poles into holes in the stone, allowing it to stand freely to cover the entire box. Servants scuttled about, getting things ready, and her porters lowered her chair. She stood, frowning. She was finally free of the palace. And yet it appeared she was going to have to sit above everyone else. Even the other gods—whom she assumed were in the other canopied boxes—were far away and separated from her by walls.
+Her porters carried her up to a large stone cleft built into the side of the building. Here, her women slid the canopy’s poles into holes in the stone, allowing it to stand freely to cover the entire box. Servants scuttled about, getting things ready, and her porters lowered her chair. She stood, frowning. She was finally free of the palace. And yet it appeared she was going to have to sit above everyone else. Even the other gods—who she assumed were in the other canopied boxes—were far away and separated from her by walls.
 _How is it that they can make me feel alone, even when surrounded by hundreds of people?_ She turned to one of her serving women. “The God King. Where is he?”
 The woman gestured toward the other boxes like Siri’s.
 “He’s in one of them?” Siri asked.
@@ -1623,7 +1609,7 @@ Indeed, soon the crowd started to progress. It wasn’t long before Vivenna and 
 When she did, her heart sank. _My . . . sister_, Vivenna thought with a chill. _My poor sister._
 Siri was dressed in a scandalous golden dress that didn’t even come down to her knees. It also had a plunging neckline. Siri’s hair, which even she should have been able to keep a dark brown, was instead the golden yellow of enjoyment, and there were deep red ribbons woven through it. She was being attended by dozens of servants.
 “Look what they’ve done to her,” Vivenna said. “She must be frightened senseless, forced to wear something like that, forced to keep her hair a color that matches her clothing . . .” _Forced to be slave to the God King._
-Parlin’s square-jawed face grew hard. He didn’t often get angry, but Vivenna could see it in him now. She agreed. Siri was being exploited; they were carrying her around and displaying her like some kind of trophy. It seemed to Vivenna a statement. They were saying they could take a chaste, innocent Idris woman and do whatever they wished with her.
+Parlin’s square-jawed face grew hard. He didn’t often get angry, but Vivenna could see it in him now. She agreed. Siri was being exploited; they were carrying her around and displaying her like some kind of trophy. It seemed to Vivenna a statement. They were saying they could take a chaste, innocent Idrian woman and do whatever they wished with her.
 _What I’m doing is right_, Vivenna thought with growing determination. _Coming to Hallandren_ was _the best thing to do. Lemex might be dead, but I have to press onward. I have to find a way._
 _I have to save my sister._
 “Vivenna?” Parlin said.
@@ -1692,7 +1678,7 @@ Bluefingers nodded distractedly. “The God Kings are said to be the only ones t
 “The majority of it was originally gathered by Peacegiver the Blessed,” Bluefingers said. “He collected thousands of Breaths during the days of the Manywar. He passed those on to the first Hallandren God King. That inheritance has been transferred from father to son for centuries—and has been enlarged, since each God King is given two Breaths a week, instead of the one that the other Returned receive.”
 “Oh,” Siri said, sitting back, finding herself oddly disappointed by the news. Susebron was not a god, he was simply a man with far more BioChroma than normal.
 But . . . what of the Returned themselves? Siri folded her arms again, still troubled. She’d never been forced to look objectively at what she believed. Austre was simply . . . well, God. You didn’t question people when they talked about God. The Returned were usurpers, who had cast the followers of Austre out of Hallandren, not true deities themselves.
-Yet the they were so majestic. Why _had_ the royal family been cast out of Hallandren? She knew the official story taught in Idris—that the royals hadn’t supported the conflicts that led up to the Manywar. For that, the people had revolted against them. That revolt had been led by Kalad the Usurper.
+Yet they were so majestic. Why _had_ the royal family been cast out of Hallandren? She knew the official story taught in Idris—that the royals hadn’t supported the conflicts that led up to the Manywar. For that, the people had revolted against them. That revolt had been led by Kalad the Usurper.
 Kalad. Though Siri had avoided most of her tutorial sessions, even she knew the stories of that man. He was the one who had led the people of Hallandren in the heresy of building Lifeless. He had created a powerful army of the creatures, one the likes of which had never been seen in the land. The stories said Kalad’s Lifeless had been more dangerous, new and distinctive. Terrible and destructive. He’d eventually been defeated by Peacegiver, who had then ended the Manywar through diplomacy.
 The stories said that Kalad’s armies were still out there, somewhere. Waiting to sweep down and destroy again. She knew that story was just a legend told by hearthlight, but it still gave her shivers to consider.
 Regardless, Peacegiver had seized control and stopped the Manywar. However, he had not restored Hallandren to its rightful rulers. Idris’s histories claimed betrayal and treachery. The monks spoke of heresies that were too deeply ingrained in Hallandren.
@@ -1851,10 +1837,10 @@ The queen sat back. “I thought you were the god of bravery.”
 “Technically.”
 “You seem more like the god of jesters to me.”
 “I’ve applied for the position and been turned down,” he said. “You should see the person they have doing the job. Dull as a rock and twice as ugly.”
-Siri paused.
+Siri hesitated.
 “I wasn’t lying that time,” Lightsong said. “Mirthgiver, god of laughter. If ever there was a god more poorly suited to his position than I, it’s he.”
 “I don’t understand you,” she said. “It appears there’s a _lot_ I don’t understand in this city.”
-_This woman is no fake_, Lightsong thought, staring into her youthful, confused eyes. _Or, if she is, then she’s best actress I’ve ever met._
+_This woman is no fake_, Lightsong thought, staring into her youthful, confused eyes. _Or, if she is, then she’s the best actress I’ve ever met._
 That meant something. Something important. It was possible there were mundane reasons this girl had been sent instead of her sister. Sickness on the part of the elder daughter, perhaps. But Lightsong didn’t buy that. She was part of something. A plot, or perhaps several. And whatever those plots were, _she_ didn’t know about them.
 _Kalad’s Phantoms!_ Lightsong cursed mentally. _This child is going to get ripped apart and fed to the wolves!_
 But what could he really do about it? He sighed, standing, causing his priests to begin packing his things. The girl watched with confusion as he nodded to her, giving her a wan smile of farewell. She stood and curtsied slightly, though she probably didn’t need to. She was his queen, even if she wasn’t herself Returned.
@@ -1865,7 +1851,7 @@ And with that, he withdrew.
 Vivenna walked back toward Lemex’s house, dissecting the argument she’d heard at the Court of Gods. Her tutors had instructed her that discussions in the Court Assembly didn’t always lead to action; just because they talked of war didn’t mean it would happen.
 This discussion, however, seemed to mean more. It was too passionate, with too many voices for one side. It indicated that her father was right, and that war was inevitable.
 She walked with her head down on a nearly deserted street. She was beginning to learn that she could avoid the roiling masses by walking through more residential sections of the city. It appeared that people in T’Telir liked to be where everybody else was.
-The street was in a wealthy neighborhood, had a slate stone sidewalk running along the side of it. It made for pleasant walking. Parlin walked beside her, occasionally pausing to study ferns or palm trees. The Hallandren liked plants; most of the homes were shaded by trees, vines, and exotic blooming shrubs. In Idris, each of the large homes along the street would have been considered a mansion, but here they were only of average size—probably the homes of merchants.
+The street was in a wealthy neighborhood and had a slate stone sidewalk running along the side of it. It made for pleasant walking. Parlin walked beside her, occasionally pausing to study ferns or palm trees. The Hallandren liked plants; most of the homes were shaded by trees, vines, and exotic blooming shrubs. In Idris, each of the large homes along the street would have been considered a mansion, but here they were only of average size—probably the homes of merchants.
 _I need to stay focused_, she thought. _Is Hallandren going to attack soon? Or is this just a prelude to something still months, perhaps years, away?_
 Real action wouldn’t occur until the gods voted, and Vivenna wasn’t sure what it would take to get them to that point. She shook her head. Only one day in T’Telir, and already she knew that her training and tutorials hadn’t prepared her half as well as she’d assumed.
 She felt as if she knew nothing. And that left her feeling very lost. She was not the confident, competent woman she’d assumed herself to be. The frightening truth was, should she have been sent to become the God King’s bride, she would have been nearly as ineffective and confused as poor Siri undoubtedly was.
@@ -2001,8 +1987,7 @@ All was still. She glanced up, eyeing the God King. Some of his emotional mask h
 Tired from the day’s events and intrigues, it wasn’t long after that she found herself rolled up in the luxurious comforter and relaxing. The God King left her alone. In fact, he’d grown tense at her approach, almost as if he were worried. Even frightened of her.
 That couldn’t be. He was the God and King of Hallandren, and she was just a silly girl, swimming in waters that were far over her head. No, he wasn’t frightened. The concept was enough to again make her feel like laughing. She restrained herself, maintaining the illusion for the listening priests as she drifted off in the luxurious comfort of the bed.
 - - -
-The next morning, Lightsong did not get out of bed.
-His servants stood around the perimeter of his room like a flock of birds waiting for seed. As noon approached, they began to shuffle uncomfortably, shooting glances at one another.
+The next morning, Lightsong did not get out of bed. His servants stood around the perimeter of his room like a flock of birds waiting for seed. As noon approached, they began to shuffle uncomfortably, shooting glances at one another.
 He remained in bed, staring up at the ornate red canopy. Some servants approached tentatively, placing a tray of food atop a small table beside him. Lightsong did not reach for it.
 He had dreamed of war again.
 Finally, a figure walked up to the bed. Large of girth and draped in his priestly robes, Llarimar looked down at his god, betraying none of the annoyance that Lightsong was sure that he felt. “Leave us, please,” Llarimar said to the servants.
@@ -2066,7 +2051,7 @@ The truth was, he’d never bothered to find out.
 # 19
 “This is nice,” Denth said, looking over the house. “Strong wood paneling. Will break very cleanly.”
 “Yeah,” Tonk Fah added, peeking into a closet. “And it has plenty of storage. Bet we could fit a good half-dozen bodies in here alone.”
-Vivenna shot the two mercenaries a look, causing them to chuckle to themselves. The house wasn’t as nice as Lemex’s had been; she didn’t want to be ostentatious. It was one of many that were built in a row along a wellmaintained street. Deeper than it was wide, the building was bordered on either side with large palm trees, obscuring the view should someone try to spy from the neighboring buildings.
+Vivenna shot the two mercenaries a look, causing them to chuckle to themselves. The house wasn’t as nice as Lemex’s had been; she didn’t want to be ostentatious. It was one of many that were built in a row along a well-maintained street. Deeper than it was wide, the building was bordered on either side with large palm trees, obscuring the view should someone try to spy from the neighboring buildings.
 She was pleased. Part of her balked at living in a home that was—despite being modest by Hallandren standards—nearly as large as the king’s palace back in Idris. However, she and Parlin had looked at and rejected cheaper sections of town. She didn’t want to live in a place where she was afraid to go out at night, particularly since she worried that her Breath might make her a target.
 She trailed down the stairs, the mercenaries following. The house had three stories—a small upper story with sleeping chambers, the main floor with a kitchen and sitting room, and a cellar for storage. The building was sparsely furnished, and Parlin had gone to the market to shop for more. She hadn’t wanted to spend the money, but Denth had pointed out that they must at least _try_ to keep up appearances, lest they end up drawing even more attention.
 “Old Lemex’s house will be taken care of soon,” Denth said. “We left some hints in the underground, mentioning that the old man was dead. Whatever we didn’t ransack, a gang of burglars will take care of tonight. By tomorrow, the city guard will be there, and they’ll assume that the place was burgled. The nurse has been paid off, and she never knew who Lemex really was anyway. When nobody comes to pay for the funeral services, the authorities will take the house in forfeit and have the body burned with other debtors.”
@@ -2105,7 +2090,7 @@ Denth glanced at Tonk Fah, who opened his eyes. They shared a smile.
 “What?” Vivenna asked.
 “Hazard pay,” Tonk Fah said. “We may not steal your money, but we have nothing against overcharging you for extremely dangerous stunts!”
 Vivenna rolled her eyes.
-“Beyond that,” Denth added, “from what I can tell, Lemex wanted to undermine the city’s food supply. It’s a good idea, I suppose. Lifeless don’t need to eat, but the humans who form the support structure of the army _do_. Disrupt supply, and perhaps people here will begin to worry if they can afford a longterm war.”
+“Beyond that,” Denth added, “from what I can tell, Lemex wanted to undermine the city’s food supply. It’s a good idea, I suppose. Lifeless don’t need to eat, but the humans who form the support structure of the army _do_. Disrupt supply, and perhaps people here will begin to worry if they can afford a long term war.”
 “That sounds more reasonable,” Vivenna said. “What did you come up with?”
 “We raid merchant caravans,” Denth said. “Burn things up, cost them a bunch. We make it look like bandits or maybe even remnants of Vahr’s supporters. That ought to confuse people in T’Telir and maybe make it more difficult for the priests to go to war.”
 “Priests run a lot of the trade in the city,” Tonk Fah added. “They have all the money so they tend to own the supplies. Burn away the stuff they intended to use for the war, and they’ll be more hesitant to attack. It’ll buy your people more time.”
@@ -2115,7 +2100,7 @@ The mercenaries shared a look.
 “Very unfair,” Tonk Fah agreed.
 “Perhaps she’d rather we buy puppies for all of her enemies, then send them with nice apologetic notes, asking them to stop being so mean.”
 “And then,” Tonk Fah said, “when they _don’t_ stop, we could kill the puppies!”
-“All right,” Vivenna said. “I understand that we’ll have to use a firm hand, but . . . really. I don’t want the Hallandrens to starve because of what we do.”
+“All right,” Vivenna said. “I understand that we’ll have to use a firm hand, but . . . really. I don’t want the Hallandren to starve because of what we do.”
 “Princess,” Denth said, sounding more serious. “These people want to attack your homeland. They see your family as the greatest existing threat to their power—and they’re going to make certain that nobody of the royal blood lives to challenge them.”
 “They get a child by your sister to be the next God King,” Tonk Fah said, “then they kill every other person of royal blood. They never have to worry about you again.”
 Denth nodded. “Your father and Lemex were right. The Hallandren have _everything_ to lose by not attacking you. And, from what I can see, your people are going to need every bit of help you can give them. That means doing everything we can—scaring the priests, breaking their supply reserves, weakening their armies—to help out.”
@@ -2139,7 +2124,7 @@ The woman snorted. “He killed Arsteel. What makes you think you can beat him?�
 “Arsteel was good too. Now he’s dead. Who’s the woman?”
 “New employer.”
 “Hope she lives longer than the last one,” the woman grumbled. “Clod, put those down and go get the other bag.”
-The Lifeless responded, setting down its bags then walking back out. Vivenna watched, by now having figured out that the short woman must be Jewels, the third member of Denth’s team. What was she doing with a Lifeless? And how had she found the new house? Denth must have sent her a message.
+The Lifeless responded, setting down its bags and then walking back out. Vivenna watched, by now having figured out that the short woman must be Jewels, the third member of Denth’s team. What was she doing with a Lifeless? And how had she found the new house? Denth must have sent her a message.
 “What’s wrong with you?” Jewels said, glancing at Vivenna. “Some Awakener come by and steal your colors?”
 Vivenna paused. “What?”
 “She means,” Denth said, “why do you look so surprised?”
@@ -2341,7 +2326,7 @@ Vasher shook his head, ducking into the building. Returned palaces—this one in
 He didn’t go through the central rooms, but instead stayed in the peripheral servant hallway. If Vasher’s informant had been truthful, then what he wanted could be found on the northeast side of the building. As he walked, he unraveled the rope from his waist.
 _Belts are stupid too_, Nightblood said. _They—_
 At that moment, a group of four servants rounded the corner directly ahead of Vasher. Vasher looked up, startled but not really surprised.
-The servants’ shock lasted a second longer than his own. Within a heartbeat, Vasher snapped the rope forward. “Hold things,” he Commanded, giving up most of his remaining Breath. The rope rapped around the arm of one of the servants, though Vasher had been aiming for the neck. Vasher cursed, yanking the person forward. The man cried out as Vasher knocked him against the angle of the corner. The others moved to run.
+The servants’ shock lasted a second longer than his own. Within a heartbeat, Vasher snapped the rope forward. “Hold things,” he Commanded, giving up most of his remaining Breath. The rope wrapped around the arm of one of the servants, though Vasher had been aiming for the neck. Vasher cursed, yanking the person forward. The man cried out as Vasher knocked him against the angle of the corner. The others moved to run.
 Vasher whipped out Nightblood with his other hand.
 _Yes!_ the sword thought.
 Vasher didn’t draw the sword. He simply tossed it forward. The blade skidded against the floor, then came to rest before the three men. One of the group froze, looking down at the sword, transfixed. He reached out tentatively, eyes awed.
@@ -2364,7 +2349,7 @@ Vasher knelt, putting a hand on the creature.
 Those last words, “fallen rope,” formed the security phrase. Vasher could have chosen anything, but he picked the first thing that came to mind.
 One Breath was leached from his body, going down into the small rodent’s corpse. The thing began to twitch. That was a Breath Vasher would never be able to recover, for creating a Lifeless was a permanent act. The squirrel lost all color, bleeding to grey, the Awakening feeding off the body’s own colors to help fuel the transformation. The squirrel had been grey in the first place, so the difference was tough to see. That’s why Vasher liked to use them.
 “Fallen Rope,” he said to the creature, its grey eyes looking up at him. The security phrase pronounced, Vasher could now imprint the creature with an order, much as he did when performing a standard Awakening. “Make noise. Run around. Bite people who are not me. Fallen Rope.” The second use of the words closed its impressionability, so it could no longer be Commanded.
-The squirrel hopped up to its feet then scampered down the hallway, heading for the open doorway the fleeing servants had disappeared into. Vasher stood and began to run again, hoping that this distraction would earn him time. Indeed, a few moments later he heard cries coming from the doorway. Clangs and screams followed. Lifeless could be difficult to stop, particularly a fresh one with orders to bite.
+The squirrel hopped up to its feet, then scampered down the hallway, heading for the open doorway the fleeing servants had disappeared into. Vasher stood and began to run again, hoping that this distraction would earn him time. Indeed, a few moments later he heard cries coming from the doorway. Clangs and screams followed. Lifeless could be difficult to stop, particularly a fresh one with orders to bite.
 Vasher smiled.
 _We could have taken them_, Nightblood said.
 Vasher rushed to the place his information had indicated. The location was marked by a splintered board in the wall, ostensibly just normal wear of the building. Vasher crouched, hoping that his informant had not lied. He searched around on the floor, then froze as he found the hidden latch.
@@ -2402,8 +2387,7 @@ Lifeblesser made his throw, then sat down. “I do say, Lightsong,” he said, s
 “Now you’re just showing off,” Truthcall said.
 Lightsong said nothing. In his opinion, it revealed an inherent flaw in the game that the one who knew least about it tended to do the best. He doubted, however, that the others would take it that way. All three were very dedicated to their sport, and they played every week. There was blessed little else for them to do with their time.
 Lightsong suspected that they kept inviting him only because they wanted to prove, at last, that they could defeat him. If he’d fathomed the rules, he’d have tried to lose on purpose to keep them from insisting that he come play with them. Still, he liked the way his victories annoyed them—though, of course, they never showed him anything other than perfect decorum. Either way, under the circumstances, he suspected that he couldn’t lose if he wanted to. It was rather difficult to throw a game when you had no idea what you were doing to win it in the first place.
-Truthcall finally stepped up to throw. He always wore clothing of a martial style, and the colors maroon and white were very handsome on him.
-Lightsong suspected that he’d always been jealous that instead of being given Lifeless Commands as his duty to the court, he’d been given a vote over issues of trade with other kingdoms.
+Truthcall finally stepped up to throw. He always wore clothing of a martial style, and the colors maroon and white were very handsome on him. Lightsong suspected that he’d always been jealous that instead of being given Lifeless Commands as his duty to the court, he’d been given a vote over issues of trade with other kingdoms.
 “I hear that you spoke with the queen a few days back, Lightsong,” Truthcall said as he threw.
 “Yes, indeed,” Lightsong said, sipping his drink. “She was extraordinarily pleasant, I must say.”
 Weatherlove gave a quiet laugh, obviously thinking that last comment to be sarcasm—which was a little annoying, since Lightsong had meant it sincerely.
@@ -2415,7 +2399,7 @@ Weatherlove gave a quiet laugh, obviously thinking that last comment to be sarca
 “Yes,” Weatherlove said, idly spinning the last bit of wine in his cup. “My plans are already in motion, of course.”
 “And what plans would those be, divine brother?” Truthcall said.
 Weatherlove smiled. “I wouldn’t want to spoil the surprise, now, would I?”
-“That depends,” Truthcall said evenly. “Will it keep me from demanding the Idrians give us more access to the passes? I’m willing to bet that some . . . pressures could be placed on the new queen could to gain her favor for such a proposal. She’s said to be rather naive.”
+“That depends,” Truthcall said evenly. “Will it keep me from demanding the Idrians give us more access to the passes? I’m willing to bet that some . . . pressures could be placed on the new queen to gain her favor for such a proposal. She’s said to be rather naive.”
 Lightsong felt a slight nausea as they spoke. He knew how they plotted, always scheming. They played their game with spheres, but just as much of their reason for seeing one another at these events was to posture and make deals.
 “Her ignorance must be an act,” Lifeblesser said in a rare moment of thoughtfulness. “They wouldn’t have sent her if she was really that inexperienced.”
 “She’s Idrian,” Truthcall said dismissively. “Their most important city has fewer people than a small T’Telir neighborhood. They barely understand the concept of politics, I’ll warrant. They are more used to talking to sheep than humans.”
@@ -2575,7 +2559,7 @@ It was a chilling realization.
 “The Idrians in T’Telir,” the man said. “They say you’ve come to take the throne back. We’ve been oppressed here for so long that I thought people were just making up stories. But it’s true! You’re here!”
 Denth glanced at her, then at Grable’s restaurant, which was still close behind them. He nodded to Tonk Fah. “Grab him, search him, and we’ll talk somewhere else.”
 - - -
-The “somewhere else” turned out to be a ragged dump of a building in a poor section of town about a fifteen minutes from the restaurant.
+The “somewhere else” turned out to be a ragged dump of a building in a poor section of town about fifteen minutes from the restaurant.
 Vivenna found the slums of T’Telir to be very interesting, on an intellectual level at least. Even here, there was color. People wore faded clothing. Bright strips of cloth hung from windows, stretched across overhangs, and even sat in puddles on the street. Colors, muted or dirty. Like a carnival that had been hit by a mudslide.
 Vivenna stood outside the shack with Jewels, Parlin, and the Idrian, waiting as Denth and Tonk Fah made sure the building wasn’t hiding any unseen threats. She wrapped her arms around herself, feeling an odd sense of despair. The faded colors in the alley felt wrong. They were dead things. Like a beautiful bird that had fallen motionless to the ground, its shape intact, but the magic gone.
 Ruined reds, stained yellows, broken greens. In T’Telir, even simple things—like chair legs and storage sacks—were dyed bright colors. How much must the people of the city spend on dyes and inks? If it hadn’t been for the Tears of Edgli, the vibrant flowers that grew only in the T’Telir climate, it would have been impossible. Hallandren had made an entire economy out of growing, harvesting, and producing dyes from the special flowers.
@@ -2899,7 +2883,7 @@ Determined, Siri continued through the chamber—which was more like a hallway t
 _Though, things are a little different at night_, she thought, smiling. It felt very conspiratorial of her to be teaching him letters. She had a secret that she was keeping from the rest of the kingdom, a secret that involved one of the most powerful men in the entire world. That gave her a thrill. She supposed she should have been more worried. Indeed, in her more thoughtful moments, the reality behind Bluefingers’s warnings did worry her. That’s why she had come to the scribes’ quarters.
 _I wonder why the bedchamber is out here_, she thought. _Outside the main body of the palace, in the black part._
 Either way, the servants’ section of the palace—God King’s bedchamber excluded—was the last place the scribes expected to be disturbed by their queen. Siri noticed that some of her serving women looked apologetically at the men in the room as Siri arrived at the doors on the far side. A servant opened the door for her, and she entered the room beyond.
-A relaxed group of priests stood leafing through books in the mediumsized chamber. They looked over at her. One dropped his book to the floor in shock.
+A relaxed group of priests stood leafing through books in the medium-sized chamber. They looked over at her. One dropped his book to the floor in shock.
 “I,” Siri proclaimed, “want some books!”
 The priests stared at her. “Books?” one finally asked.
 “Yes,” Siri said, hands on hips. “This is the palace library, is it not?”
@@ -2967,7 +2951,7 @@ _Then I do not understand._
 _But they took away my tongue to make me safe._
 “It’s not your Breath that scares them,” Siri said. “It’s your power over armies and people. You’re the God King. You could order anyone in the kingdom killed.”
 _But why would I do that?_ he wrote. _I would not kill a good person. They must know that._
-Siri sat back, resting on the plush bed, the fire crackling in the hearth behind them. “I know that, now,” she said. “But nobody else does. They don’t know you, they know only how powerful you are. So they fear you. And so they show their respect for you.”
+Siri sat back, resting on the plush bed, the fire crackling in the hearth behind them. “I know that, now,” she said. “But nobody else does. They don’t know you—they know only how powerful you are. So they fear you. And so they show their respect for you.”
 He paused. _And so, you do not respect me?_
 “Of course I do,” she said, sighing. “I’ve just never been very good at following rules. In fact, if someone tells me what to do, I usually want to do the opposite.”
 _That is very strange_, he wrote. _I thought all people did what they were told._
@@ -3030,7 +3014,7 @@ Vivenna strolled along the perimeter of the northwestern garden block. There wer
 Vivenna kept walking. Jewels trailed her somewhere in the crowd. The woman was good—Vivenna only rarely caught a glimpse of her, and that was because she’d been told where to look. She never saw Denth. He was there somewhere, far too stealthy for her to spot. As she reached the end of the street and turned around to walk back, she did catch sight of Clod. The Lifeless stood as still as one of the D’Denir statues that lined the gardens, impassively watching the crowds pass. Most of the people ignored him.
 Denth was right. Lifeless weren’t plentiful, but they also weren’t uncommon. Several walked through the market carrying packages for their owners. None of these were as muscular or as tall as Clod—Lifeless came in as many shapes and sizes as people. They were put to work guarding shops. Acting as packmen. Sweeping the walkway. All around her.
 She continued to walk, and she caught a brief glimpse of Jewels in the crowd as she passed. _How does she manage to look so relaxed?_ Vivenna thought. Each of the mercenaries looked as calm as if they were at a leisurely picnic.
-_Don’t think about the danger_, Vivenna thought, clinching her fists. She focused on the gardens. The truth was, she was a little jealous of the T’Telirites. People lounged, sitting on the grass, lying in the shade of trees, their children playing and laughing. D’Denir statues stood in a solemn line, arms upraised, weapons at the ready, as if in defense of the people. Trees climbed high into the sky, spreading branches that grew strange flowerlike bundles.
+_Don’t think about the danger_, Vivenna thought, clenching her fists. She focused on the gardens. The truth was, she was a little jealous of the T’Telirites. People lounged, sitting on the grass, lying in the shade of trees, their children playing and laughing. D’Denir statues stood in a solemn line, arms upraised, weapons at the ready, as if in defense of the people. Trees climbed high into the sky, spreading branches that grew strange flowerlike bundles.
 Wide-petaled flowers bloomed in planters; some of them were actually Tears of Edgli. Austre had placed the flowers where he wanted them. To cut and bring them back, to use them to adorn a room or house, was ostentation. Yet was it ostentatious to plant them in the middle of the city, where all were free to enjoy them?
 She turned away. Her BioChroma continued to sense the beauty. The density of life in one area made a sort of buzz inside her chest.
 _No wonder they like to live so close together_, she thought, noticing how a group of flowers scaled in color, fanning toward the inside of their planter. _And if you’re going to live this compactly, the only way to see nature would be to bring it in._
@@ -3080,7 +3064,7 @@ Vivenna closed her mouth. Obviously, there was no point in arguing. Jewels was i
 - - -
 A few hours later, it began to grow dark. Vivenna stood on the house’s second-story balcony, looking out over the city. Most of the buildings on their street had such balconies on the front. Ostentatious or not, from their hillside location they did provide a good view of T’Telir.
 The city glowed with light. On the larger streets, pole-mounted lamps lined the sidewalks, lit each night by city workers. Many of the buildings were illuminated as well. Such expenditure of oil and candles still amazed her. Yet with the Inner Sea to hand, oil was far cheaper than it was in the highlands.
-She didn’t know what to make of Jewels’s outburst. How could someone be _proud_ that their Breath had been stolen and then fed to a greedy Returned? The woman’s tone seemed to indicate she was being sincere. She’d obviously thought about these things before. Obviously, she had to rationalize her experiences to live with them.
+She didn’t know what to make of Jewels’s outburst. How could someone be _proud_ that their Breath had been stolen and then fed to a greedy Returned? The woman’s tone seemed to indicate she was being sincere. She’d clearly thought about these things before. Obviously, she had to rationalize her experiences to live with them.
 Vivenna was trapped. The Five Visions taught that she must try to understand others. They told her not to place herself above them. And yet, Austrism taught that what Jewels had done was an abomination.
 The two seemed contradictory. To believe that Jewels was wrong was to place herself above the woman. Yet to accept what Jewels said was to deny Austrism. Some might have laughed at her turmoil, but Vivenna had always tried very hard to be devout. She’d understood that she’d need strict devotion to survive in heathen Hallandren.
 Heathen. Didn’t she place herself above Hallandren by calling it that word? But they _were_ heathen. She couldn’t accept the Returned as true gods. It seemed that to believe in any faith was to become arrogant.
@@ -3161,15 +3145,15 @@ Lightsong paused, an image flashing in his head. Rain. Tempest. Storms. And a br
 “We’ll talk about the dreams another time, Scoot,” Lightsong said. “We have more important work.”
 “More important work?”
 Lightsong smiled, reaching the doorway and turning back. “I want to go back to Mercystar’s palace.”
-“What ever for?”
+“Whatever for?”
 “I don’t know,” Lightsong said happily.
 Llarimar sighed. “Very well, Your Grace. But can we at least look over some art, first? There are people who paid good money to get your opinion, and some are waiting quite eagerly to hear what you think of their pieces.”
 “All right,” Lightsong said. “But let’s be quick about it.”
 - - -
 Lightsong stared at the painting.
-Red upon red, shades so subtle that the painter must have been of the First Heightening at least. Violent, terrible reds, clashing against one another like waves—waves that only vaguely resembled men, yet that somehow managed to convey the idea of armies fighting much better than any detailed realistic depiction could have.
+Red upon red, shades so subtle that the painter must have been of the Third Heightening at least. Violent, terrible reds, clashing against one another like waves—waves that only vaguely resembled men, yet that somehow managed to convey the idea of armies fighting much better than any detailed realistic depiction could have.
 Chaos. Bloody wounds upon bloody uniforms upon bloody skin. There was so much violence in red. His own color. He almost felt as if he were _in_ the painting—felt its turmoil shaking him, disorienting him, _pulling_ on him.
-The waves of men pointed toward one figure at the center. A woman, vaguely depicted by a couple of curved brushstrokes. And yet it was obvious. She stood high, as if atop a cresting wave of crashing soldiers, caught in midmotion, head flung back, her arm upraised.
+The waves of men pointed toward one figure at the center. A woman, vaguely depicted by a couple of curved brushstrokes. And yet it was obvious. She stood high, as if atop a cresting wave of crashing soldiers, caught in mid-motion, head flung back, her arm upraised.
 Holding a deep black sword that darkened the red sky around it.
 “The Battle of Twilight Falls,” Llarimar said quietly, standing beside him in the white hallway. “Last conflict of the Manywar.”
 Lightsong nodded. He’d known that, somehow. The faces of many of the soldiers were tinged with grey. They were Lifeless. The Manywar had been the first time they had been used in large numbers on the battlefield.
@@ -3226,7 +3210,7 @@ The guards glanced at each other. “I . . . don’t know if we can let you do t
 “Scoot!” Lightsong said. “Can they forbid me?”
 “Only if they have a direct command to do so from Mercystar.”
 Lightsong looked back at the men. Reluctantly, they stepped aside. “It’s perfectly all right,” he told them. “She asked me to take care of things. Kind of. Coming, Scoot?”
-Llarimar followed him into the corridors. Once again, Lightsong felt an odd satisfaction. Instincts he hadn’t know he had drove him to seek out the place where the servant had died.
+Llarimar followed him into the corridors. Once again, Lightsong felt an odd satisfaction. Instincts he hadn’t known he had drove him to seek out the place where the servant had died.
 The wood had been replaced—his Heightened eyes could easily tell the difference between the new wood and the old. He walked a little farther. The patch where the wood had turned grey was gone as well, seamlessly replaced with new material.
 _Interesting_, he thought. _But not unexpected. I wonder . . . are there any other patches?_ He walked a little further and was rewarded by another patch of new wood. It formed an exact square.
 “Your Grace?” a new voice asked.
@@ -3326,7 +3310,7 @@ The man hesitated.
 “Show me, or lose your soul, my son,” Lightsong said in what he hoped was a suitably divine voice.
 The man slowly extended his hand. Llarimar stepped forward and removed the bandage.
 The hand was completely grey, drained of color.
-_Impossible_, Lightsong thought with shock. _Awakening doesn’t do that to living flesh. It can’t draw color from someone alive, only objects. Floor boards, clothing, furniture._
+_Impossible_, Lightsong thought with shock. _Awakening doesn’t do that to living flesh. It can’t draw color from someone alive, only objects. Floorboards, clothing, furniture._
 The man withdrew his hand.
 “What is that?” Lightsong asked.
 “I don’t know,” the man said. “I woke up, and it was like that.”
@@ -3349,7 +3333,7 @@ _Was he chosen to tell me lies with the hopes that he’d seem innocent?_ Lights
 The young priest bowed. “I was going about my duties, carrying to the records sanctuary several prophecies we had inscribed from the Lady’s mouth. I heard a distant disturbance in the building. I looked out the window toward the sound, but I saw nothing.”
 “Where were you?” Lightsong asked.
 The young man pointed toward a window. “There, Your Grace.”
-Lightsong frowned. The priest been on the opposite side of the palace from where the killing had occurred. However, that _was_ the side of the building where the intruder had first entered. “You could see the doorway where the intruder disabled the two guards?”
+Lightsong frowned. The priest had been on the opposite side of the palace from where the killing had occurred. However, that _was_ the side of the building where the intruder had first entered. “You could see the doorway where the intruder disabled the two guards?”
 “Yes, Your Grace,” the man said. “Though I didn’t see them at first. I almost left the window to search for the source of the noise. However, at that point I _did_ see something odd in the lantern light of the entryway: a figure moving. It was then that I noticed the guards on the ground. I thought they were dead bodies, and I was frightened by the shadowy figure moving between them. I yelled, and ran for help. By the time anyone paid attention to me, the figure was gone.”
 “You went down to look for him?” Lightsong asked.
 The man nodded.
@@ -3430,7 +3414,7 @@ There were a half-dozen different events going on at once. Some men threw large 
 Siri watched with a deepening blush—one that ran all the way to the ends of her hair. The men wore only loincloths. During her weeks in the grand city, she had never seen anything quite so . . . interesting.
 _A lady shouldn’t stare at young men_, her mother had taught. _It’s unseemly._
 Yet what was the point, if not to stare? Siri couldn’t help herself, and it wasn’t just because of the naked skin. These were men who had trained extensively—who had mastered their physical abilities to wondrous effect. As Siri watched, she saw that relatively little regard was given to the winners of each particular event. The contests weren’t really about victory, but about the skill required to compete.
-In that respect, these contests were almost in line with Idris sensibilities—yet, at the same time, they were ironically opposite.
+In that respect, these contests were almost in line with Idrian sensibilities—yet, at the same time, they were ironically opposite.
 The beauty of the games kept her distracted for much longer than she’d intended, her hair permanently locked into a deep maroon blush, even after she got used to the idea of men competing in so little clothing. Eventually, she forced herself to stand and turn away from the performance. She had work to do.
 Her servants perked up. They had brought all kinds of luxuries. Full couches and cushions, fruits and wines, even a few men with fans to keep her cool. After only a few weeks in the palace, such comfort was beginning to seem commonplace to her.
 “There was a god who came and spoke to me before,” Siri said, scanning the amphitheater, where many of the stone boxes were decorated with colorful canopies. “Which one was it?”
@@ -3504,7 +3488,7 @@ Siri sat back in her chair, thoughtful. “And the God King before him?”
 Siri looked up. “Was the first child a daughter?”
 “Yes,” the priest said. “A woman of no divine powers. How did you know?”
 _Colors!_ Siri thought. _Both times, right after the heir was born._ Did having a child somehow make the God Kings wish to give their lives away? Or was it something more sinister? A cured plague or healed village were both things that, with a little creative propaganda, could be invented to cover up some other cause of death.
-“I’m not truly an expert on these things, I’m afraid, Vessel,” the high priest continued. “And, I’m afraid that Lord Lightsong is not either. If you press him, he _could_ very well just start making things up.”
+“I’m not truly an expert on these things, I’m afraid, Vessel,” the high priest continued. “And I’m afraid that Lord Lightsong is not either. If you press him, he _could_ very well just start making things up.”
 “Scoot!” Lightsong said indignantly. “That’s slanderous. Oh, and by the way, your hat is on fire.”
 “Thank you,” Siri said. “Both of you. This has actually been rather helpful.”
 “If I might suggest . . .” the high priest said.
@@ -3557,7 +3541,7 @@ Siri frowned. “So you pulled me aside to give me a warning?”
 “My persona?”
 “Yes,” he said. “It needs work. Choosing the persona of an innocent newcomer was a good instinct. It suits you. But you need to refine it. Work on it.”
 “It’s not a persona,” she said sincerely. “I _am_ confused and new to all this.”
-Lightsong raised a finger. “That’s the trick to politics, child. Sometimes, although you can’t disguise who you are and how you really feel, you _can_ make use of who you are. People distrust that which they can’t understand and predict. As long as you feel like an unpredictable element in court, you will appear to be a threat. If you can skillfully—and honestly—portray yourself as someone they understand, then you’ll begin to fit in. ”
+Lightsong raised a finger. “That’s the trick to politics, child. Sometimes, although you can’t disguise who you are and how you really feel, you _can_ make use of who you are. People distrust that which they can’t understand and predict. As long as you feel like an unpredictable element in court, you will appear to be a threat. If you can skillfully—and honestly—portray yourself as someone they understand, then you’ll begin to fit in.”
 Siri frowned.
 “Take me as an example,” Lightsong said. “I’m a useless fool. I always have been, as long as I can remember—which actually isn’t all that long. Anyway, I know how people regard me. I enhance it. Play with it.”
 “So it’s a lie?”
@@ -3579,8 +3563,7 @@ With that, he sauntered off back to his box and waved for her servants—who had
 Vivenna wasn’t sure what she thought of that. She sipped her juice. The lukewarm liquid was addictively flavorful, although she wished for some Idrian ice.
 Thame looked at her eagerly. The short Idrian was, according to Denth’s investigations, trustworthy enough. His story of being “forced” into a life of crime was a tad overstated. He filled a niche in Hallandren society—he acted as a liaison between the Idrian workers and the various criminal elements.
 He was also, apparently, a staunch patriot. Despite the fact that he tended to exploit his own people, particularly newcomers to the city.
-“How many will be at the meeting?” Vivenna asked, watching traffic pass on the street out beyond the restaurant’s patio gate.
-“Over a hundred, my lady,” Thame said. “Loyal to our king, I promise. And, they’re influential men, all of them—for Idrians in T’Telir, that is.”
+“How many will be at the meeting?” Vivenna asked, watching traffic pass on the street out beyond the restaurant’s patio gate. “Over a hundred, my lady,” Thame said. “Loyal to our king, I promise. And they’re influential men, all of them—for Idrians in T’Telir, that is.”
 Which, according to Denth, meant that they were men who wielded power in the city because they could provide cheap Idrian workers and could sway the opinion of the underprivileged Idrian masses. They were men who, like Thame, thrived because of the Idrian expatriates. A strange duality. These men had stature among an oppressed minority, and without the oppression, they would be powerless.
 _Like Lemex_, she thought, _who served my father—even seemed to respect and love him—all the while stealing every bit of gold he could lay his hands on._
 She leaned back, wearing a white dress with a long pleated skirt that rippled and blew in the wind. She tapped the side of her cup, which caused a serving man to refill her juice. Thame smiled, taking more juice as well, though he looked out of place in the fine restaurant.
@@ -3714,7 +3697,7 @@ Vivenna opened her mouth to object, but she noticed Tonk Fah wandering over, and
 “You’re an idiot.”
 “Thanks.”
 Vivenna stood up and began to walk through the statues, studying them—if only to escape having to watch Parlin and Jewels. Tonk Fah and Denth trailed along behind at a comfortable distance, keeping a watchful eye.
-There was a beauty to the statues. They weren’t like the other kinds of art in T’Telir—flashy paintings, colorful buildings, exaggerated clothing. The D’Denir were solid blocks which had aged with dignity. The Hallandrens, of course, did their best to destroy this with the scarves, hats, or other colorful bits they tied on the stone memorials. Fortunately, there were too many in this garden for all to be decorated.
+There was a beauty to the statues. They weren’t like the other kinds of art in T’Telir—flashy paintings, colorful buildings, exaggerated clothing. The D’Denir were solid blocks that had aged with dignity. The Hallandren, of course, did their best to destroy this with the scarves, hats, or other colorful bits they tied on the stone memorials. Fortunately, there were too many in this garden for all to be decorated.
 They stood, as if on guard, somehow more solid than much of the city. Most stared up into the sky or looked straight ahead. Each one was different, each pose distinct, each face unique. _It must have taken decades to create all of these_, she thought. _Perhaps that’s where the Hallandren got their penchant for art._
 Hallandren was such a place of contradictions. Warriors to represent peace. Idrians who exploited and protected each other at the same time. Mercenaries who seemed to be among the best men she had ever known. Bright colors that created a kind of uniformity.
 And, over it all, BioChromatic Breath. It was exploitive, yet people like Jewels saw giving up their Breath as a privilege. Contradictions. The question was, could Vivenna afford to become another contradiction? A person who bent her beliefs in order to see that they were preserved?
@@ -3757,7 +3740,7 @@ Siri laughed. “Of course not. You can’t see Austre.”
 Susebron frowned, looking at her.
 “I know,” she said. “It must seem silly to you. But, well, we know he’s there. When I see something beautiful in nature—when I look at the mountains, with their wildflowers growing in patterns that are somehow more _right_ than a man could have planted—I know. Beauty is real. That’s what reminds me of Austre. Plus, we’ve got the Returned—including the First Returned, Vo. He had the Five Visions before he died, and they _must_ have come from somewhere.”
 _But you don’t believe in worshiping the Returned?_
-Siri shrugged. “I haven’t decided yet. My people teach strongly against it. They’re not fond of the way that Hallandren understand religion.”
+Siri shrugged. “I haven’t decided yet. My people teach strongly against it. They’re not fond of the way that the Hallandren understand religion.”
 He sat quietly for a long moment.
 _So . . . you do not like those such as me?_
 “What? Of course I like you! You’re sweet!”
@@ -3786,7 +3769,7 @@ _Oh, dear . . ._ she thought. _This is dangerous._
 She cleared her throat, sitting up, flushing yet again. “Well. Um, yes. Very nice. Thank you.”
 He looked back down. _I wish I could let you go home, to see your mountains again. Perhaps I could explain this to the priests._
 She paled. “I don’t think it would be good to let them know that you can read.”
-_I could use the artisan’s script. It is very difficult to write, but they taught it to me so I could communicate with them, if I needed to._
+_I could use the artisans’ script. It is very difficult to write, but they taught it to me so I could communicate with them, if I needed to._
 “Still,” she said. “Telling them you want to send me home could hint that you’ve been talking to me.”
 He stopped writing for a few moments.
 _Maybe that would be a good thing_, he wrote.
@@ -3897,7 +3880,7 @@ He laughed. “I don’t think I’ve ever seen you at a loss for words, my dear
 “I don’t know that I’ve ever seen another god throwing fruit into the air.”
 “It’s more than this,” Lightsong said, dipping down as he nearly lost one of the lemons. “Today I have discovered that I know a surprising number of sailing terms, that I am fantastic at mathematics, and that I have a fairly good eye for sketching. On the other hand, I know nothing about the dyeing industry, horses, or gardening. I have no talent for sculpting, I can’t speak any foreign languages, and—as you’ve seen—I’m terrible at pottery.”
 Blushweaver watched him for a second.
-He looked at her, letting the lemons drop but snatching the guava out of the air. He tossed it to a servant, who began peeling it for him. “My previous life, Blushweaver. These are skills that I—Lightsong—have no right to know. Whomever I was before I died, _he_ could juggle. He knew about sailing. And he could sketch.”
+He looked at her, letting the lemons drop but snatching the guava out of the air. He tossed it to a servant, who began peeling it for him. “My previous life, Blushweaver. These are skills that I—Lightsong—have no right to know. Whoever I was before I died, _he_ could juggle. He knew about sailing. And he could sketch.”
 “We’re not supposed to worry about the people we were before,” Blushweaver said.
 “I’m a god,” Lightsong said, taking back a plate containing the peeled and sliced guava, then offering a piece to Blushweaver. “And, by Kalad’s Phantoms, I’ll worry about whatever I please.”
 She paused, then smiled and took a slice. “Just when I thought I had you figured out . . .”
@@ -3909,7 +3892,7 @@ She nodded, joining him as they began to cross the lawn, their servants bringing
 “Their proportions aren’t quite up to your standards, I know,” he said. “But many are quite attractive.”
 Blushweaver shivered. “Please. Why would you want to know about your normal life? What if you were a murderer or a rapist? Worse, what if you had bad fashion sense?”
 He snorted at the twinkle in her eye. “You act so shallow. But I see the curiosity. You should try some of these things, let them tell you a little of who you were. There must have been something special about you for you to have Returned.”
-“Hum,” she said, smiling and siding up to him. He stopped as she ran her finger down the front of his chest. “Well, if you’re trying new things today, maybe there’s something else you ought to think about. . . .”
+“Hum,” she said, smiling and sidling up to him. He stopped as she ran her finger down the front of his chest. “Well, if you’re trying new things today, maybe there’s something else you ought to think about. . . .”
 “Don’t try to change the subject.”
 “I’m not,” she said. “But, how will you know who you were if you don’t try? It would be an . . . experiment.”
 Lightsong laughed, pushing her hand away. “My dear, I fear you would find me less than satisfactory.”
@@ -4043,7 +4026,7 @@ Denth glanced back at her. “This is the Idrian quarter of the city. These slum
 “The slum becomes its own little world,” Tonk Fah said, walking up beside her.
 “Everyone you pass in here is an Idrian,” Denth said, waving for her to keep walking. “There’s a reason your kind have a bad reputation in the rest of the city.”
 Vivenna felt a numb chillness. _No_, she thought. _No, it’s not possible._
-Unfortunately, she soon began to see signs. Symbols of Austre placed—unobtrusive by intention—in the corners of windowsills or on doorsteps. People in grays and whites. Mementos of the highlands in the form of shepherd’s caps or wool cloaks. And yet, if these people were of Idris, then they’d been completely corrupted. Colors marred their costumes, not to mention the air of danger and hostility they exuded. And how could any Idrian even _think_ of becoming a prostitute?
+Unfortunately, she soon began to see signs. Symbols of Austre placed—unobtrusive by intention—in the corners of windowsills or on doorsteps. People in greys and whites. Mementos of the highlands in the form of shepherd’s caps or wool cloaks. And yet, if these people were of Idris, then they’d been completely corrupted. Colors marred their costumes, not to mention the air of danger and hostility they exuded. And how could any Idrian even _think_ of becoming a prostitute?
 “I don’t understand, Denth. We are a peaceful people. A people of mountain villages. We are open. Friendly.”
 “That kind doesn’t last long in a slum,” he said, walking beside her. “They change or they get beaten down.”
 Vivenna shivered, feeling a stab of anger at Hallandren. _I could have forgiven the Hallandren for making my people poor. But this? They’ve made thugs and thieves out of caring shepherds and farmers. They’ve turned our women into prostitutes and our children to urchins._
@@ -4058,12 +4041,12 @@ Thame soon returned and waved her forward.
 “Wait,” Vivenna said. “I wanted to talk to the common people before we meet with the leaders.”
 Thame shrugged. “If you wish . . .”
 Vivenna stepped forward. “People of Idris,” she said. “I’ve come to offer you comfort and hope.”
-The people continued to talk among themselves. Very few seemed to pay any attention to her at all. Vivenna swallowed. “I know that you’ve had hard lives. But I want to promise you that the king _does_ care for you and want to support you. I will find a way to bring you home.”
+The people continued to talk among themselves. Very few seemed to pay any attention to her at all. Vivenna swallowed. “I know that you’ve had hard lives. But I want to promise you that the king _does_ care for you and wants to support you. I will find a way to bring you home.”
 “Home?” one of the men said. “Back to the highlands?”
 Vivenna nodded.
 Several people snorted at that comment, and a few trailed away. Vivenna watched them go with concern. “Wait,” she said. “Don’t you want to hear me? I bring news from your king.”
 The people ignored her.
-“Most of them just wanted confirmation that you were whom you were rumored to be, Your Highness,” Thame said quietly.
+“Most of them just wanted confirmation that you were who you were rumored to be, Your Highness,” Thame said quietly.
 Vivenna turned back toward the groups still talking quietly in the garden. “Your lives can get better,” she promised. “I will see you cared for.”
 “Our lives are already better,” one of the men said. “There is nothing for us in the highlands. I earn twice as much here as I did back there.” Others nodded in agreement.
 “Then why even come to see me?” she whispered.
@@ -4152,7 +4135,7 @@ The creature leaped over her.
 She looked up in shock as the creature slammed its weapon into one of the others as they arrived. Vivenna blinked her eyes clear, and only then did she recognize the newcomer.
 Not Denth. Not Tonk Fah. A creature with skin as grey as that of the men attacking her, which was why she hadn’t recognized him at first.
 Clod.
-He expertly took off the head of his first opponent, wielding his thickbladed sword. Something clear sprayed from the neck of the beheaded creature as it fell backward, tumbling to the ground. Dead—apparently—as any man would have been.
+He expertly took off the head of his first opponent, wielding his thick-bladed sword. Something clear sprayed from the neck of the beheaded creature as it fell backward, tumbling to the ground. Dead—apparently—as any man would have been.
 Clod blocked an attack from the remaining Lifeless guard. Behind, in the mouth of the alleyway, two more appeared. They charged as Clod backed up, firmly planting one foot on either side of Vivenna, his sword held before him. It dripped clear liquid.
 The remaining lifeless guard waited for the other two to approach. Vivenna trembled, too tired—too numb—to flee. She glanced upward, and saw something almost human in Clod’s eyes as he raised his sword against the three. It was the first emotion she’d seen in any Lifeless, though she might have imagined it.
 Determination.
@@ -4184,7 +4167,7 @@ _Because nobody else will._
 She climbed out of bed, running her fingers through her long hair. Susebron liked it long—he found it as fascinating as her serving women did. With them to help her care for it, the length was worth the trouble. She folded her arms, wearing only her shift, pacing. She needed to play their game. She hated thinking of it that way. “Game” implied small stakes. This was no game. It was the God King’s life.
 She searched through her memory, dredging up what scraps she could from her lessons. Politics was about exchanges. It was about giving what you had—or what you implied that you had—in order to gain more. It was like being a merchant. You started with a certain stock, and by the end of the year, you hoped to have increased that stock. Or maybe even have changed it into a completely different and better stock.
 _Don’t make too many waves until you’re ready to strike_, Lightsong had told her. _Don’t appear too innocent, but don’t appear too smart either. Be average._
-She stopped beside the bed then gathered up the bedsheets and towed them over to the smoldering fire to burn, as was her daily chore.
+She stopped beside the bed, then gathered up the bedsheets and towed them over to the smoldering fire to burn, as was her daily chore.
 _Exchanges_, she thought, watching the sheets catch fire in the large hearth. _What do I have to trade or exchange? Not much._
 It would have to do.
 She walked over and pulled open the door. As usual, a group of serving women waited outside. Siri’s standard ladies moved around her, bringing clothing. Another group of servants, however, moved to tidy the room. Several of these wore brown.
@@ -4196,7 +4179,7 @@ The girl paled, but nodded, and Siri stepped back to continue dressing. Several 
 Now she just had to decide just what “vital information” she had, and why exactly Bluefingers should care about it.
 - - -
 “My dear queen!” Lightsong said, actually going so far as to embrace Siri as she stepped into his box at the arena.
-Siri smiled as Lightsong waved for her to seat herself in one of his chaise lounges. Siri sat with care—she was coming to favor the elaborate Hallandren gowns, but moving gracefully in them took quite a bit of skill. As she settled, Lightsong called for fruit.
+Siri smiled as Lightsong waved for her to seat herself in one of his chaise longues. Siri sat with care—she was coming to favor the elaborate Hallandren gowns, but moving gracefully in them took quite a bit of skill. As she settled, Lightsong called for fruit.
 “You treat me too kindly,” Siri said.
 “Nonsense,” Lightsong said. “You’re my queen! Besides, you remind me of someone of whom I was very fond.”
 “And who is that?”
@@ -4232,7 +4215,7 @@ Siri grimaced.
 “I thought not. Besides, neither of us have votes pertaining to this issue. So let us spend our time wisely. We never know when we will run out!”
 “Of time?” Siri asked. “But you’re immortal!”
 “Not run out of time,” Lightsong said, holding up his plate. “Of grapes. I _hate_ listening to storytellers without grapes.”
-Siri rolled her eyes, but continued to eat the grape slices. The storyteller waited patiently. As she looked more closely, she could tell that he wasn’t quite as old as he seemed at first glance. The beard must be a badge of his profession, and while it didn’t appear to be fake, she suspected that it had been bleached. He was much really younger than he wanted to appear.
+Siri rolled her eyes, but continued to eat the grape slices. The storyteller waited patiently. As she looked more closely, she could tell that he wasn’t quite as old as he seemed at first glance. The beard must be a badge of his profession, and while it didn’t appear to be fake, she suspected that it had been bleached. He was really much younger than he wanted to appear.
 Still, she doubted Lightsong would have settled for anyone other than the very best. She settled back in her chair—which, she noticed, had been crafted for someone of her size. _I should be careful with my questions_, she thought. _I can’t ask directly about the deaths of the old God Kings; that would be too obvious._
 “Storyteller,” she said. “What do you know of Hallandren history?”
 “Much, my queen,” he said, bowing his head.
@@ -4245,7 +4228,7 @@ Still, she doubted Lightsong would have settled for anyone other than the very b
 Hoid reached into his robes and pulled out a handful of something else. He began to drop it before him—small green leaves from the fronds of a fern.
 “Paradise, they called it,” Hoid whispered. “A paradise hidden between the mountains, a land with pleasant rains that never grew cold, a land where succulent food grew spontaneously.” He threw the handful of leaves into the air, and in the center of them puffed a burst of colorful dust, like a tiny flameless firework. Deep reds and blues mixed in the air, blowing around him.
 “A land of color,” he said. “Because of the Tears of Edgli, the striking flowers of such brilliance that could yield dyes that would hold fast in any cloth.”
-Siri had never really thought about how Hallandren would look to people who came across the Inner Sea. She’d heard stories from the ramblemen who came into Idris, and they spoke of distant places. In other lands, one found parries and steppes, mountains and deserts. But not jungles. Hallandren was unique.
+Siri had never really thought about how Hallandren would look to people who came across the Inner Sea. She’d heard stories from the ramblemen who came into Idris, and they spoke of distant places. In other lands, one found prairies and steppes, mountains and deserts. But not jungles. Hallandren was unique.
 “The First Returned was born during this time,” Hoid said, sprinkling a handful of silver glitter into the air before him. “Aboard a ship that was sailing the coast. Returned can now be found in all parts of the world, but the first one—the man whom you call Vo, but we name only by his title—was born here, in the waters of this very bay. He declared the Five Visions. He died a week later.
 “The men of his ship founded a kingdom upon these beaches, then called Hanald. Before their arrival, all that had existed in these jungles was the people of Pahn Kahl, more a mere collection of fishing villages than a true kingdom.”
 The glitter ran out, and Hoid began to drop a powdery brown dirt from his other hand as he reached into another pocket. “Now, you may wonder why I must travel back so far. Should I not speak of the Manywar, of the shattering of kingdoms, of the Five Scholars, of Kalad the Usurper and his phantom army, which some say still hides in these jungles, waiting?
@@ -4261,7 +4244,7 @@ The storyteller fell silent for a moment. And then he pulled out two handfuls an
 “You know, perhaps, that the royal family was growing increasingly interested in the process by which Breath could be used to bring objects to life. Awakening, it was then first being called. It was a fresh and poorly understood art, then. It still is, in many ways. The workings of the souls of men—their power to animate ordinary objects and the dead to life—is something discovered barely four centuries ago. A short time, by the accounting of gods.”
 “Unlike a court proceeding,” Lightsong mumbled, glancing over at the priests who were still talking about sanitation. “Those seem to last an eternity, according to the accounting of this god.”
 The storyteller didn’t break stride at the interruption. “Breath,” he said. “The years leading up to the Manywar, those were the days of the Five Scholars and the discovery of new Commands. To some, this was a time of great enlightenment and learning. Others call them the darkest days of men, for it was then we learned to best exploit one another.”
-He began to drop two handfuls of dust, one bright yellow, the other black. Siri watched, amused. He seemed to be slanting what he said toward her, careful not to offend her Idris sensibilities. What did she really know of Breath? She’d rarely even seen any Awakeners in the court. Even when she did, she didn’t really care. The monks had spoken against such things, but, well, she had paid about as much attention to them as she had to her tutors.
+He began to drop two handfuls of dust, one bright yellow, the other black. Siri watched, amused. He seemed to be slanting what he said toward her, careful not to offend her Idrian sensibilities. What did she really know of Breath? She’d rarely even seen any Awakeners in the court. Even when she did, she didn’t really care. The monks had spoken against such things, but, well, she had paid about as much attention to them as she had to her tutors.
 “One of the Five Scholars made a discovery,” Hoid continued, dropping a handful of white scraps, small torn pieces of paper with writing on them. “Commands. Methods. The means by which a Lifeless could be created from a _single Breath_.
 “This, perhaps, seems a small thing to you. But you must look at the past of this kingdom and its founding. Hallandren began with the servants of a Returned and was developed by an expansive mercantile effort. It controlled a uniquely lucrative region which, through the discovery and maintenance of the northern passes—combined with increasingly skillful navigation—was becoming a jewel coveted by the rest of the world.”
 He paused and his second hand came up, dropping little bits of metal, which fell to the stonework with a sound not unlike falling rain. “And so the war came,” he said. “The Five Scholars split, joining different sides. Some kingdoms gained the use of Lifeless while others did not. Some kingdoms had weapons others could only envy.
@@ -4380,7 +4363,7 @@ Saved by a monster. Perhaps that was what made her so determined to use her Brea
 Denth glanced at Clod. “They’re not all equal. Most Lifeless, they’re just made out of whatever body happens to be around. If you pay good money, you can get one who was very skillful in life.”
 She felt a chill, remembering then that moment of humanity she’d seen on Clod’s face as he defended her. If an undead monstrosity could be a hero, then a pious princess could blaspheme. Or was she still just trying to justify her actions?
 “Skill,” she whispered. “They keep it?”
-Denth nodded. “Some semblance of it, at least. Considering what we paid for this guy, he’d must have been quite the soldier. And that’s why it’s worth the money, time, and trouble to repair him, rather than buy a new Lifeless.”
+Denth nodded. “Some semblance of it, at least. Considering what we paid for this guy, he must have been quite the soldier. And that’s why it’s worth the money, time, and trouble to repair him, rather than buy a new Lifeless.”
 _They treat him just like a thing_, Vivenna thought. Just as she should. And yet, more and more, she thought of Clod as a “he.” He had saved her life. Not Denth, not Tonk Fah. Clod. It seemed to her that they should show more respect for him.
 Jewels finished with the muscles, then sewed the skin closed with a thick string.
 “Though he’ll kind of heal,” Denth said, “it’s best to use something strong in the repair, so the wound doesn’t rip apart again.”
@@ -4428,7 +4411,7 @@ He blinked. “Well, for Siri, of course. Isn’t that why we came? To rescue he
 Vivenna watched him go.
 _He’s twice the person I am_, she thought with shame, turning toward her room. _But I’m just finding it hard to care anymore._ Everything had been taken from her. Why not Parlin, too? Her hatred for Hallandren grew a little more firm as she stepped into her room.
 _I just need to sleep_, she thought. _Maybe after that, I can figure out just what in the name of the Colors I’m doing in this city._
-Of one thing remained firm. She was going to learn how to Awaken. The Vivenna from before—the one who had a right to stand tall and denounce Breath as unholy—no longer had a place in T’Telir. The real Vivenna hadn’t come to Hallandren to save her sister. She’d come because she couldn’t stand being unimportant.
+One thing remained firm. She was going to learn how to Awaken. The Vivenna from before—the one who had a right to stand tall and denounce Breath as unholy—no longer had a place in T’Telir. The real Vivenna hadn’t come to Hallandren to save her sister. She’d come because she couldn’t stand being unimportant.
 She’d learn. That was her punishment.
 Inside her room, she pushed the door closed, locking the bolt. Then she walked over to pull the drapes closed.
 A figure stood on her balcony, resting easily against the railing. He wore several days’ worth of stubble on his face and his dark clothing was worn, almost tattered. He carried a deep black sword.
@@ -4511,8 +4494,8 @@ _Silly fool_, she told herself. _Everything you love is in danger and you’re t
 She needed to find a way to help Susebron. In doing so, perhaps she could bring him out from beneath the oppressive control of the priests. Then he might be able to do something to help her homeland. As she followed that line of thought, she almost missed a comment from below. It was spoken by one of the priests most strongly in favor of attacking.
 “Have you not heard of the Idrian agent who has been causing havoc in the city?” the priest asked. “The Idrians are preparing for the war! _They_ know that a conflict is inevitable and so they’ve begun to work against us!”
 Siri perked up. _Idrian agents in the city?_
-“Bah,” said another of the priests. “The ‘infiltrator’ you speak of is said to be a princess of the royal family. That’s obviously a story for the common people. Why would a princess come in secret to T’Telir? Theses stories are ridiculous and unfounded.”
-Siri grimaced. That, at least, was obviously true. Her sisters were not the types to come and work as “Idrian agents.” She smiled, imagining her softspoken monk of a sister—or even Vivenna in her prim outfits and stony attitude—coming to T’Telir in secret. Part of her had a little trouble believing that Vivenna had really been intended to become Susebron’s bride. Starchy Vivenna? Having to deal with the exotic court and the wild costumes?
+“Bah,” said another of the priests. “The ‘infiltrator’ you speak of is said to be a princess of the royal family. That’s obviously a story for the common people. Why would a princess come in secret to T’Telir? These stories are ridiculous and unfounded.”
+Siri grimaced. That, at least, was obviously true. Her sisters were not the types to come and work as “Idrian agents.” She smiled, imagining her soft-spoken monk of a sister—or even Vivenna in her prim outfits and stony attitude—coming to T’Telir in secret. Part of her had a little trouble believing that Vivenna had really been intended to become Susebron’s bride. Starchy Vivenna? Having to deal with the exotic court and the wild costumes?
 Vivenna’s stoic coldness would never have coaxed Susebron out of his imperial mask. Vivenna’s obvious disapproval would have alienated her from gods like Lightsong. Vivenna would have hated wearing the beautiful dresses and would never have appreciated the colors and variety in the city. Siri might not have been ideal for the position, but she was slowly coming to realize that Vivenna hadn’t been a good choice either.
 A group of people was approaching along the walkway. Siri remained where she was; she was too distracted by her thoughts to pay much attention.
 “Are they talking about a relative of yours?” a voice asked.
@@ -4535,7 +4518,7 @@ Siri nodded dumbly; then Blushweaver turned and moved away, muttering, “Find s
 Siri watched her go, shocked. When she finally regained her composure, she blushed furiously, then fled.
 - - -
 By the time she got back to the palace, Siri was quite ready for her bath. She entered the bathing chamber, letting her serving women undress her. They retreated with the clothing, then exited to prepare the evening’s gown. That left Siri in the hands of a group of lesser attendants, the ones whose job it was to follow her into the massive tub and scrub her clean.
-Siri relaxed and leaned back, sighing as the women went to work. Another group—standing fully clothed in the deep water—pulled her hair straight then cut most of it free, something she’d ordered them to do every night.
+Siri relaxed and leaned back, sighing as the women went to work. Another group—standing fully clothed in the deep water—pulled her hair straight and then cut most of it free, something she’d ordered them to do every night.
 For a few moments, Siri floated and let herself forget the threats to her people and her husband. She even let herself forget Blushweaver and her snappish misunderstanding. She just enjoyed the heat and the scents of the perfumed water.
 “You wanted to speak with me, My Queen?” a voice asked.
 Siri started, splashing as she dunked her body beneath the water. “Bluefingers,” she snapped. “I thought we’d cleared this up on the first day!”
@@ -4717,7 +4700,7 @@ Jewels fell. Vivenna scrambled up the stairs.
 “You let her hear the security phrase?” Denth bellowed, sounds of struggle coming from where he was wrestling with Clod.
 Jewels gained her feet and followed Vivenna. The woman’s foot broke through a step, however. Vivenna stumbled into the room above, then threw the door shut. She reached over, turning the latch.
 _Won’t hold them for long_, she thought, feeling helpless. _They’ll keep coming. Chasing me. Just like Vasher. God of Colors. What am I going to do?_
-She rushed out onto the street, now lit by the dawn light filling into the city, and ducked down an alleyway. Then she just kept running—this time trying to pick the smallest, dirtiest, darkest alleyways she could.
+She rushed out onto the street, now lit by the dawn light filling the city, and ducked down an alleyway. Then she just kept running—this time trying to pick the smallest, dirtiest, darkest alleyways she could.
 
 # 36
 _I will not leave you_, Susebron wrote, sitting on the floor beside the bed, his back propped up by pillows. _I promise._
@@ -4763,7 +4746,7 @@ _I think she must have been planning to offer him food._
 He hesitated. _She wasn’t offering food, was she?_
 Siri smiled again.
 He flushed. _I feel like such an idiot. There is so much that everyone else understands intrinsically. Yet I have only the stories of a children’s book to guide me. I’ve read them so often that it’s hard to separate myself—and the way I view them—from the child I was when I first read them._
-He began to erase furiously. She sat up then laid a hand on his arm.
+He began to erase furiously. She sat up, then laid a hand on his arm.
 _I know that there are things I’m missing_, he wrote. _Things that embarrass you, and I have guesses. I am not a fool. And yet, I get frustrated. With your flirtation and sarcasm—both behaviors where you apparently act opposite to what you want—I fear that I will never understand you._
 He stared with frustration at his board, wiping cloth held in one hand, charcoal in the other. The fire cracked quietly in the fireplace, throwing waves of overbright yellow against his clean-shaven face.
 “I’m sorry,” she said, scooting closer to him. She wrapped her arms around his elbow, laying her head against his upper arm. He actually didn’t seem that much bigger than she, now that she was used to it. There had been men back in Idris who had stood as much as six and a half feet tall, and Susebron was only a few inches taller than that. Plus, because his body was so perfectly proportioned, he didn’t seem spindly or unnatural. He was normal, just bigger.
@@ -4875,9 +4858,9 @@ The betrayal felt so much the worse for how she’d come to trust, even befriend
 She stumbled down yet another alleyway, hand on the wall of a brick building beside her. Dirt and soot stained her fingers. Her hair was a bleached white. It still hadn’t recovered.
 The attack in the slum had been frightening. Getting captured by Vasher had been terrifying. But seeing Parlin, tied to that chair, blood coming from his nose, his cheeks sliced open to reveal the inside of his mouth . . .
 She would never forget. Something inside of her seemed broken. Her ability to care. She was just . . . numb.
-She reached the end of the alleyway, then looked up dully. There was a wall front of her. A dead end. She turned to go back.
+She reached the end of the alleyway, then looked up dully. There was a wall in front of her. A dead end. She turned to go back.
 “You,” a voice said.
-Vivenna turned, surprised at the speed her own reaction. Her mind remained shocked, but a carnal part of her was still awake. Capable of defensive instinct.
+Vivenna turned, surprised at the speed of her own reaction. Her mind remained shocked, but a carnal part of her was still awake. Capable of defensive instinct.
 She stood in a narrow alley like those she had walked down all day. She’d kept to the slums, figuring that Denth would expect her to run for the open city. He knew it better than she did. In her addled mind, staying in the cluttered, quiet slum seemed a much better idea.
 A man sat on a small stack of boxes behind her, legs swinging over the sides. He was short, dark-haired, and wore typical slum clothing—a mixture of garments going through various stages of wear.
 “You’ve been causing quite a stir,” the man said.
@@ -4960,7 +4943,7 @@ _If they’re going to lock us in here_, he thought, _they could at least give u
 Lightsong didn’t need to look to know that Blushweaver was standing with hands on hips beside him. He threw another pebble.
 “You know,” he said, “it’s always struck me as strange. When we say oaths like that, we use the colors. Why not use our own names? We are, allegedly, gods.”
 “Most gods don’t like their names being used as an oath,” Blushweaver said, sitting beside him.
-“Then they are far too pompous for my taste,” Lightsong said, tossing a pebble. It missed, and a servant deposited it. “I, personally, should find it very flattering to have my name used as an oath. Lightsong the Brave! Or, by Lightsong the Bold! I suppose that’s a bit of a mouthful. Perhaps we could shorten it to simple Lightsong!”
+“Then they are far too pompous for my taste,” Lightsong said, tossing a pebble. It missed, and a servant deposited it. “I, personally, should find it very flattering to have my name used as an oath. Lightsong the Brave! Or, by Lightsong the Bold! I suppose that’s a bit of a mouthful. Perhaps we could shorten it to a simple Lightsong!”
 “I swear,” she said. “You are getting stranger by the day.”
 “No, actually,” he said. “You _didn’t_ swear in that particular statement. Unless you’re proposing we should swear using the personal pronoun. _You!_ So, your line at this point is ‘What in the name of You are you doing?’ ”
 She grumbled at him under her breath.
@@ -4991,7 +4974,7 @@ Blushweaver watched him toss—and miss—with another pebble. As he’d instruc
 “It’s easy,” Lightsong said. “You see someone wearing purple, you throw a pebble in the urn of the same color.”
 “Yes, dear,” she said. “But _why_?”
 “To keep track of how many priests of each god enter the court, of course,” Lightsong said. “They’ve slowed to nearly a trickle. Scoot, would you mind counting?”
-Llarimar bowed then gathered several servants and scribes, ordering them to empty the urns and count the contents of each one.
+Llarimar bowed and then gathered several servants and scribes, ordering them to empty the urns and count the contents of each one.
 “My dear Lightsong,” Blushweaver said. “I _do_ apologize if I’ve been ignoring you lately. Allmother has been rudely unresponsive to my suggestions. If my lack of attention has caused your fragile mind to snap . . .”
 “My mind is quite unsnapped, thank you,” Lightsong said, sitting up, watching the servants count.
 “Then, you must be so very bored,” Blushweaver continued. “Perhaps we can come up with something to entertain you.”
@@ -5020,12 +5003,12 @@ Lightsong shrugged. “Anyway, my servants broke this one for me. The stronger a
 “That’s why we need to get the Commands from Allmother,” Blushweaver said. “If something were to happen to her, her ten thousand would become useless to us. It would take years to break that many Lifeless!”
 “The God King and some of Allmother’s priestesses have the codes as well,” Lightsong said.
 “Oh,” Blushweaver said, “and you think _he_ is going to just give them over to us? Assuming we’re even allowed to talk to him?”
-“I’m just pointing out that a single assassination couldn’t ruin our entire army,” Lightsong said, holding up the squirrel. “That’s not the point. The point is that whomever made this squirrel held quite a bit of Breath and knew what he was doing. The creature’s blood has been replaced with ichor-alcohol. The sutures are perfect. The Commands controlling the rodent were extremely strong. It’s a marvelous piece of BioChromatic art.”
+“I’m just pointing out that a single assassination couldn’t ruin our entire army,” Lightsong said, holding up the squirrel. “That’s not the point. The point is that whoever made this squirrel held quite a bit of Breath and knew what he was doing. The creature’s blood has been replaced with ichor-alcohol. The sutures are perfect. The Commands controlling the rodent were extremely strong. It’s a marvelous piece of BioChromatic art.”
 “And?” she asked.
 “And he released it in Mercystar’s palace,” Lightsong said. “Creating a distraction so that he could sneak into those tunnels. Someone else followed the intruder, and this second person killed a man to keep him from revealing what he’d seen. Whatever is in those tunnels—wherever they lead—it’s important enough to waste Breath on. Important enough to kill for.”
 Blushweaver shook her head. “I still can’t believe you are even worrying about this.”
 “You said you knew about the tunnels,” Lightsong said. “I had Llarimar ask around, and others know of them too. They’re used for storage beneath the palaces, as said. Different gods have ordered them constructed at various times during the history of the court.
-“But,” he continued, excited, “they would also be the perfect place to set up a clandestine operation! The court is outside the jurisdiction of the regular city guards. Each palace is like a little, autonomous country! Expand a few of those cellars so that their tunnels connect with others, dig them out past the walls so that you can come and go secretly . . .”
+“But,” he continued, excited, “they would also be the perfect place to set up a clandestine operation! The court is outside the jurisdiction of the regular city guards. Each palace is like a little autonomous country! Expand a few of those cellars so that their tunnels connect with others, dig them out past the walls so that you can come and go secretly . . .”
 “Lightsong,” Blushweaver said. “If something _that_ secret were going on, then why would the priests use those tunnels to come into the court? Wouldn’t that be a little suspicious? I mean, if you noticed it, how hard could it be to discover?”
 Lightsong paused, then flushed slightly. “Of course,” he said. “I got so wrapped up in pretending to be useful that I forgot myself! Thank you so much for reminding me that I am an idiot.”
 “Lightsong, I didn’t mean—”
@@ -5070,7 +5053,7 @@ She bowed her head and moved along with the crowd, though most of them kept thei
 She’d stopped worrying about the morality of stealing days ago. Even before leaving the slum alleys for the streets, she hadn’t been so naive as to believe that she wouldn’t steal if she were denied food, though she had assumed that it would take her far longer to reach that state.
 She didn’t head to another corner, but instead shuffled out of the crowds, making her way back into the Idrian slums. Here she’d gained some small measure of acceptance. At least she was considered one of them. None knew that she was the princess—after that first man, nobody had recognized her. However, her accent had earned her a place.
 She began to seek out a location to spend the night. That was one of the reasons she’d decided not to continue begging for the evening. It was a profitable time, true, but she was just so tired. She wanted a good place to sleep. She wouldn’t have thought that it would make much difference which alleyway one huddled in, but some were warmer than others and some had better cover from the rain. Some were safer. She was beginning to learn these things, as well as who to avoid angering.
-In her case, that last group included pretty much everyone—including the urchins. They were all above her in the pecking order. She’d learned that second day. She’d tried to bring back a coin from selling her hair, intending to save it for a chance at leaving the city. She wasn’t certain how the urchins had known that she had coin, but she’d gotten her first beating that day.
+In her case, that last group included pretty much everyone—including the urchins. They were all above her in the pecking order. She’d learned that the second day. She’d tried to bring back a coin from selling her hair, intending to save it for a chance at leaving the city. She wasn’t certain how the urchins had known that she had coin, but she’d gotten her first beating that day.
 Her favorite alleyway turned out to be occupied by a group of men with dark expressions, doing something that was obviously illegal. She left quickly, going to her second-favorite. It was crowded with a gang of urchins. The ones who had beaten her before. She left that one quickly as well.
 The third alley was empty. This one was beside a building with a bakery. The ovens hadn’t yet been stoked for the night’s baking, but they would provide some warmth through the walls in the early morning.
 She lay down, curling up with her back against the bricks, clutching her shawl close. Despite the lack of pillow or blanket, she was asleep in moments.
@@ -5093,7 +5076,7 @@ He hurried to catch up. “I need to speak to you about something.”
 Treledees frowned.
 “However,” she continued, “I will of course make time for the high priest himself, should he come to speak to me.”
 He eyed her, standing tall and straight-backed, wearing the God King’s colors of the day—blue and copper. “You should not antagonize me, Your Highness.”
-Siri felt a brief flush off anxiety, but caught her hair before it bleached white. “I am not antagonizing you,” she said. “I am simply establishing some rules that should have been understood from the beginning.”
+Siri felt a brief flush of anxiety, but caught her hair before it bleached white. “I am not antagonizing you,” she said. “I am simply establishing some rules that should have been understood from the beginning.”
 Treledees got a hint of a smile on his face.
 _What?_ Siri thought with surprise. _Why that reaction?_
 As they walked, he drew himself up. “Is that so?” he said, his voice turning condescending. “You know very little of what you presume, Your Highness.”
@@ -5105,7 +5088,7 @@ _Wait_, she thought. _It’s like he can read my emotions. Like he can see . . .
 Her hair hadn’t changed colors, at least not discernibly. She glanced at Treledees, trying to figure out what was wrong. She noticed something interesting. In a circle around Treledees, the grass seemed just a shade more colorful.
 _Breath_, she thought. _Of course he’d have it! He’s one of the most powerful men in the kingdom._
 People with lots of Breath were supposed to be able to see very minute changes in color. Could he really be reading her from such faint reactions in her hair? Was that why he had always been so dismissive? Could he see her fear?
-She gritted her teeth. In her youth, Siri had ignored the exercises that Vivenna had done to make sure she had complete control over her hair. Siri was an emotional person, and people had been able to read her regardless her hair, so she’d figured that there was no point in learning to manipulate the Royal Locks.
+She gritted her teeth. In her youth, Siri had ignored the exercises that Vivenna had done to make sure she had complete control over her hair. Siri was an emotional person, and people had been able to read her regardless of her hair, so she’d figured that there was no point in learning to manipulate the Royal Locks.
 She hadn’t imagined a Court of Gods and men with the power of BioChroma. Those tutors had been a _whole_ lot more intelligent than Siri had credited. As were the priests. Now that she thought about it, it was obvious that Treledees and the others would have studied the meanings of all the shades of hair changes.
 She needed to get the conversation back on course. “Do not forget, Treledees,” she said. “You are the one who came to see me. Obviously, I have _some_ power here, if I could force even the high priest to do as I wish.”
 He glanced at her, eyes cold. Focusing, she kept her hair the deepest black. Black, for confidence. She met his eyes, and let not even a slight tinge color her locks.
@@ -5138,7 +5121,7 @@ Treledees obviously did not like how the conversation was going. He glanced at h
 Treledees flushed with anger.
 _He really does care_, Siri noted abstractly. _Or, at least, insulting his God King insults him. He’s more devoted than I would have expected._
 So it probably wasn’t about money. She couldn’t be sure, but she suspected that this was not the type of man to sell out his religion. Whatever the reasons for what was happening inside the palace, it probably had to do with true conviction.
-Revealing what she knew about Susebron was a gamble. She figured that Treledees would guess anyway, and so it would be better to indicate that she thought Susebron a fool with the mind of a child. Give away one bit of information, but also mislead with another. If they assumed that she thought Susebron a fool, they wouldn’t suspect an conspiracy between her and her husband.
+Revealing what she knew about Susebron was a gamble. She figured that Treledees would guess anyway, and so it would be better to indicate that she thought Susebron a fool with the mind of a child. Give away one bit of information, but also mislead with another. If they assumed that she thought Susebron a fool, they wouldn’t suspect a conspiracy between her and her husband.
 Siri wasn’t certain if she was doing the right thing. But she needed to learn, or Susebron would die. And the only way to learn was to do. She didn’t have much, but she _did_ have one thing that the priests wanted: her womb.
 It seemed that she could hold it for ransom effectively, for Treledees suppressed his anger and maintained a semblance of calm. Turning from her, he glanced up at the palace. “Do you know much about the history of this kingdom? After your family departed, of course.”
 Siri frowned, surprised at the question. _More than you probably think_, she thought. “Not really,” she said out loud.
@@ -5169,7 +5152,7 @@ With a sigh, she raised the first bit of food to her lips and continued with her
 Vivenna presented her coin.
 “One bit?” Cads asked. “That’s all? One _single_ bit?” He was among the dirtiest men she’d met, even in the streets. He liked fancy clothing, though. It was his style—worn and dirty clothing in the latest designs. He seemed to think it was funny. A mockery of the highborn.
 He turned her coin over in his grime-covered fingers. “One bit,” he repeated.
-“Please,” Vivenna whispered. They stood at the mouth of an alley at the back two restaurants. Just inside the alley, she could see urchins rooting in the garbage. Fresh garbage from _two_ restaurants. She salivated.
+“Please,” Vivenna whispered. They stood at the mouth of an alley at the back of two restaurants. Just inside the alley, she could see urchins rooting in the garbage. Fresh garbage from _two_ restaurants. She salivated.
 “I find it hard to believe, lady girly,” he said, “that _this_ is all you made today.”
 “Please, Cads,” she said again. “You know . . . you know I don’t beg well.” It was starting to rain. Again.
 “You should do better,” he said. “Even the children can bring me at least two.”
@@ -5223,11 +5206,8 @@ Vivenna stared dully ahead. Then, numb, she sat down in the street. She didn’t
 The priestess bowed her head. “My pardons, Your Grace, but I have already asked fourteen times. Goddess Allmother is growing impatient with your requests, and she instructed me not to respond to them anymore.”
 “Did she give the same command to the other priestesses?”
 The priestess paused. “Well, no, Your Grace.”
-“Wonderful,” Lightsong said. “Send for one of them. Then send _her_ to ask Allmother if she will see me.”
-The priestess sighed audibly; Lightsong considered that something of a victory. Allmother’s priests were among the most pious—and most humble—in the court. If he could annoy them, he could annoy anyone.
-He waited, hands on hips, as the priestess went to do his bidding. Allmother could give them orders and commands, but she couldn’t tell them to completely ignore Lightsong. After all, he was a god too. As long as he asked them to something other than what Allmother had explicitly forbidden, they had to obey.
-Even if it annoyed their goddess.
-“I’m developing a new skill,” Lightsong said. “Irritation by proxy!”
+“Wonderful,” Lightsong said. “Send for one of them. Then send _her_ to ask Allmother if she will see me.” The priestess sighed audibly; Lightsong considered that something of a victory. Allmother’s priests were among the most pious—and most humble—in the court. If he could annoy them, he could annoy anyone. He waited, hands on hips, as the priestess went to do his bidding. Allmother could give them orders and commands, but she couldn’t tell them to completely ignore Lightsong. After all, he was a god too. As long as he asked them to do something other than what Allmother had explicitly forbidden, they had to obey.
+Even if it annoyed their goddess. “I’m developing a new skill,” Lightsong said. “Irritation by proxy!”
 Llarimar sighed. “What about your speech to Goddess Blushweaver a few days ago, Your Grace? It seemed to imply that you were _not_ going to annoy people as much.”
 “I said nothing of the sort,” Lightsong said. “I simply said that I was coming to recognize within myself a little more of the person I used to be. That doesn’t mean I’m going to discard all the progress I’ve made over the last few years.”
 “Your sense of self-awareness is remarkable, Your Grace.”
@@ -5261,7 +5241,7 @@ People still waited in a line and Allmother sat on a throne at the front of the 
 It had been a while since he’d come to visit her. In fact . . . _The last time I was here was the night before Calmseer gave up her Breath_, he realized. _That evening, years ago, when we shared what would be her last meal._
 He’d never come back. What would have been the point? They’d only gotten together in the first place because of Calmseer. On most of those occasions, Allmother had been quite vocal about what she thought of Lightsong. At least she was honest.
 That was more than he could say for himself.
-She didn’t acknowledge him as he entered. She continued to sit, a little stooped over, listening to the man presenting his petition. He was middleaged and stood awkwardly, leaning on a walking staff.
+She didn’t acknowledge him as he entered. She continued to sit, a little stooped over, listening to the man presenting his petition. He was middle-aged and stood awkwardly, leaning on a walking staff.
 “. . . my children are starving now,” he said. “I cannot afford the food. I figured if my leg worked, I could go back to the docks.” He looked down.
 “Your faith is commendable,” Allmother said. “Tell me, how did you lose the use of your leg?”
 “A fishing accident, Your Grace,” the man said. “I came down from the highlands a few years back, when early frosts took my crops. I took a job on one of the stormrunners—the ships who go out during the spring tempests, catching fish when others remain in the harbor. The accident crushed a barrel against me leg. Nobody will take me on to work the boats, not with a lame leg.”
@@ -5313,20 +5293,11 @@ She snorted quietly. “Someday, you’ll have to get over your foolish selfishn
 “Well, you now have my Commands. For better, or for worse.” The aged goddess turned away, walking back toward her room of supplicants. “I, for one, am curious to see how you handle them.”
 
 # 43
-Vivenna awoke, sick, tired, thirsty, starving.
-But alive.
-She opened her eyes, feeling a strange sensation. Comfort. She was in a comfortable soft bed. She sat up immediately; her head spun.
-“I’d be careful,” a voice said. “Your body is weak.”
-She blinked fuzzy eyes, focusing on a figure sitting at a table a short distance away, his back to her. He appeared to be eating.
-A black sword in a silver sheath rested against the table.
-“You,” she whispered.
-“Me,” he said between bites.
-She looked down at herself. She wasn’t wearing her shift anymore, but instead had on a set of soft cotton sleeping garments. Her body was clean.`She raised a hand to her hair, feeling that the tangles and mats were gone. It was still white.
-She felt so strange to be clean.
-“Did you rape me?” she asked quietly.
+Vivenna awoke, sick, tired, thirsty, starving. But alive.
+She opened her eyes, feeling a strange sensation. Comfort. She was in a comfortable soft bed. She sat up immediately; her head spun. “I’d be careful,” a voice said. “Your body is weak.”
+She blinked fuzzy eyes, focusing on a figure sitting at a table a short distance away, his back to her. He appeared to be eating. A black sword in a silver sheath rested against the table. “You,” she whispered. “Me,” he said between bites. She looked down at herself. She wasn’t wearing her shift anymore, but instead had on a set of soft cotton sleeping garments. Her body was clean. She raised a hand to her hair, feeling that the tangles and mats were gone. It was still white. She felt so strange to be clean. “Did you rape me?” she asked quietly.
 He snorted. “A woman who’s been to Denth’s bed holds no temptation for me.”
-“I never slept with him,” she said, though she didn’t know why she cared to tell him.
-Vasher turned, face still framed by the patchy, ragged beard. His clothing was far less fine than her own. He studied her eyes. “He had you fooled, didn’t he?”
+“I never slept with him,” she said, though she didn’t know why she cared to tell him. Vasher turned, face still framed by the patchy, ragged beard. His clothing was far less fine than her own. He studied her eyes. “He had you fooled, didn’t he?”
 She nodded.
 “Idiot.”
 She nodded again.
@@ -5403,7 +5374,7 @@ Vivenna snorted. “Denth said that every man thinks he’s doing the right thin
 Vivenna froze.
 “Denth wasn’t working for you,” Vasher said. “He wasn’t even pretending to. Someone in this city hired him to start a war between Idris and Hallandren, and he’s spent these last few months using you to make it happen. I’m trying to figure out why. Who’s behind it, and why would a war serve them?”
 Vivenna sat back, eyes wide. It couldn’t be. He had to be wrong.
-“You were the perfect pawn,” Vasher said. “You reminded the people in the slums of their true heritage, giving Denth someone to rally them behind. The Court of Gods is a hair’s breadth away from marching on your homeland. Not because they hate Idrians, but because they feel like Idris insurgents have _already_ been attacking them.”
+“You were the perfect pawn,” Vasher said. “You reminded the people in the slums of their true heritage, giving Denth someone to rally them behind. The Court of Gods is a hair’s breadth away from marching on your homeland. Not because they hate Idrians, but because they feel like Idrian insurgents have _already_ been attacking them.”
 He shook his head. “I couldn’t believe that you didn’t realize what you were doing. I assumed you had to be working with him intentionally to start the war.” He eyed her. “I underestimated your stupidity. Get dressed. I don’t know if we have enough time to undo what you’ve done, but I intend to try.”
 - - -
 The clothing felt strange. The trousers pulled at her thighs, making her feel like she was exposed. It was odd not to have the swishing of skirts at her ankles.
@@ -5413,7 +5384,7 @@ The sword in Vasher’s hand was obviously enough to ward the girl away. Vivenna
 _Colors_, she thought. _Was that really me?_
 No. She hadn’t even been as capable as that girl. Vivenna had been so naive that she’d been kidnapped without knowing it, then worked to start a war without realizing what she was doing.
 _Didn’t you ever stop to think that maybe you were on the wrong side?_
-She wasn’t sure what to believe. She’d been taken in so quickly by Denth that she was hesitant to accept anything this Vasher said. However, she _could_ see signs that some of what he had told her were true.
+She wasn’t sure what to believe. She’d been taken in so quickly by Denth that she was hesitant to accept anything this Vasher said. However, she _could_ see signs that some of what he had told her was true.
 Denth had always taken her to meet with the less reputable elements in the city. Not only were they the ones a mercenary like him would know, but they would be more likely to prefer the chaos of war. Attacking the Hallandren supplies wouldn’t only make it more difficult to administer the war, it would make the priests more likely to attack while they were still strong. The losses would also serve to make them angrier.
 It made chilling sense—sense it was hard for her to ignore. “Denth made me think that the war was inevitable,” Vivenna whispered as they walked through the slums. “My father thinks it’s inevitable. Everyone says it’s going to happen.”
 “They’re wrong,” Vasher said. “War between Hallandren and Idris has been close for decades, but never inevitable. Getting this kingdom to attack requires convincing the Returned—and they’re generally too focused on themselves to want something as disruptive as a war. Only an extended effort—first convincing the priests, then getting them to argue until the gods believed them—would be successful.”
@@ -5432,7 +5403,7 @@ They fell silent again.
 Vasher sighed. “Look, Princess. I’m not like Denth; I don’t have his ability with words, and I don’t really like people in the first place. Don’t expect me to chat with you. All right?”
 Vivenna shut her mouth in surprise. _If he’s trying to manipulate me_, she thought, _he has a very strange way of doing it._
 Their destination turned out to be a run-down building on the corner of a run-down intersection. As they approached, Vivenna paused to wonder exactly how slums like this one came to exist. Did people build them cramped and shoddy on purpose? Had these streets, like others she’d seen, once been part of a better section of town that had fallen into disrepair?
-Vasher grabbed her arm as she stood there, then pulled her up to the door, upon which he pounded with the hilt of his sword. The door creaked open a second later, and a pair of nervous eyes glanced out.
+Vasher grabbed her arm as she stood there, then pulled her up to the door and pounded on it with the hilt of his sword. The door creaked open a second later, and a pair of nervous eyes glanced out.
 “Get out of the way,” Vasher said, testily shoving the door open the rest of the way and pulling Vivenna inside. A young man stumbled back, pressing up against the wall of the hallway and letting Vasher and Vivenna pass. He closed the door behind them.
 Vivenna felt as if she should be frightened, or at least angry, at the treatment. However, after what she had been through, it just didn’t seem like much. Vasher let go of her and thumped his way down a set of stairs. Vivenna followed more carefully, the dark stairwell reminding her of the cellar in Denth’s hideout. She shivered. At the bottom, fortunately, the similarities between cellars ended. This one had a wooden floor and walls. A rug sat in the middle of the room with a group of men sitting on it. A couple of them rose as Vasher rounded the stairs.
 “Vasher!” one said. “Welcome. Do you want something to drink?”
@@ -5502,7 +5473,7 @@ She continued to kneel, ashamed before these men. Ashamed to be crying, to be se
 _How could I fail so easily?_ she thought. _I, who was supposed to be so prepared, so in control. How could I be so angry that I ignored my people’s needs just because I wanted to see Hallandren pay?_
 “She is sincere,” one of the men finally said. “I will give her that.”
 “I don’t know,” said another. “I still feel it’s too late.”
-“If that’s the case,” Vivenna said, still looking at the floor, “what do you have to lose? Think of the lives you could save. I promise. Idris will not forget you any longer. If you make peace with Hallandren, I will insure that you are seen as heroes back in our homeland.”
+“If that’s the case,” Vivenna said, still looking at the floor, “what do you have to lose? Think of the lives you could save. I promise. Idris will not forget you any longer. If you make peace with Hallandren, I will ensure that you are seen as heroes back in our homeland.”
 “Heroes, eh?” one of them said. “It would be nice to be known as a hero, rather than the ones who left the highlands to live in brazen Hallandren.”
 “Please,” Vivenna whispered.
 “I’ll see what I can do,” one of the men said, standing.
@@ -5516,7 +5487,7 @@ Eventually, the room was empty save for her and Vasher. He sat down across from 
 “Am I a prisoner then?”
 He glanced at her. Then he walked over and squatted. “Look,” he said. “We both agree that war is bad for Idris. I’m not going to take you on raids or make you meet with slumlords. All you have to do is tell people you don’t want a war.”
 “And if I’m not willing to do that?” she said. “Will you force me?”
-He watched her for a moment, then swore under his breath, standing. He pulled out a bag of something and tossed it at her. It clinked as it hit her chest then fell to the floor.
+He watched her for a moment, then swore under his breath, standing. He pulled out a bag of something and tossed it at her. It clinked as it hit her chest and then fell to the floor.
 “Go,” he said. “Get back to Idris. I’ll do it without you.”
 She just continued to sit, staring. He began to walk away.
 “Denth used me,” she found herself whispering. “And the worst part is, I still feel like this must all be just a misunderstanding. I feel that he’s really my friend, and that I should go to him and find out why he did what he did. Maybe we are all just confused.”
@@ -5570,7 +5541,7 @@ _It hurts me to write this, but I’m beginning to think that you are right. I�
 “That’s a bad sign,” she agreed. “I haven’t had much luck finding out what is going to happen. I’ve ordered in three other storytellers but none of them had any better information than what Hoid gave me.”
 _You still think it’s about the Breath I hold?_
 She nodded. “Remember what I said about my conversation with Treledees? He talked about that Breath of yours with reverence. To him, it’s something to be passed from generation to generation, like a family tapestry.”
-_In one of the children’s stories in my book_, he wrote, _there is a magic sword. A young boy is given it by his grandfather, and it turns out the sword was a heirloom—the symbol of kingship in the land._
+_In one of the children’s stories in my book_, he wrote, _there is a magic sword. A young boy is given it by his grandfather, and it turns out the sword was an heirloom—the symbol of kingship in the land._
 “What are you saying?” she asked.
 _Perhaps the entire monarchy of Hallandren is nothing more than a way to guard the Breath. The only way to safely pass Breath between individuals and generations is to use people as hosts. So they created a dynasty of God Kings who could hold the treasure and pass it from father to son._
 Siri nodded slowly. “That would mean that the God King is more of a vessel than I am. A sheath for a magic weapon.”
@@ -5605,16 +5576,16 @@ He nodded, then scribbled on the board with one hand—the other was around Siri
 This seemed to make him even more sad, and Siri pulled him closer, laying her head on his chest.
 _Please_, he wrote. _Tell me of your family._
 “My father was often frustrated with me,” Siri said. “But he did love me. _Does_ love me. He just wanted me to do what they thought was right. And . . . well, the more time I spend in Hallandren, the more I wish I had listened to him, at least a little bit.
-“Ridger was right above me. I was always getting him into trouble. He was the heir, and I had him _thoroughly_ corrupted, at least until he got old enough to appreciate his duties. He’s a little like you. Very kindhearted, always trying to do what is right. He didn’t eat as many sweets, though.”
+“Ridger is my older brother. I was always getting him into trouble. He was the heir, and I had him _thoroughly_ corrupted, at least until he got old enough to appreciate his duties. He’s a little like you. Very kindhearted, always trying to do what is right. He didn’t eat as many sweets, though.”
 Susebron smiled faintly, squeezing her shoulder.
-“Then there was Fafen. I didn’t really know her that well. She joined a monastery when I was still quite young—and I was glad. It’s seen as a duty in Idris to provide at least one child for the monasteries. They’re the ones who grow the food for the needy and take care of things that need to be done around the city. Pruning, washing, painting. Anything to be of service.”
+“Between us is Fafen, but I didn’t really know her that well. She joined a monastery when I was still quite young—and I was glad. It’s seen as a duty in Idris to provide at least one child for the monasteries. They’re the ones who grow the food for the needy and take care of things that need to be done around the city. Pruning, washing, painting. Anything to be of service.”
 He reached over. _A little like a king_, he wrote. _Living a life to serve others._
 “Sure,” Siri said. “Only they don’t get locked up and they can stop doing it, if they want. Either way, I’m glad it was Fafen and not me. I would have gone _crazy_ living as a monk. They have to be pious all the time, and are supposed to be the least ostentatious in the city.”
 _Not a good match for your hair_, he wrote.
 “Definitely,” she said.
 _Though_, he wrote, frowning slightly. _It’s stopped changing colors so often lately._
 “I’ve had to learn to control it better,” Siri said with a grimace. “People can read me too easily by it. Here.” She changed it from black to yellow, and he smiled, running his fingers through its lengthy locks.
-“After Fafen,” Siri said, “there’s just the eldest, Vivenna. She’s the one you were supposed to marry. She spent her entire life preparing to move to Hallandren.”
+“After Fafen and Ridger,” Siri said, “there’s just the eldest, Vivenna. She’s the one you were supposed to marry. She spent her entire life preparing to move to Hallandren.”
 _She must hate me_, Susebron wrote. _Growing up knowing she would have to leave her family and live with a man she didn’t know._
 “Nonsense,” Siri said. “Vivenna looked forward to it. I don’t think she _can_ feel hatred. She was always just calm and careful and perfect.”
 Susebron frowned.
@@ -5658,8 +5629,8 @@ Who was she really? What was left, when one stripped away the princess and the h
 She was also a hypocrite. Now she knew what it was to be truly humble. Compared to that, her former life seemed more brash and arrogant than any colorful skirt or shirt.
 She did believe in Austre. She loved the teachings of the Five Visions. Humility. Sacrifice. Seeing another’s problems before your own. Yet she was beginning to think that she—along with many others—had taken this belief too far, letting her desire to seem humble become a form of pride itself. She now saw that when her faith had become about clothing instead of people, it had taken a wrong turn.
 She wanted to learn to Awaken. Why? What did that say about her? That she was willing to accept a tool her religion rejected, just because it would make her powerful?
-No, that wasn’t it. At least, she hoped it wasn’t it.
-Looking back on her recent life, she felt frustrated at her frequent helplessness. And _that_ felt like part of whom she really was. The woman who would do anything to be sure she wasn’t helpless. That was why she’d studied so hard with the tutors in Idris. That was also why she wanted to learn how to Awaken. She wanted as much information as she could, and wanted to be prepared for the problems that might come at her.
+No, that wasn’t it. At least, she hoped it wasn’t.
+Looking back on her recent life, she felt frustrated at her frequent helplessness. And _that_ felt like part of who she really was. The woman who would do anything to be sure she wasn’t helpless. That was why she’d studied so hard with the tutors in Idris. That was also why she wanted to learn how to Awaken. She wanted as much information as she could get, and wanted to be prepared for the problems that might come at her.
 She wanted to be capable. That might be arrogant, but it was the truth. She wanted to learn everything she could about how to survive in the world. The most humiliating aspect of her time in T’Telir was her ignorance. She wouldn’t make that mistake again.
 She nodded to herself.
 _Time to practice, then_, she thought, returning to the room. Inside, she pulled out a piece of rope—the one that Vasher had used to tie her up, the first thing that she had Awakened. She’d since retrieved the Breath from it.
@@ -5761,7 +5732,7 @@ She nodded.
 “What do you mean?” she asked.
 “Just what I said,” Vasher replied, shrugging. “We don’t really know what we’re doing.”
 “But you sound so technical and precise in your descriptions.”
-“We’ve figured out some things,” he said. “But Awakeners really haven’t been around that long. The more you learn about BioChroma, the more you’ll realize that there are more things that we _don’t_ know than there are things we do. Why are the specific Commands so important, and why do they have to be spoken in your native language? What brings Type One entities—Returned—back to life in the first place? Why are Lifeless so dullminded, while Returned fully sentient?”
+“We’ve figured out some things,” he said. “But Awakeners really haven’t been around that long. The more you learn about BioChroma, the more you’ll realize that there are more things that we _don’t_ know than there are things we do. Why are the specific Commands so important, and why do they have to be spoken in your native language? What brings Type One entities—Returned—back to life in the first place? Why are Lifeless so dull-minded, while Returned fully sentient?”
 Vivenna nodded.
 “Creating Type Three BioChromatic entities is what we traditionally call ‘Awakening,’ ” Vasher continued. “That’s when you create a BioChromatic manifestation in an organic host that is far removed from having been alive. Cloth works the best, though sticks, reeds, and other plant matter can be used.”
 “What about bones?” Vivenna asked.
@@ -5836,7 +5807,7 @@ He’d tried everything, and yet people still looked to him. He knew for a fact 
 Allmother claimed that some _did_ think that. She worried about the perceived lack of faith among the common people. Lightsong wasn’t certain he agreed with her. He knew of the theories—that the gods who lived the longest were the weak ones because the system encouraged the best to sacrifice themselves quickly. However, the same number of petitioners came to him now as when he first started. Plus, too few gods were chosen on a whole for that to be statistically valid.
 Or was he just distracting himself with irrelevant details? He leaned on the railing, looking out over the green and its glowing pavilions.
 This could be the crowning moment for him. He could finally prove himself to be an indolent wastrel. It was perfect. If he did nothing, then Allmother would be forced to take up the armies and resist Blushweaver.
-Was that what he wanted? Allmother kept herself isolated from the other gods. She didn’t attend many court assemblies and didn’t listen to the debates. Blushweaver was intimately involved. She knew every god and goddess well. She understood the issues, and she was very clever. Of all of the gods, only she had begun taking steps to secure their armies.
+Was that what he wanted? Allmother kept herself isolated from the other gods. She didn’t attend many Court Assemblies and didn’t listen to the debates. Blushweaver was intimately involved. She knew every god and goddess well. She understood the issues, and she was very clever. Of all of the gods, only she had begun taking steps to secure their armies.
 _Siri is no threat_, he thought. But if someone else were manipulating her? Would Allmother have the political savvy to understand the danger? Without his concerned guidance, would Blushweaver see that Siri wasn’t crushed?
 If he did walk away, there would be a cost. He would be to blame, for he’d given up.
 “Who was she, Llarimar?” Lightsong asked quietly. “The young woman in my dreams. Was she my wife?”
@@ -5876,7 +5847,7 @@ The only mitigating factor was the God King. Apparently, with his powerful BioCh
 The choice was left to the individual Returned. They could let some of their priests hear the Command phrase so that if something happened to the god, the priests could pass the phrase on to the next Returned. If the god chose not to give the phrase to his priests, then he placed an even larger burden on himself. Lightsong had found that option silly, years before, and had included Llarimar and several others in the secret.
 This time he saw wisdom in keeping the phrase to himself. Should he get the chance, he would whisper it to the God King. But only him. “Bottom line blue,” he said. “I give you a new Command phrase.” He paused. “Red panther. Red panther. Step to the right side of the room.”
 A group of the Lifeless near the front—those who could hear his voice—moved over to the side. Lightsong sighed, closing his eyes. A part of him had hoped that Allmother had come here first, that she had already changed the Command phrase.
-But she hadn’t. He opened his eyes then took the steps down to the warehouse floor. He spoke again, changing the phrase for another group. He could do about twenty or thirty at a time—he remembered the process taking hours the last time.
+But she hadn’t. He opened his eyes, then took the steps down to the warehouse floor. He spoke again, changing the phrase for another group. He could do about twenty or thirty at a time—he remembered the process taking hours the last time.
 He continued. He would leave the Lifeless with their basic instructions to obey the servants when they asked the creatures to exercise or go to the infirmary. He’d give them a lesser Command that could be used to move them about and make them march to specific locations, as when they had been placed in ranks outside the city to greet Siri, and another to make them go with members of the city guard to provide extra muscle.
 Yet there would only be one person with ultimate command of them. One person who could make them go to war. When he was done in this room, he would move on, taking utter command of Allmother’s ten thousand as well.
 He would draw both armies to him. And in doing so, he would take his place at the very heart of the fate of two kingdoms.
@@ -5942,7 +5913,7 @@ Siri nodded. “All right,” she said. “Let’s try it.”
 Vasher found her practicing again.
 He hovered outside the window, lowered down from the roof via an Awakened rope which gripped him about the waist. Inside, Vivenna repeatedly Awakened a strip of cloth, unaware of Vasher. She Commanded the cloth to wiggle across the room, wrap around a cup, then bring that cup back without spilling.
 _She’s learning so quickly_, he thought. The Commands themselves were simple to say, but providing the right mental impulse was difficult. It was like learning to control a second body. Vivenna was quick. Yes, she had a lot of Breath. That made it easier, but true Instinctive Awakening—the ability to Awaken objects without training or practice—was a gift granted only by the Sixth Heightening. That was one step beyond even what Returned had, with their single deific Breath. Vivenna was far from that stage. She learned faster than she should have, even if he knew she was frustrated by how often she got things wrong.
-Even as he watched, she made a mistake. The cloth wiggled across the room, but climbed into the cup instead of wrapping around it. It shook, making the cup fall over, then the rope finally returned, leaving a soggy trail. Vivenna cursed and walked over to refill the cup. She never noticed Vasher hanging just outside. He wasn’t surprised—he was currently a Drab, his excess Breath stored in his shirt.
+Even as he watched, she made a mistake. The cloth wiggled across the room, but climbed into the cup instead of wrapping around it. It shook, making the cup fall over, then the cloth finally returned, leaving a soggy trail. Vivenna cursed and walked over to refill the cup. She never noticed Vasher hanging just outside. He wasn’t surprised—he was currently a Drab, his excess Breath stored in his shirt.
 She replaced the cup, and he pulled himself up as she walked back. Of course, the mechanics of how he moved about with the ropes were far more complicated than they seemed. His Command incorporated making the rope respond to taps of his finger along its length. Awakening was different from creating a Lifeless—Lifeless had brains and could interpret Commands and requests. The rope had none of that; it could only act on its original instructions.
 With a few taps, he lowered himself again, Vivenna faced away from him as she picked up another colored swatch to use as fuel when she Awakened her cup-fetching ribbon.
 _I like her_, Nightblood said. _I’m glad we didn’t kill her._
@@ -5990,12 +5961,12 @@ Vivenna flushed, hair twinging red. The sword he had bought her lay on the side 
 “The robbery was a cover,” Vasher said. “The real hit was that carriage. Denth promised the thieves something valuable if they committed a robbery and started a fire, both as distractions to get at the carriage.”
 “Why?” Vivenna asked.
 “I’m not sure.”
-“Coins?” Vivenna asked. “When Tonk Fah hit the horse, it knocked a chest off the top. It was filled with gold.”
+“Coins?” Vivenna asked. “When Clod hit the horse, it knocked a chest off the top. It was filled with gold.”
 “What happened then?” Vasher asked.
 “I left with some others. I thought the carriage itself was the distraction, and once it went down, I was supposed to pull out.”
 “Denth?”
 “He wasn’t there, come to think of it,” Vivenna said. “The others told me he was working with the thieves.”
-Vasher nodded, walking over to his pack. He threw aside the bedrolls then took out several articles of clothing. He pulled off his shirt, exposing a well-muscled—and rather hairy—torso. Vivenna blinked in surprise, then blushed. She probably should have turned aside, but the curious part of her was too strong. What was he doing?
+Vasher nodded, walking over to his pack. He threw aside the bedrolls, then took out several articles of clothing. He pulled off his shirt, exposing a well-muscled—and rather hairy—torso. Vivenna blinked in surprise, then blushed. She probably should have turned aside, but the curious part of her was too strong. What was he doing?
 He didn’t remove his trousers, thankfully, but instead threw on a different shirt. The sleeves of this one were cut into long ribbons near the wrists.
 “Upon call,” he said, “become my fingers and grip that which I must.”
 The cuff tassels wiggled.
@@ -6030,7 +6001,7 @@ As soon as she placed the Breath, the dullness returned. Everything seemed dead 
 “Let’s go,” Vasher said, moving out into the darkness.
 Night in T’Telir was very different from her homeland. There, it had been possible to see so many stars overhead that it looked like a bucket of white sand had been dashed into the air. Here, there were street lamps, taverns, restaurants, and houses of entertainment. The result was a city full of lights—a little like the stars themselves had come down to inspect grand T’Telir. And yet, Vivenna was still saddened by how few real stars she saw in the sky.
 None of that meant that the places they were going were by any means bright. Vasher led her through the streets, and he quickly became little more than a hulking shadow. They left behind places with street lights, and even lit windows, moving into an unfamiliar slum. This was one of those she’d been afraid to enter, even when she lived on the streets. The night seemed to grow even darker as they entered and walked down one of the twisting, dark alleys that passed for streets in such places. They remained silent. Vivenna knew not to speak and draw attention.
-Eventually, Vasher pulled to a stop. He pointed toward a building: singlestory, flat-topped, and wide. It sat alone, in a depression, shanties built from refuse covering the low hill behind it. Vasher waved for her to stay back, then quietly put the rest of his Breath into his rope and crept forward up the hill.
+Eventually, Vasher pulled to a stop. He pointed toward a building: single-story, flat-topped, and wide. It sat alone, in a depression, shanties built from refuse covering the low hill behind it. Vasher waved for her to stay back, then quietly put the rest of his Breath into his rope and crept forward up the hill.
 Vivenna waited, nervous, kneeling beside a decaying shanty that appeared to have been built from half-crumbling bricks. _Why did I come?_ she thought. _He didn’t tell me to—he simply said that I could. I could just as easily have stayed behind._
 But she was tired of things happening _to_ her. She had been the one to point out that maybe there was a connection between the priest and Denth’s plan. She wanted to see this to the end. Do something.
 That had been easy to think back in the lit room. It didn’t help her nerves that, looming to the left side of the shanty was one of the D’Denir statues. There had been some of them in the Highland slums as well, though most of those had been defaced or broken.
@@ -6053,7 +6024,7 @@ He put the Breath back into his cloak with a protection Command, then led the wa
 Vasher moved forward; she could only tell because of the quiet rustling of his clothing. She followed and was curious to see light ahead. She could also hear voices. Men talking, and laughing.
 Soon she could see Vasher’s silhouette; she moved up next to him, peeking out of their tunnel and into an earthen room. There was a fire burning at the center, the smoke twisting up through a hole in the ceiling. The upper chamber—the building itself—was probably just a front, for the chamber down here looked very lived-in. There were piles of cloth, bed rolls, pots and pans. All of it as dirty as the men who sat around the fire, laughing.
 Vasher gestured to the side. There was another tunnel a few feet to the side of the one they were hiding in. Vivenna’s heart jumped in shock as Vasher crept into the room and toward the second tunnel. She glanced at the fire. The men were very focused on their drinking, and were blinded by the light. They didn’t seem to notice Vasher.
-She took a deep breath, then followed into the shadows of the large room, feeling exposed with the firelight to her back. Vasher didn’t go far, however, before stopping. Vivenna nearly collided with him. He stood there for a few moments; finally, Vivenna poked him in the back, trying to get him to move aside so that she could see what he was doing. He shuffled, letting her see what was before him.
+She took a deep breath, then followed into the shadows of the large room, feeling exposed with the firelight to her back. Vasher didn’t go far, however, before stopping. Vivenna nearly collided with him. He stood there for a few moments; finally, Vivenna poked him in the back, trying to get him to move so that she could see what he was doing. He shuffled aside, letting her see what was before him.
 This tunnel ended abruptly—apparently, it wasn’t so much a tunnel as a nook. Nestled against the back of the nook was a cage, about as high as Vivenna’s waist. Inside the cage was a child.
 Vivenna gasped softly, pushing past Vasher and kneeling down beside the cage. _The valuable thing in the carriage_, she thought, making the connection. _It wasn’t the coins. It was the priest’s daughter. The perfect bargaining chip if you wanted to blackmail someone into changing their position at court._
 As Vivenna knelt, the girl pulled back in the cage, sniffling quietly and quivering. The cage stank of human waste, and the child was covered in grime—all except for lines on her cheeks, which had been streaked clean by tears.
@@ -6076,7 +6047,7 @@ The thread wiggled a bit, but when she stuck it into the lock, nothing happened.
 She withdrew the Breath, took a few calming breaths of her own, then closed her eyes.
 _Have to get the intention right. Need it to go inside, twist the tumbler free._
 “Twist things,” she said, feeling the Breath leave her. She stuck the thread into the lock. It spun about, and she heard a click. The door opened. The sounds of fighting from behind stopped, though men continued to moan.
-Vivenna recovered her Breath then reached into the cage. The girl cringed, crying out and hiding her face.
+Vivenna recovered her Breath, then reached into the cage. The girl cringed, crying out and hiding her face.
 “I’m a friend,” Vivenna said soothingly. “Please, I’m here to help you.” But the girl wiggled, screaming when touched. Frustrated, Vivenna turned back toward Vasher.
 He stood beside the fire, head bowed, bodies strewn around him. He held Nightblood in one hand, sheathed tip resting back against the dirty floor. And, for some reason, he seemed _larger_ than he had a few moments ago. Taller. Broader of shoulders. More threatening.
 Vasher’s other hand was on Nightblood’s hilt. The sheath clasp was undone, and black smoke crept out, off of the blade, some pouring toward the ground, some floating up toward the ceiling. As if it couldn’t decide.
@@ -6110,7 +6081,7 @@ Vasher didn’t reply.
 Vasher began walking. Vivenna hurriedly caught up.
 “Are we going home?” the girl asked. “Where have we been? It’s late, and I shouldn’t be out. Who’s that woman?”
 _She doesn’t remember_, Vivenna realized. _Doesn’t remember where she’s been . . . probably doesn’t remember anything of the entire experience._
-Vivenna looked again at Vasher, walking with his ragged beard, eyes forward, child in one arm, Nightblood in the other. He walked right up to a mansion’s gates then kicked them open. He moved onto the mansion grounds, and Vivenna following more nervously.
+Vivenna looked again at Vasher, walking with his ragged beard, eyes forward, child in one arm, Nightblood in the other. He walked right up to a mansion’s gates, then kicked them open. He moved onto the mansion grounds, Vivenna following more nervously.
 A pair of guard dogs began barking. They howled and growled, getting closer. Vivenna cringed. Yet, as soon as they saw Vasher, they grew quiet, then trailed along happily, one hopping up and trying to lick his hands.
 _What in the name of the Colors is going on?_
 Some people were gathering at the front of the mansion, holding lanterns, trying to see what had caused the barking. One saw Vasher, said something to the others, then disappeared back inside. By the time Vivenna and Vasher had reached the front patio, a man had appeared at the front doors. He wore a white nightgown and was guarded by a couple of soldiers. They stepped forward to block Vasher, but the man in the nightgown rushed between them, crying out. He wept as he took the child from Vasher’s arms.
@@ -6149,14 +6120,12 @@ He was rough. He was brutal. He had a terrible temper. But he was a good man. An
 
 # 50
 “And so we each have twenty thousand,” Blushweaver said, walking beside Lightsong on the stone pathway that led in a circle around the arena.
-“Yes,” Lightsong said.
-Their priests, attendants, and servants followed in a holy herd, though the two gods had refused palanquin or parasol. They walked alone, side by side. Lightsong in gold and red. Blushweaver, for once, wearing a gown that actually covered her.
+“Yes,” Lightsong said. Their priests, attendants, and servants followed in a holy herd, though the two gods had refused palanquin or parasol. They walked alone, side by side. Lightsong in gold and red. Blushweaver, for once, wearing a gown that actually covered her.
 _Amazing, how good she looks in something like that_, he found himself thinking, _when she takes the time to respect herself._ He wasn’t certain what made him dislike her revealing outfits. Maybe he’d been a prude in his former life.
 Or maybe he simply was one now. He smiled ruefully to himself. _How much can I really blame on my “old” self? That man is dead. He wasn’t the one who got himself involved in the kingdom’s politics._
 The arena was filling, and—in a rare show—all of the gods would be in attendance. Only Weatherlove was late, but he was often unpredictable.
 _Important events are imminent_, Lightsong thought. _They have been building for years now. Why should I be at the center of them?_
-His dreams the night before had been so odd. Finally, no visions of war. Just the moon. And some odd twisting passages. Like . . . tunnels.
-Many of the gods nodded in respect as he passed their pavilions—though, admittedly, some scowled at him, and a few just ignored him. _What a strange system of rule_, he thought. _Immortals who only last a decade or two—and who have never seen the outside world. And yet the people trust us._
+His dreams the night before had been so odd. Finally, no visions of war. Just the moon. And some odd twisting passages. Like . . . tunnels. Many of the gods nodded in respect as he passed their pavilions—though, admittedly, some scowled at him, and a few just ignored him. _What a strange system of rule_, he thought. _Immortals who only last a decade or two—and who have never seen the outside world. And yet the people trust us._
 _The people trust us._
 “I think we should share the Command phrases with each other, Lightsong,” Blushweaver said. “So that we each have all four, just in case.”
 He didn’t say anything.
@@ -6184,7 +6153,7 @@ She snorted. “Well, then, I feel rather insulted by _your_ presence.”
 “Let me assure you,” she said, “I do appreciate it. In fact, I appreciate it so very much that I would like to give you a break. You can back off. I will bear the awful burden of being the most wonderful of the gods.”
 “I couldn’t possibly let you.”
 “But if you are _too_ wonderful, my dear, you will completely destroy your image.”
-“That image is getting tiresome anyway,” Lightsong said. “I’ve long sought to be the most notoriously laziest of the gods, but I’m realizing more and more that the task is beyond me. The others are all naturally so much more delightfully useless than I am. They just pretend not to be aware of it.”
+“That image is getting tiresome anyway,” Lightsong said. “I’ve long sought to be the most notoriously lazy of the gods, but I’m realizing more and more that the task is beyond me. The others are all naturally so much more delightfully useless than I am. They just pretend not to be aware of it.”
 “Lightsong!” she said. “One could say you begin to sound jealous!”
 “One could also say that my feet smell like guava fruit,” he said. “Just because one _could_ say it doesn’t mean it’s relevant.”
 She laughed. “You’re incorrigible.”
@@ -6247,7 +6216,7 @@ Vivenna joined Vasher along the railing, and he quite unapologetically elbowed o
 “Well?” she asked quietly.
 He shook his head. “If Denth is here, I couldn’t find him.”
 “No surprise, considering the size of this crowd,” Vivenna said quietly. There were bodies all around them—hundreds lining the railing alone. “Where did they all come from? This is far more jammed than the other assembly sessions.”
-He shrugged. “People who are granted a one-time visit to the court can hold their token of entry until they want to use it. A lot of them use those at a general court assembly, rather than one of the smaller meetings. It’s their one chance to see all of the gods together.”
+He shrugged. “People who are granted a one-time visit to the court can hold their token of entry until they want to use it. A lot of them use those at a general Court Assembly, rather than one of the smaller meetings. It’s their one chance to see all of the gods together.”
 Vivenna turned back to look over the throng. She suspected it also had to do with the rumors she’d heard. People thought that this session would be the one where the Pantheon of Returned finally declared war on Idris.
 “Nanrovah argues well,” she said, although she was having trouble hearing him because of the crowds—the Returned apparently had messengers relaying transcripts. She wondered why someone just didn’t order all the people to be quiet. That didn’t seem to be the Hallandren way. They liked chaos. Or, at least, they liked the opportunity to sit and chat while important events were in progress.
 “Nanrovah is being ignored,” Vasher said. “He’s changed his mind twice now on the same issue. He lacks credibility.”
@@ -6287,13 +6256,13 @@ He remained quiet.
 “_Please_, Vasher,” she whispered. “She’s my _sister_. I thought to protect her by ending this war, but if your hunch is right, then the God King himself is one of those who wants to invade Idris. Siri won’t be safe with him.”
 “All right,” Vasher said. “I will do what I can.”
 Vivenna nodded, turning back to the arena. The priests were withdrawing. “Where are they going?”
-“To their gods,” Lightsong said. “To seek the Will of the Pantheon in formal vote.”
+“To their gods,” Vasher said. “To seek the Will of the Pantheon in formal vote.”
 “About the war?” Vivenna asked, feeling a chill.
 Vasher nodded. “It is time.”
 - - -
 Lightsong waited beneath his canopy, a couple of serving men fanning him, a cup of chilled juice in his hand, lavish snacks spread out to his side.
 _Blushweaver brought me into this_, he thought. _Because she was worried that Hallandren would be taken by surprise._
-The priests were consulting with their gods. He could see several of them kneeling before their Returned, heads bowed. It was the way that government worked in Hallandren. The priests debated their options then they sought the will of the gods. That would become the Will of the Pantheon. That would become the Will of Hallandren itself. Only the God King could veto a decision of the full Pantheon.
+The priests were consulting with their gods. He could see several of them kneeling before their Returned, heads bowed. It was the way that government worked in Hallandren. The priests debated their options and then they sought the will of the gods. That would become the Will of the Pantheon. That would become the Will of Hallandren itself. Only the God King could veto a decision of the full Pantheon.
 And he had chosen not to attend this meeting.
 _So self-congratulatory on spawning a child that he couldn’t even bother with the future of his people?_ Lightsong thought with annoyance. _I had hoped he was better than that._
 Llarimar approached. Though he had been down below with the other high priests, he had offered no arguments to the court. Llarimar tended to keep his thoughts to himself.
@@ -6368,8 +6337,8 @@ _You are afraid_, Nightblood said.
 _I do. You don’t like killing Returned. You’re afraid of them._
 The sword was wrong, of course. But, on the outside, Vasher supposed that his hesitation did look like fear. It had been a long time since he’d dealt with the Returned. Too many memories. Too much pain.
 He made his way to the God King’s palace. The structure was old, far older than the palaces that surrounded it. Once, this place had been a seaside outpost, overlooking the bay. No city. No colors. Just the stark, black tower. It amused Vasher that it had become the home of the God King of the Iridescent Tones.
-Vasher slid Nightblood into a strap on his back then jumped from the wall toward the palace. Awakened tassels around his legs gave him extra strength, letting him leap some twenty feet. He slammed against the side of the building, smooth onyx blocks rubbing his skin. He twitched his fingers, and the tassels on his sleeves grabbed on to the ledge above him, holding him tight.
-He breathed. The belt at his waist—touching his skin, as always—Awakened. Color drained from the kerchief tied to his leg beneath his trousers.
+Vasher slid Nightblood into a strap on his back, then jumped from the wall toward the palace. Awakened tassels around his legs gave him extra strength, letting him leap some twenty feet. He slammed against the side of the building, smooth onyx blocks rubbing his skin. He twitched his fingers, and the tassels on his sleeves grabbed on to the ledge above him, holding him tight.
+He Breathed. The belt at his waist—touching his skin, as always—Awakened. Color drained from the kerchief tied to his leg beneath his trousers.
 “Climb things, then grab things, then pull me up,” he Commanded. Three Commands in one Awakening, a difficult task for some. For him, however, it had become as simple as blinking.
 The belt untied itself, revealing it to be far longer than it looked when wrapped around him. The twenty-five feet of rope snaked up the side of the building, curling inside of a window. Seconds later, the rope hauled Vasher up and into the air. Awakened objects could, if created well, have much more strength than regular muscles. He’d once seen a small group of ropes not much thicker than his own lift and toss boulders at an enemy fortification.
 He released his tassel grips, then pulled Nightblood free as the rope deposited him inside the building. He knelt silently, eyes searching the darkness. The room was unoccupied. Carefully, he drew back his Breath, then wrapped the rope around his arm and held it in a loose coil. He stalked forward.
@@ -6405,7 +6374,7 @@ She squirmed, but the rope tied her tightly. He felt a little stab of guilt as h
 He held her like that for a time, watching her squirm, feeling unhappy with himself. Finally, he relaxed the tassels, keeping the sword against her cheek. She began to vomit, and he turned her to the side.
 “Tell me,” he whispered.
 “Southern corner,” the girl whispered, trembling, spittle on her cheek. “This floor.”
-Vasher nodded, then tied her up with the rope, gagged her, and took his Breath back. He pushed Nightblood back into the sheath then rushed down the hallway.
+Vasher nodded, then tied her up with the rope, gagged her, and took his Breath back. He pushed Nightblood back into the sheath and then rushed down the hallway.
 _You won’t kill a god who plans to march his armies to war?_ Nightblood asked. _But you’ll nearly choke a young woman to death?_
 It was a complicated statement for the sword. However, it lacked the accusation that a human would have put into the words. To Nightblood it really was just a question.
 _I don’t understand my morality either_, Vasher thought. _I’d suggest you avoid confusing yourself._
@@ -6441,7 +6410,7 @@ Denth rolled his eyes. “Stop whining; I just saved your life. Go check on the 
 # 52
 Lightsong sat in one of the rooms of his palace, surrounded by finery, a cup of wine in his hand. Despite the very late hour, servants moved in and out, piling up furniture, paintings, vases, and small sculptures. Anything that could be moved.
 The riches sat in heaps. Lightsong lounged back on his couch, ignoring empty plates of food and broken cups, which he refused to let his servants take away.
-A pair of servants entered, carrying a red and gold couch. They propped it up by the far wall, nearly toppling a pile of rugs. Lightsong watched them leave then downed the rest of his wine. He dropped the empty cup to the floor beside the others, and held out his hand for another full one. A servant provided, as always.
+A pair of servants entered, carrying a red and gold couch. They propped it up by the far wall, nearly toppling a pile of rugs. Lightsong watched them leave, then downed the rest of his wine. He dropped the empty cup to the floor beside the others and held out his hand for another full one. A servant provided, as always.
 He wasn’t drunk. He couldn’t get drunk.
 “Do you ever feel,” Lightsong said, “like something is going on? Something far greater than you are? Like a painting you can only see the corner of, no matter how you squint and search?”
 “Every day, Your Grace,” Llarimar said. He sat on a stool beside Lightsong’s couch. As always, he watched events calmly, though Lightsong could sense the man’s disapproval as another group of servants piled several marble figurines in the corner.
@@ -6470,7 +6439,7 @@ Llarimar sat for a moment. Then, carefully, he removed the large miter from his 
 Lightsong nodded.
 “And as a friend,” Llarimar said, “I honestly have trouble deciding what I would do. I didn’t argue on the floor of the court.”
 “You rarely do,” Lightsong said.
-“I’m worried,” Llarimar said, wiping his brow with a kerchief, shaking his head. “I don’t think we can ignore the threat to our kingdom. The fact of the matter is, Idris _is_ a rebel faction living within our borders. We’ve ignored them for years, enduring under their almost tyrannical control of the northern passes.”
+“I’m worried,” Llarimar said, wiping his brow with a kerchief, shaking his head. “I don’t think we can ignore the threat to our kingdom. The fact of the matter is, Idris _is_ a rebel faction living within our borders. We’ve ignored them for years, enduring their almost tyrannical control of the northern passes.”
 “So you’re for attacking?”
 Llarimar paused, then shook his head. “No. No, I don’t think that even Idris’s rebellion can justify the slaughter it would take to get those passes back.”
 “Great,” Lightsong said flatly. “So, you think we should go to war, but not attack.”
@@ -6493,7 +6462,7 @@ _That will have to be enough._
 Lightsong crouched down, peeking through the bushes toward Mercystar’s palace. Most of the windows were dark. That was good. However, she still had a number of guards patrolling the palace. She was afraid of another break-in.
 And rightly so.
 In the distance, he saw the moon just barely rising into the night sky. It almost matched the position he had seen in his dream the night before, the same dream where he’d seen the tunnels. Were these things really symbols? Signs from the future?
-He still resisted. The truth was, he didn’t want to believe he was a god. It implied too many things. But he couldn’t ignore the images, even if they were just spoken from his subconscious. He had to get into those passages beneath the Court of Gods. Had to see if, at last, if there _was_ something prophetic about what he had seen.
+He still resisted. The truth was, he didn’t want to believe he was a god. It implied too many things. But he couldn’t ignore the images, even if they were just spoken from his subconscious. He had to get into those passages beneath the Court of Gods. Had to see if, at last, there _was_ something prophetic about what he had seen.
 The timing seemed important. The rising moon . . . just another degree or so.
 _There_, he thought, looking down from the sky. A guard patrol was approaching.
 “Your Grace?” Llarimar asked, sounding more nervous. The portly high priest knelt on the grass beside Lightsong.
@@ -6531,7 +6500,7 @@ The tunnel was obviously man-made, and resembled Lightsong’s idea of a mine sh
 “Figured it out yet?” Lightsong asked, turning to Llarimar, who had taken one of the lanterns, as this tunnel didn’t have any light of its own.
 “The Lifeless barracks,” Llarimar said. “If this tunnel continues this way, it will lead directly to them.”
 Lightsong nodded. “Why would they need a secret tunnel to the barracks? Any god can go there whenever he wants.”
-Llarimar shook his head, and they continued down the tunnel. Sure enough, after a short time, they arrived at a trapdoor in the ceiling which—when pushed up—led into one of the dark, Lifeless warehouses. Lightsong shivered, looking out at the endless rows of legs, barely illuminated by his lamp. He pulled his head back down, closed the trapdoor, and they followed the tunnel further.
+Llarimar shook his head, and they continued down the tunnel. Sure enough, after a short time, they arrived at a trapdoor in the ceiling that—when pushed up—led into one of the dark Lifeless warehouses. Lightsong shivered, looking out at the endless rows of legs, barely illuminated by his lamp. He pulled his head back down, closed the trapdoor, and they followed the tunnel further.
 “It goes in a square,” he said quietly.
 “With doors up into each of the Lifeless barracks I’ll bet,” Llarimar said. He reached out, taking a piece of dirt from the wall and crumbling it between his fingers. “This tunnel is newer than the one we were in up above.”
 Lightsong nodded. “We should keep moving,” he said. “Those guards in Mercystar’s palace know we’re down here. I don’t know who they’ll tell, but I’d rather finish exploring before we get chased out.”
@@ -6605,7 +6574,7 @@ Old Chapps, they called him. Those who called him anything, that is.
 He sat in his little boat, moving slowly across the dark water of the bay. Night fishing. During the day, one had to pay a fee to fish in T’Telir waters. Well, technically, during the night you were supposed to pay too.
 But the thing about night was, nobody could see you. Old Chapps chuckled to himself, lowering his net over the side of the boat. The waters made their characteristic lap, lap, lap against the side of the boat. Dark. He liked it dark. Lap, lap, lap.
 Occasionally, he was given better work. Taking bodies from one of the city’s slumlords, weighting them down with rocks tied in a sack to the foot, then tossing them into the bay. There were probably hundreds of them down there, floating in the current with their feet weighed to the floor. A party of skeletons, having a dance. Dance, dance, dance.
-No bodies tonight, though. Too bad. That meant fish. Free fish, he didn’t have to pay tariffs on. And free fish were good fish.
+No bodies tonight, though. Too bad. That meant fish. Free fish he didn’t have to pay tariffs on. And free fish were good fish.
 _No . . ._ a voice said to him. _A little bit more to your right._
 The sea talked to him sometimes. Coaxed him this way or that. He happily made his way in the direction indicated. He was out on the waters almost every night. They should know him pretty well by now.
 _Good. Drop the net._
@@ -6632,7 +6601,7 @@ Vasher didn’t reply.
 Denth backhanded him across the face, causing him to swing from the hook. “Arsteel was a good man!”
 “Once,” Vasher said, tasting blood. “Once, we were all good men, Denth. Once.”
 Denth was quiet. “You think your little quest here will undo what you’ve done?”
-“Better than becoming a mercenary,” Vasher said. “Working for whomever will pay.”
+“Better than becoming a mercenary,” Vasher said. “Working for whoever will pay.”
 “I am what you made me,” Denth said quietly.
 “That girl trusted you. Vivenna.”
 Denth turned, eyes darkened, the lanternlight not quite reaching his face. “She was supposed to.”
@@ -6672,7 +6641,7 @@ Lightsong looked back at Blushweaver. “How long?” he asked. “How long were
 She shook her head, glancing down. “They claimed I didn’t do my part. That I was withholding things from them.”
 “Were you?”
 She looked away, eyes tearstained. She looked very odd, sitting in her cell. A beautiful woman of deific proportions, wearing a delicate silk gown, sitting on the ground, surrounded by bars. Crying.
-_We have to get out of here_, Lightsong thought. He crawled over to the bars separating his cage from Llarimar’s ignoring the pain of his thigh. “Scoot,” he hissed. “Scoot!”
+_We have to get out of here_, Lightsong thought. He crawled over to the bars separating his cage from Llarimar’s, ignoring the pain of his thigh. “Scoot,” he hissed. “Scoot!”
 Llarimar glanced up. He looked haggard.
 “What does one use to pick a lock?” Lightsong asked.
 Llarimar blinked. “What?”
@@ -6687,8 +6656,7 @@ _What?_ Lightsong thought.
 Lightsong stumbled back from the bars, shocked. Llarimar. _Llarimar_ was yelling.
 “And every time,” Llarimar said, turning away, “_I_ get in trouble with you. Nothing has changed. You become a god, and I _still_ end up in prison!”
 The heavy priest slumped down, breathing in deep gasps, shaking his head in obvious frustration. Blushweaver was staring at them. And so were the priests.
-_What is it I find odd about them?_ Lightsong thought, trying to sort out his thoughts and emotions as the group of priests approached.
-“Lightsong,” one of them said, stooping down beside his cage. “We need your Command phrases.”
+_What is it I find odd about them?_ Lightsong thought, trying to sort out his thoughts and emotions as the group of priests approached. “Lightsong,” one of them said, stooping down beside his cage. “We need your Command phrases.”
 He snorted. “I’m sorry to say that I’ve forgotten them. You probably know my reputation for being weak-minded. I mean, what kind of fool would come charging in here and get himself captured so easily?”
 He smiled at them.
 The priest by his cage sighed, then waved a hand at the others. They unlocked Blushweaver’s cage and pulled her out. She yelled and fought, and Lightsong smiled at the trouble she gave them. Yet there were six priests, and they finally managed to get her out.
@@ -6724,8 +6692,7 @@ He snorted, holding out his cup to those few who passed in the early light. Tuft
 “Huh?”
 “Living among you,” she said. “I figured your life couldn’t be easy. But I couldn’t know—not really _know_—until I tried it for myself. So I came to the streets. Determined to live here for a time.”
 “Foolish thing to do.”
-“No,” she said. “The fools are those who pass, without even thinking about what it must be like to live like you. Maybe if they knew, they’d give you something.”
-She reached into her pocket, pulling out one of the bright handkerchiefs. She placed one in the cup. “I don’t have any coins, but I know you can sell that.”
+“No,” she said. “The fools are those who pass, without even thinking about what it must be like to live like you. Maybe if they knew, they’d give you something.” She reached into her pocket, pulling out one of the bright handkerchiefs. She placed one in the cup. “I don’t have any coins, but I know you can sell that.”
 He grunted, eyeing it. “What do you mean by word on the street?”
 “Disturbances,” Vivenna said. “Ones that are out of the ordinary. Perhaps involving Awakeners.”
 “Go to the Third Dock slums,” Tuft said. “Look around the buildings near the wharf. Maybe you’ll find what you’re looking for there.”
@@ -6848,15 +6815,14 @@ He met Lightsong’s eyes. “You _are_ a god. To me, at least. It doesn’t mat
 “There is fighting at the front gates, Your Excellency,” the bloodied soldier said. “The insurgents are fighting each other there. We . . . we might be able to get out.”
 Siri felt a stab of relief. Finally, something going right.
 Treledees turned toward her. “If we can get into the city, the people will rally around their God King. We should be safe there.”
-“Where did they get so many Lifeless?” Siri asked.
-Treledees shook his head. They had paused in a room near the front of the palace, desperate, yet unsure. Breaking through the Pahn Kahl fortification of the Court of Gods was bound to be difficult.
+“Where did they get so many Lifeless?” Siri asked. Treledees shook his head. They had paused in a room near the front of the palace, desperate, yet unsure. Breaking through the Pahn Kahl fortification of the Court of Gods was bound to be difficult.
 She looked up at Susebron. His priests treated him like a child—they gave him respect, but they obviously gave no thought to ask his opinion. For his part, he stood, hand on her shoulder. She saw thoughts and ideas working behind those eyes of his, but there was nothing for him to write on to tell her.
 “Vessel,” Treledees said, drawing her attention. “You need to know something.”
 She looked at him.
 “I hesitate to mention this,” Treledees said, “as you are not a priest. But . . . if you survive and we do not . . .”
 “Speak it,” she commanded.
 “You cannot bear the God King a child,” he said. “Like all Returned, he is unable to sire children. We have not yet learned how the First Returned managed to have a child all those years ago. In fact . . .”
-“You don’t even think he did,” she said. “You think the royal line is a fabrication.” _Of course the priests dispute the record of the royal line coming from the first Returned_, she thought. _They wouldn’t want to give credibility to Idris’s claim to the throne._
+“You don’t even think he did,” she said. “You think the royal line is a fabrication.” _Of course the priests dispute the record of the royal line coming from the First Returned_, she thought. _They wouldn’t want to give credibility to Idris’s claim to the throne._
 He flushed. “It’s what people believe that matters. Regardless, we . . . have a child . . .”
 “Yes,” Siri said. “A Returned child you are going to make the next God King.”
 He looked at her, shocked. “You _know?_”
@@ -6914,7 +6880,7 @@ She could just barely see a corner of her cloak holding an arrow. She started, g
 _Handy, that_, she thought, climbing up the last block. By the time she got on top of it, her arms were sore. Fortunately, her Awakened fingers were still gripping as well as ever. She took a deep breath, then began to climb straight up the upper wall of the black fortress, using the carvings as handholds.
 And decided, for her own sanity, that she’d better avoid looking down.
 - - -
-Lightsong stared ahead. Too much information. To much was happening. Blushweaver’s murder, then Llarimar’s revelation, the betrayal of the God King’s priests all in such quick succession.
+Lightsong stared ahead. Too much information. Too much was happening. Blushweaver’s murder, then Llarimar’s revelation, the betrayal of the God King’s priests all in such quick succession.
 He sat in his cell, arms wrapped around himself, gold and red robes dirtied from crawling through the tunnel, then sitting in his cage. His thigh ached from where it had been struck with the sword, though the wound had not been bad, and it was barely bleeding anymore. He ignored the pain. It was insignificant compared to the pain inside.
 The priests talked quietly on the far side of the room. Oddly, as he glanced at them, something caught his eye. He let his mind be diverted by the realization—he finally grasped what was bothering him about them. He should have seen it earlier. It had to do with color—not the color of their clothing, but the color of their faces. It was just slightly off. The deviation in one man would have been easy to ignore. But all of them together was a pattern.
 No regular person could have noticed it. To a man with his Heightenings, it was obvious, once he knew what to look for.
@@ -6929,14 +6895,14 @@ Siri walked with Susebron’s nervous arm around her waist. She didn’t know wh
 “You can’t do this, Bluefingers,” Siri said, snapping at the little balding man.
 “It is the only way we’d ever be able to break free,” Bluefingers said, not turning, but finally responding to her.
 “But you can’t!” Siri said. “The Idrians are innocent!”
-Bluefingers shook his head. “How many of my people would you sacrifice, if it would mean the freedom for yours?”
+Bluefingers shook his head. “How many of my people would you sacrifice, if it would mean freedom for yours?”
 “None!” she said.
 “I should like to see you say that if our positions were reversed,” he said, still not meeting her eyes. “I’m . . . sorry for your pain. But your people are _not_ innocent. They’re just like the Hallandren. In the Manywar, you rolled over us, made us your workers and slaves. Only at the end, when the royal family fled, did Idris and Hallandren split.”
 “Please,” Siri said.
 Susebron suddenly punched a Lifeless.
 The God King growled, struggling as he kicked at another. There were dozens of them. He looked at her, waving a hand, motioning for her to flee. She didn’t intend to leave him. Instead, she tried to grab Bluefingers, but a Lifeless was too quick. It took her arm, holding her firm, even when she batted at it. A couple of men wearing the robes of Susebron’s priesthood came out of a stairwell ahead of them, carrying lanterns. Siri, looking closely, immediately recognized them as being from Pahn Kahl. They were too short and their skin color was just slightly off.
 _I’ve been a fool_, she thought.
-Bluefingers had played the game so well. He’d driven a wedge between her and the priests from the start. Most of her fears and worries, she’d gotten from him—and it had been reinforced by the priest’s arrogance. All part of the scribe’s plan to someday use her to gain freedom for his people.
+Bluefingers had played the game so well. He’d driven a wedge between her and the priests from the start. Most of her fears and worries, she’d gotten from him—and it had been reinforced by the priests’ arrogance. All part of the scribe’s plan to someday use her to gain freedom for his people.
 “We have Lightsong’s security phrase,” one of the new men said to Bluefingers. “We have checked it, and it works. We changed it to the new one. The rest of the Lifeless are ours.”
 Siri glanced to the side. The Lifeless had pulled Susebron to the ground. He yelled—though it came out as more a moan. Siri yanked, trying to escape her Lifeless and help him. She began to cry.
 To the side, Bluefingers nodded to his accomplices, looking fatigued. “Very well. Give the Command. Order the Lifeless to march on Idris.”
@@ -7030,7 +6996,7 @@ _Colors, Colors, Colors!_
 _You shouldn’t swear_, a voice said in his head. _Shashara told me that was evil._
 Vasher spun toward the sound. A little line of black smoke was trailing out from beneath the closed front doors of the palace.
 _Aren’t you going to thank me?_ Nightblood said. _I came to save you._
-One of his sets of clothing fell, the leg cut off by soldier’s clever strike. Vasher reached back, drawing the Breath back from the second set of clothing, then stepped with an unclothed toe on the fallen set, recovering the Breath from it as well. The soldiers backed away, wary, more than happy to let the Lifeless take him.
+One of his sets of clothing fell, the leg cut off by a soldier’s clever strike. Vasher reached back, drawing the Breath back from the second set of clothing, then stepped with an unclothed toe on the fallen set, recovering the Breath from it as well. The soldiers backed away, wary, more than happy to let the Lifeless take him.
 And in that moment of peace, Vasher charged for the gates to the palace. He threw his shoulder against them, slamming them open, skidding into the entryway.
 A large group of men lay dead on the ground. Nightblood sprouted from one man’s chest, as usual, hilt pointing toward the sky. Vasher hesitated only briefly. He could hear Lifeless charging up behind him.
 He ran forward and grabbed Nightblood’s hilt and pulled the sword free, leaving the sheath behind in the body.
@@ -7040,7 +7006,7 @@ Each creature he struck with the blade immediately flashed and became smoke. A s
 In a matter of minutes, the Breath Vivenna had given him had been reduced by half. Yet in those moments, he destroyed all fifty Lifeless. The soldiers outside pulled to a halt, watching the display. Vasher stood amidst a churning mass of deep ebony smoke. It slowly rose into the air, the only remnants of the fifty creatures he had destroyed.
 The soldiers ran away.
 Vasher screamed, charging toward the side of the room. He slammed Nightblood through a wall. The stone dissolved just as easily as flesh had, evaporating away before him. He burst through the dissipating black smoke, entering the next room. He didn’t bother with a stairwell. He simply jumped onto a table and rammed Nightblood into the ceiling.
-A circle ten feet wide vanished. Dark, mistlike smoke fell around him like streaks of paint. He Awakened his rope again then tossed it up, using it to pull himself up onto the next floor. A moment later, he did it again, climbing onto the third floor.
+A circle ten feet wide vanished. Dark, mistlike smoke fell around him like streaks of paint. He Awakened his rope again and then tossed it up, using it to pull himself up onto the next floor. A moment later, he did it again, climbing onto the third floor.
 He spun, slashing through walls, bellowing as he ran back toward Denth. The pain in his arm was incredible, and his Breath was draining away at an alarming rate. Once it was gone, Nightblood would kill him.
 Everything was growing fuzzy. He slashed through a final wall, finding the room where he had been tortured.
 It was empty.
@@ -7111,13 +7077,13 @@ Such great, horrible chaos. The sea in a storm at night. He felt useless, his he
 Men cursed. Llarimar screamed. A woman wept. Lightsong just stared into the bubbling deep, with its alternating froth and blackness. The terrible, terrible blackness.
 He still held the rope in his hand.
 Without thinking, he leaped up onto the railing and threw himself into the darkness. Icy water took him, but he reached out, thrashing and churning in the tempest. He barely knew how to swim. Something passed him.
-He grabbed it. Her foot. He threw the loop around her ankle, somehow managing to get the knot tight despite the water and the waves. As soon as he did, a surge in the undulating water yanked him away. Sucking him down. He reached upward, toward where lighting lit the surface. That light grew distant as he sank.
+He grabbed it. Her foot. He threw the loop around her ankle, somehow managing to get the knot tight despite the water and the waves. As soon as he did, a surge in the undulating water yanked him away. Sucking him down. He reached upward, toward where lightning lit the surface. That light grew distant as he sank.
 Down. Into the black deep.
 Claimed by the void.
 He blinked, waves and thunder fading. He sat on the cool stones of his cell. The void had taken him, but something had sent him back. He’d Returned.
 Because he’d seen war and destruction.
 The God King was yelling in fear. Lightsong looked over as the fake priests grabbed Susebron, and Lightsong could see into the God King’s mouth. _No tongue_, Lightsong thought. _Of course. To keep him from using all that BioChroma. It makes sense._
-He turned to the side. Blushweaver’s body lay red and bloodied. He’d seen that it in a vision. In the vague shadows of morning memory, he’d thought that the image had been of her blushing, but now he remembered. He looked to the side. Llarimar, eyes closed as if asleep—that image had been in his dream as well. Lightsong realized the man had them shut as he wept.
+He turned to the side. Blushweaver’s body lay red and bloodied. He’d seen that in a vision. In the vague shadows of morning memory, he’d thought that the image had been of her blushing, but now he remembered. He looked to the side. Llarimar, eyes closed as if asleep—that image had been in his dream as well. Lightsong realized the man had them shut as he wept.
 The God King in prison. Lightsong had seen that too. But above it all, he remembered standing on the other side of a brilliant, colorful wave of light, looking down at the world from the other side. And seeing everything he loved dissolve into the destruction of war. A war greater than any the world had known, a war more deadly—even—than the Manywar.
 He remembered the other side. And he remembered a voice, calm and comforting, offering him an opportunity.
 To Return.
@@ -7175,19 +7141,15 @@ Freed, she grabbed him and let him lift her into his arms, weeping.
 
 # 58
 The closet door opened, letting in lanternlight. Vivenna looked up, gagged and bound, at Vasher’s silhouette. He dragged Nightblood behind him, covered—as usual—by his silver sheath.
-Looking very tired, Vasher knelt and undid her gag.
-“About time,” she noted.
+Looking very tired, Vasher knelt and undid her gag. “About time,” she noted.
 He smiled wanly. “I don’t have any Breath remaining,” he said quietly. “It was very hard to locate you.”
-“Where did it all go?” she asked as he undid the ropes on her hands.
-“Nightblood devoured most of it.”
+“Where did it all go?” she asked as he undid the ropes on her hands. “Nightblood devoured most of it.”
 _I don’t believe him_, Nightblood said happily. _I . . . can’t really remember what happened. But we did slay a lot of evil!_
 “You drew him?” Vivenna asked as Vasher untied her feet.
-Vasher nodded.
-Vivenna rubbed her hands. “Denth?”
+Vasher nodded. Vivenna rubbed her hands. “Denth?”
 “Dead,” Vasher said. “No sign of Tonk Fah or the woman, Jewels. I think they took their money and fled.”
 “So it’s over.”
-Vasher nodded, sliding down to seat himself, resting his head against the wall. “And we lost.”
-She frowned, grimacing at the pain of her wounded shoulder. “What do you mean?”
+Vasher nodded, sliding down to seat himself, resting his head against the wall. “And we lost.” She frowned, grimacing at the pain of her wounded shoulder. “What do you mean?”
 “Denth was being employed by some of the Pahn Kahl scribes in the palace,” Vasher said. “They wanted to start a war between Idris and Hallandren in the hope that it would weaken both kingdoms and let Pahn Kahl gain independence.”
 “So? Denth is dead now.”
 “So are the scribes who had the Command phrases for the Lifeless armies,” Vasher said. “And they already dispatched the troops. The Lifeless left the city over an hour ago, charging for Idris.”
@@ -7362,21 +7324,20 @@ _Colors!_ she thought.
 “There are some thousand original D’Denir in the city,” Vasher said, “and most of them should still function, even still. I created them to last.”
 “But they have no ichor-alcohol,” Vivenna said. “They don’t even have _veins_!”
 Vasher looked at her. It _was_ him. The same look to the face, the same expressions. He hadn’t changed shape to look like someone else. He just looked like a _Returned_ version of himself. What was going on?
-“We didn’t always have ichor-alcohol,” Vasher said. “It makes the Awakening easier and cheaper, but it isn’t the only way. And, in the minds of many, I believe it has become a crutch.” He glanced at the God King again. “You should be able to imprint them quickly with a new security phrase, then order them out to stop the other army. I think you’ll find the phantoms of mine to be . . . very effective. Weapons are virtually useless against the stone.”
+“We didn’t always have ichor-alcohol,” Vasher said. “It makes the Awakening easier and cheaper, but it isn’t the only way. And, in the minds of many, I believe it has become a crutch.” He glanced at the God King again. “You should be able to imprint them quickly with a new security phrase, then order them out to stop the other army. I think you’ll find those phantoms of mine to be . . . very effective. Weapons are virtually useless against the stone.”
 Susebron nodded again.
 “They are your responsibility now,” Vasher said, turning away. “Do better with them than I did.”
 
 # Epilogue
 The next day, an army of a thousand stone soldiers charged from the gates of the city, running down the highway after the Lifeless who had left the day before.
 Vivenna stood outside the city, leaning against the wall, watching them go.
-_How often did I stand under the gaze of those D’Denir_, she thought. _Never knowing they were alive, just waiting to be Commanded again?_ Everyone said that Peacegiver had left the statues behind as a gift to the people, a symbol to remind them not to go to war. She’d always found it strange. A bunch of statues of soldiers, a gift to remind the people that war was terrible?
+_How often did I stand under the gaze of those D’Denir_, she thought, _never knowing they were alive, just waiting to be Commanded again?_ Everyone said that Peacegiver had left the statues behind as a gift to the people, a symbol to remind them not to go to war. She’d always found it strange. A bunch of statues of soldiers, a gift to remind the people that war was terrible?
 And yet, they _were_ a gift. The gift that had ended the Manywar.
 She turned toward Vasher. He, too, leaned against the city wall, Nightblood in one hand. His body had reverted to its mortal form, scraggly hair and all.
 “What was that first thing you taught me about Awakening?” she asked.
 “That we don’t know much?” he asked. “That there are hundreds, perhaps thousands, of Commands that we haven’t discovered yet?”
 “That’s the one,” she said, turning to watch the Awakened statues charge into the distance. “I think you were right.”
-“You think?”
-She smiled. “Will they really be able to stop the other army?”
+“You think?” She smiled. “Will they really be able to stop the other army?”
 “Probably,” Vasher said, shrugging. “They’ll be fast enough to catch up—the flesh Lifeless won’t be able to march as quickly as ones with stone feet. I’ve seen those things fight before. They’re _really_ tough to beat.”
 She nodded. “So my people will be safe.”
 “Unless that God King decides to use the Lifeless statues to conquer them.”
@@ -7408,7 +7369,7 @@ She grunted in assent. “You’re still Returned, though.”
 “But—”
 “They’re of the Fifth Heightening,” Vasher said, interrupting her. “But they don’t get there by the number of Breaths, but by the quality. Returned have a single, powerful Breath. One that takes them all the way to the Fifth Heightening. It’s a divine Breath, you might say. But their body feeds on Breath, like . . .”
 “The sword.”
-Vasher nodded. “Nightblood only needs it when he’s drawn. Returned feed off their Breath once a week. So if you don’t give them one, they essentially eat themselves—devouring their one, single Breath. Killing them. However, if you give them extra Breath, on top of their single divine one, they’ll feed off those each week.”
+Vasher nodded. “Nightblood only needs it when he’s drawn. Returned feed off their Breath once a week. So if you don’t give them one, they essentially eat themselves—devouring their one single Breath. Killing them. However, if you give them extra Breath, on top of their single divine one, they’ll feed off those each week.”
 “So the Hallandren gods could be fed more than one,” Vivenna said. “They could have a stock of Breaths, a buffer to keep them alive if one couldn’t be provided.”
 Vasher nodded. “Wouldn’t make them as dependent on their religion to care for them, though.”
 “That’s a cynical way of looking at it.”
@@ -7481,16 +7442,29 @@ Note Three: The numbers given in the table above are only estimates, as very lit
 Note Four: Each additional Breath grants some things, no matter which Heightening an Awakener has achieved. The more breath one has, the more resistant to disease and aging a person is, the easier it is for them to distinguish colors, the more naturally they can learn to Awaken, and the stronger their life sense.
 
 # HEIGHTENING POWERS
-**Aura Recognition:** The First Heightening grants a person the ability to see the Breath auras of others instinctively. This allows them to judge roughly how many Breaths the person contains and the general health of that Breath. Persons without this Heightening have a much more difficult time judging auras directly, and must rely instead on how deeply the colors around a person change when they enter the aura. Without at least the First Heightening, it is impossible for the naked eye to notice an Awakener who has fewer than about thirty Breaths.
-**Perfect Pitch:** The Second Heightening grants perfect pitch to those who achieve it.
-**Perfect Color Recognition:** While each gained Breath leads a person to greater appreciation of colors, it isn’t until one reaches the Third Heightening that one can instantly and instinctively determine exact shades of colors and their hue harmonics.
-**Perfect Life Sense:** At the Fourth Heightening, an Awakener’s life sense achieves its maximum strength.
-**Agelessness:** At the Fifth Heightening, an Awakener’s resistance to aging and disease reaches its maximum strength. These persons are immune to most toxins, including the effects of alcohol, and most physical ailments. (Such as headaches, diseases, and organ failure.) The person no longer ages, and becomes functionally immortal.
-**Instinctive Awakening:** All persons of the Sixth Heightening and above immediately understand and can use basic Awakening Commands without training or practice. More difficult Commands are easier for them to master and to discover.
-**Breath Recognition:** Those few persons who have reached the Seventh Heightening gain the ability to recognize the auras of objects, and can tell when something has been Invested with Breath via Awakening.
-**Command Breaking:** Any persons of the Eighth Heightening or more gain the ability to override Commands in other Invested objects, including Lifeless. This requires concentration and leaves the Awakener exhausted.
-**Greater Awakening:** Persons of the Ninth Heightening are reportedly able to Awaken stone and steel, though doing so requires large Investitures of Breath and specialized Commands. This ability has not been studied or confirmed.
-**Audible Command:** Persons of the Ninth Heightening also gain the ability to Awaken objects that they are not physically touching, but that are within the sound of their voice.
-**Color Distortion:** At the Tenth Heightening, an Awakener gains the natural and intrinsic ability to bend light around white objects, creating colors from them as if from a prism.
-**Perfect Invocation:** Awakeners of the Tenth Heightening can draw more color from the objects they use to fuel their art. This leaves objects drained to white, rather than grey.
-**Other:** There are rumors of other powers granted by the Tenth Heightening which are not understood or have not been made known by those who have achieved it.
+**Aura Recognition:**
+The First Heightening grants a person the ability to see the Breath auras of others instinctively. This allows them to judge roughly how many Breaths the person contains and the general health of that Breath. Persons without this Heightening have a much more difficult time judging auras directly, and must rely instead on how deeply the colors around a person change when they enter the aura. Without at least the First Heightening, it is impossible for the naked eye to notice an Awakener who has fewer than about thirty Breaths.
+**Perfect Pitch:**
+The Second Heightening grants perfect pitch to those who achieve it.
+**Perfect Color Recognition:**
+While each gained Breath leads a person to greater appreciation of colors, it isn’t until one reaches the Third Heightening that one can instantly and instinctively determine exact shades of colors and their hue harmonics.
+**Perfect Life Sense:**
+At the Fourth Heightening, an Awakener’s life sense achieves its maximum strength.
+**Agelessness:**
+At the Fifth Heightening, an Awakener’s resistance to aging and disease reaches its maximum strength. These persons are immune to most toxins, including the effects of alcohol, and most physical ailments. (Such as headaches, diseases, and organ failure.) The person no longer ages, and becomes functionally immortal.
+**Instinctive Awakening:**
+All persons of the Sixth Heightening and above immediately understand and can use basic Awakening Commands without training or practice. More difficult Commands are easier for them to master and to discover.
+**Breath Recognition:**
+Those few persons who have reached the Seventh Heightening gain the ability to recognize the auras of objects, and can tell when something has been Invested with Breath via Awakening.
+**Command Breaking:**
+Any persons of the Eighth Heightening or more gain the ability to override Commands in other Invested objects, including Lifeless. This requires concentration and leaves the Awakener exhausted.
+**Greater Awakening:**
+Persons of the Ninth Heightening are reportedly able to Awaken stone and steel, though doing so requires large Investitures of Breath and specialized Commands. This ability has not been studied or confirmed.
+**Audible Command:**
+Persons of the Ninth Heightening also gain the ability to Awaken objects that they are not physically touching, but that are within the sound of their voice.
+**Color Distortion:**
+At the Tenth Heightening, an Awakener gains the natural and intrinsic ability to bend light around white objects, creating colors from them as if from a prism.
+**Perfect Invocation:**
+Awakeners of the Tenth Heightening can draw more color from the objects they use to fuel their art. This leaves objects drained to white, rather than grey.
+**Other:**
+There are rumors of other powers granted by the Tenth Heightening that are not understood or have not been made known by those who have achieved it.
