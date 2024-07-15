@@ -12,7 +12,9 @@ June 2009
 <p style="page-break-after: always;">&nbsp;</p>
 
 
-<p style="text-align:center"><b>Warbreaker</b></p>
+<div style="page-break-before: always; text-align: center;">
+    <h1>Warbreaker</h1>
+</div>
 
 <p style="page-break-after: always;">&nbsp;</p>
 <p style="text-align:center"><b>BOOKS BY BRANDON SANDERSON</b></p>
@@ -25,10 +27,10 @@ June 2009
 <p style="text-align:center"><i>Alcatraz Versus the Evil Librarians</i></p>
 <p style="text-align:center"><i>Alcatraz Versus the Scrivener’s Bones</i></p>
 
-<p style="page-break-after: always;">&nbsp;</p>
-<p style="text-align:center"><b>Warbreaker</b></p>
 
-<p style="text-align:center"><b>Brandon Sanderson</b></p>
+<h1 style="text-align: center">Warbreaker</h1>
+
+<h2 style="text-align:center"><b>Brandon Sanderson</b></h2>
 
 <p style="text-align:center">A TOM DOHERTY ASSOCIATES BOOK</p>
 <p style="text-align:center">NEW YORK</p>
@@ -68,7 +70,7 @@ Printed in the United States of America
 <p style="text-align:center"><i>who said yes</i></p>
 
 <p style="page-break-after: always;">&nbsp;</p>
-**Contents**
+# Contents
 
 [TOC]
 
@@ -81,8 +83,9 @@ The first acknowledgment goes to my lovely wife, Emily Sanderson, whom I married
 At Tor, several people have gone well beyond their call of duty. The first is Dot Lin, my publicist, who has been particularly awesome to work with. Thanks, Dot! And, as always, the tireless efforts of Larry Yoder deserve a note, as well as the excellent work of Tor’s art director genius, Irene Gallo. Dan Dos Santos did the cover art of this book, and I strongly suggest you check out his website and his other work, because I think he’s one of the best in the business right now. Also, Paul Stevens deserves a word of thanks for being the in-house liaison for my books.
 In the special thanks department, we have Joevans3, and Dreamking47, Louise Simard, Jeff Creer, Megan Kauffman, thelsdj, Megan Hutchins, Izzy Whiting, Janci Olds, Drew Olds, Karla Bennion, Eric James Stone, Dan Wells, Isaac Stewart, Ben Olsen, Greyhound, Demented Yam, D.Demille, Loryn, Kuntry Bumpken, Vadia, U-boat, Tjaeden, Dragon Fly, pterath, BarbaraJ, Shir Hasirim, Digitalbias, Spink Longfellow, amyface, Richard “Captain Goradel” Gordon, Swiggly, Dawn Cawley, Drerio, David B, Mi’chelle Trammel, Matthew R Carlin, Ollie Tabooger, John Palmer, Henrik Nyh, and the insoluble Peter Ahlstrom.
 
-<p style="page-break-after: always;">&nbsp;</p>
-<p style="text-align:center"><b>Warbreaker</b></p>
+<div style="page-break-before: always; text-align: center;">
+    <h1>Warbreaker</h1>
+</div>
 
 # Prologue
 _It’s funny_, Vasher thought, _how many things begin with my getting thrown into prison._
@@ -7441,7 +7444,7 @@ Note Two: Returned appear to achieve the Fifth Heightening by virtue of their Br
 Note Three: The numbers given in the table above are only estimates, as very little is known about the upper Heightenings. Indeed, even for the lower levels, fewer or more Breaths may be required to achieve a given Heightening, depending on circumstances and the strength of the Breath.
 Note Four: Each additional Breath grants some things, no matter which Heightening an Awakener has achieved. The more breath one has, the more resistant to disease and aging a person is, the easier it is for them to distinguish colors, the more naturally they can learn to Awaken, and the stronger their life sense.
 
-# HEIGHTENING POWERS
+## HEIGHTENING POWERS
 **Aura Recognition:**
 The First Heightening grants a person the ability to see the Breath auras of others instinctively. This allows them to judge roughly how many Breaths the person contains and the general health of that Breath. Persons without this Heightening have a much more difficult time judging auras directly, and must rely instead on how deeply the colors around a person change when they enter the aura. Without at least the First Heightening, it is impossible for the naked eye to notice an Awakener who has fewer than about thirty Breaths.
 **Perfect Pitch:**
